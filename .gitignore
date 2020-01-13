@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+output/*
+tmp/*
+node_modules/
+package-lock.json
