@@ -1,4 +1,7 @@
 
+def formatNumber(n):
+    return "{:,}".format(n)
+
 def lim(value, ab=(0, 1)):
     a, b = ab
     return max(a, min(b, value))
