@@ -75,6 +75,18 @@ def getFilenameFromUrl(url):
     urlObj = urlparse(url)
     return os.path.basename(urlObj.path)
 
+def getFilenames(fileString, verbose=True):
+    files = []
+    if "*" in fileString:
+        files = glob.glob(fileString)
+    else:
+        files = [fileString]
+    fileCount = len(files)
+    files = sorted(files)
+    if verbose:
+        print("Found %s files" % fileCount)
+    return files
+
 def makeDirectories(filenames):
     if not isinstance(filenames, list):
         filenames = [filenames]
@@ -90,7 +102,7 @@ def parseQueryString(queryStr, parseNumbers=True):
             query[key] = mu.parseNumber(query[key])
     return query
 
-def readCsv(filename, headings=False, verbose=True):
+def readCsv(filename, verbose=True):
     rows = []
     fieldnames = []
     if os.path.isfile(filename):

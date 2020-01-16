@@ -2,7 +2,7 @@
 
 # Usage:
 #   The following gets results from Donor "Lumholtz", on display, Mexico and Central America collection, ethnographic type, country Mexico
-#     python3 scrape_data.py -query "object_list=Lumholtz&search_list=dn&on_display=on&coll_id=4&type_base=E&country_list=MEXICO"
+#     python3 scrape_html.py -query "object_list=Lumholtz&search_list=dn&on_display=on&coll_id=4&type_base=E&country_list=MEXICO"
 
 import argparse
 from bs4 import BeautifulSoup
@@ -17,8 +17,8 @@ import lib.io_utils as io
 # input
 parser = argparse.ArgumentParser()
 parser.add_argument('-url', dest="URL", default="https://anthro.amnh.org/anthropology/databases/common/query_result.cfm", help="Form URL")
-parser.add_argument('-query', dest="QUERY", default="object_list=Lumholtz&search_list=dn", help="Query string")
-parser.add_argument('-dir', dest="HTML_DIR", default="downloads/Lumholtz/page-%s.html", help="Directory to store raw html data")
+parser.add_argument('-query', dest="QUERY", default="coll_id=4", help="Query string")
+parser.add_argument('-dir', dest="HTML_DIR", default="downloads/MexicoAndCentralAmerica/page-%s.html", help="Directory to store raw html data")
 parser.add_argument('-pp', dest="PER_PAGE", default=200, type=int, help="Number of records per page")
 parser.add_argument('-overwrite', dest="OVERWRITE", action="store_true", help="Overwrite existing data?")
 a = parser.parse_args()
@@ -78,9 +78,9 @@ while True:
     html = io.downloadFile(a.URL, postData, filename, headers, overwrite=a.OVERWRITE)
     # print(html)
     # break
-    esoup = BeautifulSoup(html, "html.parser")
+    bs = BeautifulSoup(html, "html.parser")
 
-    theForm = esoup.find("form", {"name": "HiddenForm1"})
+    theForm = bs.find("form", {"name": "HiddenForm1"})
     inputs = theForm.find_all("input", {"type": "hidden"}) + theForm.find_all("input", {"type": "text"}) + theForm.find_all("select")
     prevPageQuery = {}
     for input in inputs:
