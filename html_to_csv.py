@@ -18,8 +18,8 @@ import lib.list_utils as lu
 
 # input
 parser = argparse.ArgumentParser()
-parser.add_argument('-in', dest="INPUT_FILE", default="downloads/Lumholtz/page-*.html", help="Input file pattern")
-parser.add_argument('-out', dest="OUTPUT_FILE", default="data/Lumholtz.csv", help="Output csv file")
+parser.add_argument('-in', dest="INPUT_FILE", default="downloads/MexicoAndCentralAmerica/page-*.html", help="Input file pattern")
+parser.add_argument('-out', dest="OUTPUT_FILE", default="data/MexicoAndCentralAmerica.csv", help="Output csv file")
 parser.add_argument('-threads', dest="THREADS", default=4, type=int, help="Number of concurrent threads, -1 for all available")
 a = parser.parse_args()
 

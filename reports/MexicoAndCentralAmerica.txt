@@ -1,0 +1,448 @@
+==============================================================================
+Field: Acquisition Year (263 unique values) / Top 30:
+------------------------------------------------------------------------------
+7,873 (13.1%)	 1936 [EXPEDITION]
+3,211 (5.34%)	 1984
+2,861 (4.76%)	 1898 [EXPEDITION]
+2,408 (4.01%)	 1931 [EXPEDITION]
+2,380 (3.96%)	 1932 [EXPEDITION]
+1,978 (3.29%)	 1943 [EXPEDITION]
+1,941 (3.23%)	 1981 [GIFT]
+1,881 (3.13%)	 1940 [EXPEDITION]
+1,755 (2.92%)	 1897 [EXPEDITION]
+1,451 (2.42%)	 1923 [PERMANENT LOAN]
+1,437 (2.39%)	 1901 [PURCHASE]
+1,250 (2.08%)	 1930
+1,178 (1.96%)	 1896
+1,070 (1.78%)	 1929 [EXPEDITION]
+1,046 (1.74%)	 1918 [PURCHASE]
+1,024 (1.7%)	 1915 [PURCHASE]
+998 (1.66%)	 <empty>
+872 (1.45%)	 1940 [GIFT]
+848 (1.41%)	 1891-1893 [GIFT]
+847 (1.41%)	 1896 [GIFT]
+802 (1.33%)	 1937 [GIFT]
+758 (1.26%)	 1983 [GIFT]
+746 (1.24%)	 1902 [EXPEDITION]
+731 (1.22%)	 1934 [GIFT]
+711 (1.18%)	 1944 [PURCHASE]
+671 (1.12%)	 1894
+663 (1.1%)	 1900 [GIFT]
+632 (1.05%)	 1900
+608 (1.01%)	 1897
+585 (0.97%)	 1947 [GIFT]
+
+==============================================================================
+Field: Categories (8 unique values) / Top 30:
+------------------------------------------------------------------------------
+8,375 (13.94%)	 CONTAINERS
+7,300 (12.15%)	 EQUIPMENT
+3,120 (5.19%)	 COSTUME
+1,866 (3.11%)	 TEXTILE
+1,087 (1.81%)	 SOUND DEVICES
+1,007 (1.68%)	 WEAPONS AND AMMUNITION
+346 (0.58%)	 FURNISHINGS
+250 (0.42%)	 RECREATIONAL ARTIFACTS
+
+==============================================================================
+Field: Collection (2 unique values) / Top 30:
+------------------------------------------------------------------------------
+52,303 (87.05%)	 MEXICAN & CENTRAL AMERICAN ARCHAEOLOGICAL COLLECTION
+7,779 (12.95%)	 MEXICAN & CENTRAL AMERICAN ETHNOGRAPHIC COLLECTION
+
+==============================================================================
+Field: Collector (29 unique values) / Top 30:
+------------------------------------------------------------------------------
+56,208 (93.55%)	 <empty>
+1,131 (1.88%)	 SELER, ED., DR.
+792 (1.32%)	 SAVILLE, M.H.
+721 (1.2%)	 BIRD, JUNIUS, DR.
+460 (0.77%)	 HERBERT H. SMITH
+180 (0.3%)	 DIGUET
+165 (0.27%)	 FRANKS, ROTHENBURG, PARKHURST
+146 (0.24%)	 SELER, EDUARD
+66 (0.11%)	 BUMPUS, H.C., DR.
+53 (0.09%)	 DR. JUNIUS BIRD
+47 (0.08%)	 BERTHA SMALLEY
+28 (0.05%)	 LUMHOLTZ, CARL
+20 (0.03%)	 MCLEAN, MRS. ANGUS
+10 (0.02%)	 STEPHENS, JOHN L.
+9 (0.01%)	 BROWN, BARNUM
+9 (0.01%)	 GERALDINE BAILEY TAYLOR
+7 (0.01%)	 NICOLAT, PROF.
+7 (0.01%)	 STOLPE, HJALMAR, MR.
+6 (0.01%)	 WOODWARD, ARTHUR A., JR.
+4 (0.01%)	 CASPAR WHITNEY (DONOR'S FATHER)
+3 (0.0%)	 SKINNER, ALANSON
+3 (0.0%)	 KATHERINE STURGIS KNIGHT
+1 (0.0%)	 SELER
+1 (0.0%)	 B.T. GILBERT
+1 (0.0%)	 MARQUARD, VILLARD, PEPPER, JONES
+1 (0.0%)	 MEARNS, DR.
+1 (0.0%)	 DONOR'S BROTHER
+1 (0.0%)	 KUNG, GEORGE F., DR.
+1 (0.0%)	 ROBERT S. VOSS
+
+==============================================================================
+Field: Country (35 unique values) / Top 30:
+------------------------------------------------------------------------------
+47,371 (78.84%)	 MEXICO
+2,363 (3.93%)	 GUATEMALA
+2,316 (3.85%)	 COSTA RICA
+2,151 (3.58%)	 <empty>
+1,075 (1.79%)	 PANAMA
+859 (1.43%)	 EL SALVADOR?
+765 (1.27%)	 MEXICO?
+753 (1.25%)	 EL SALVADOR
+749 (1.25%)	 NICARAGUA
+673 (1.12%)	 SPANISH HONDURAS
+321 (0.53%)	 HONDURAS
+201 (0.33%)	 BELIZE
+132 (0.22%)	 MEXICO?, GUATEMALA?
+120 (0.2%)	 COLOMBIA
+71 (0.12%)	 JAMAICA
+36 (0.06%)	 CUBA
+30 (0.05%)	 GUATEMALA?
+23 (0.04%)	 COSTA RICA?
+14 (0.02%)	 DOMINICA?, ST VINCENT?
+13 (0.02%)	 USA
+8 (0.01%)	 REPUBLIC OF HONDURAS
+8 (0.01%)	 PANAMA ?
+5 (0.01%)	 MARTINIQUE
+5 (0.01%)	 HAITI ?
+4 (0.01%)	 BARBADOS
+3 (0.0%)	 HAITI
+3 (0.0%)	 COLOMBIA?
+2 (0.0%)	 WEST INDIES
+2 (0.0%)	 BRITISH GUIANA
+1 (0.0%)	 NICARAGUA/COSTA RICA
+
+==============================================================================
+Field: Culture (94 unique values) / Top 30:
+------------------------------------------------------------------------------
+53,412 (88.9%)	 <empty>
+1,244 (2.07%)	 HUICHOL
+786 (1.31%)	 ZAPOTEC
+617 (1.03%)	 AZTEC
+471 (0.78%)	 NAHUATL
+393 (0.65%)	 MAZAPAN
+263 (0.44%)	 CHOROTEGUAN
+261 (0.43%)	 TARAHUMARA
+211 (0.35%)	 TEPEHUANE
+163 (0.27%)	 MAYA
+163 (0.27%)	 CORA
+156 (0.26%)	 HUICHOL ?
+150 (0.25%)	 OTOMI
+145 (0.24%)	 CUNA
+137 (0.23%)	 LACANDON
+120 (0.2%)	 MIXTEC
+97 (0.16%)	 BORUCA
+96 (0.16%)	 MAM
+95 (0.16%)	 MISKITO
+93 (0.15%)	 TEPECANO
+83 (0.14%)	 SAN BLAS INDIANS
+78 (0.13%)	 VALIENTE
+53 (0.09%)	 HUAVE
+52 (0.09%)	 CARIB
+45 (0.07%)	 TOTONACAN
+45 (0.07%)	 TALAMANCA
+41 (0.07%)	 YAQUI
+36 (0.06%)	 MAZAHUA
+35 (0.06%)	 PUTUN
+32 (0.05%)	 TARASCAN
+
+==============================================================================
+Field: Date (23 unique values) / Top 30:
+------------------------------------------------------------------------------
+57,412 (95.56%)	 <empty>
+1,753 (2.92%)	 Late 1800s
+503 (0.84%)	 Century (1895)
+127 (0.21%)	 Mid 1900s
+112 (0.19%)	 1960s
+71 (0.12%)	 1890s
+25 (0.04%)	 1900s
+16 (0.03%)	 Century
+14 (0.02%)	 1950'S OR EARLIER
+11 (0.02%)	 Century?
+10 (0.02%)	 Century (1892)
+6 (0.01%)	 Mid 1900s (Early 1960s?)
+5 (0.01%)	 Century (1898)
+4 (0.01%)	 1950'S
+3 (0.0%)	 1930s
+2 (0.0%)	 Early 1900s
+2 (0.0%)	 Century (1956-1957)
+1 (0.0%)	 Early 1800s
+1 (0.0%)	 1917
+1 (0.0%)	 Century (1970s)?
+1 (0.0%)	 Century (1915)
+1 (0.0%)	 Century (1932)
+1 (0.0%)	 Century (1945)
+
+==============================================================================
+Field: Donor (640 unique values) / Top 30:
+------------------------------------------------------------------------------
+13,014 (21.66%)	 VAILLANT, GEORGE C., DR.
+5,016 (8.35%)	 LUMHOLTZ, CARL, DR.
+4,330 (7.21%)	 EKHOLM, GORDON F., DR.
+4,223 (7.03%)	 <empty>
+2,353 (3.92%)	 LOUBAT, DUKE OF
+2,044 (3.4%)	 SPINDEN, HERBERT J., DR.
+1,941 (3.23%)	 O'NEILL, NENA
+1,669 (2.78%)	 SAVILLE, MARSHALL H., PROF.
+1,651 (2.75%)	 HAY, CLARENCE L.
+1,451 (2.42%)	 METROPOLITAN MUSEUM OF ART
+1,385 (2.31%)	 VAILLANT, GEORGE C.
+1,150 (1.91%)	 SAVILLE, M.H.
+1,046 (1.74%)	 ARMAS, JUSTO
+1,013 (1.69%)	 DORENBERG, J.
+898 (1.49%)	 HRDLICKA, ALES, DR.
+721 (1.2%)	 BOEKELMAN SHELL-HEAP EXPEDITION
+700 (1.17%)	 MACDOUGALL, J., MR.
+698 (1.16%)	 ZELLER, ROBERT, ESTATE OF
+658 (1.1%)	 STIRLING, MATTHEW, DR.
+600 (1.0%)	 ANONYMOUS
+527 (0.88%)	 MR. CLARENCE L. HAY
+460 (0.77%)	 CARNEGIE MUSUEM
+441 (0.73%)	 CARNEGIE INSTITUTION OF WASHINGTON
+403 (0.67%)	 HEYDE, H. TH., REV
+390 (0.65%)	 NIVEN
+380 (0.63%)	 MCDOUGALL, MRS. ELSIE
+372 (0.62%)	 STRAUSS, A.D.
+340 (0.57%)	 BAUER, W., DR.
+318 (0.53%)	 NIVEN, WILLIAM
+318 (0.53%)	 ERNEST ERICKSON FOUNDATION, INC.
+
+==============================================================================
+Field: Hall (3 unique values) / Top 30:
+------------------------------------------------------------------------------
+58,521 (97.4%)	 <empty>
+1,404 (2.34%)	 Mexico and Central America Hall
+157 (0.26%)	 Hall of Mexico and Central America
+
+==============================================================================
+Field: Keywords (2,744 unique values) / Top 30:
+------------------------------------------------------------------------------
+8,108 (13.49%)	 POTSHERD
+7,139 (11.88%)	 FIGURINE HEAD
+3,371 (5.61%)	 FIGURINE
+3,041 (5.06%)	 POTTERY
+2,161 (3.6%)	 BOWL
+2,003 (3.33%)	 FIGURINE FRAGMENT
+1,624 (2.7%)	 SPINDLE WHORL
+1,358 (2.26%)	 FIGURINE BODY
+1,132 (1.88%)	 JAR
+893 (1.49%)	 BEAD
+797 (1.33%)	 STONE BLADE
+766 (1.27%)	 ARROW
+651 (1.08%)	 PENDANT
+539 (0.9%)	 TRIPOD BOWL
+524 (0.87%)	 VESSEL
+523 (0.87%)	 CELT
+445 (0.74%)	 VASE
+390 (0.65%)	 BOWL POTSHERD
+369 (0.61%)	 KNIFE
+368 (0.61%)	 DISH
+362 (0.6%)	 WHISTLE
+350 (0.58%)	 SHELL
+346 (0.58%)	 FIGURE
+336 (0.56%)	 STONE BEAD
+319 (0.53%)	 POT
+309 (0.51%)	 BONE
+295 (0.49%)	 TRIPOD VESSEL
+273 (0.45%)	 BELT
+242 (0.4%)	 STAMP
+229 (0.38%)	 VESSEL LEG
+
+==============================================================================
+Field: Locale (1,928 unique values) / Top 30:
+------------------------------------------------------------------------------
+12,457 (20.73%)	 <empty>
+1,678 (2.79%)	 TABASCO, COMALCALCO
+927 (1.54%)	 DF/MEXICO (VALLEY OF MEXICO), CHALCO
+840 (1.4%)	 DF/MEXICO, CHICONAUHTLA
+807 (1.34%)	 SINALOA, WEST BANK OF RIO SINALOA, 3.8 MILES SOUTH OF GUASAVE, MOUND, SITE 117
+696 (1.16%)	 OAXACA, MITLA
+658 (1.1%)	 (VERACRUZ), TRES ZAPOTES, RANCHITO
+644 (1.07%)	 VERACRUZ, PAVON SITE
+593 (0.99%)	 DF/MEXICO, NONOALCO, CAMPO CERRO, EAST TRAVERSE, NORTH NORTH EXTENSION
+549 (0.91%)	 VALLEY OF MEXICO
+547 (0.91%)	 TAMAULIPAS, TAMPICO, LAS FLORES
+533 (0.89%)	 DF/MEXICO, SAN JUAN TEOTIHUACÁN, GROUP 5'
+513 (0.85%)	 DF/MEXICO (VALLEY OF MEXICO), AZTAHUACAN
+488 (0.81%)	 DF/MEXICO, SAN JUAN TEOTIHUACÁN
+468 (0.78%)	 JALISCO, PUEBLO SAN ANDRÉS DE CAMIATA
+459 (0.76%)	 OAXACA, XOXOCOTLÁN
+455 (0.76%)	 DF/MEXICO, SAN FRANCISCO MAZAPAN
+454 (0.76%)	 DF/MEXICO, EL ARBOLILLO, TRENCH G
+442 (0.74%)	 OAXACA, NOCHISTLAN
+430 (0.72%)	 OAXACA, CUILAPA
+421 (0.7%)	 DF/MEXICO, TEOTIHUACÁN
+406 (0.68%)	 COCLÉ
+398 (0.66%)	 SAN SALVADOR
+398 (0.66%)	 OAXACA? (VALLEY OF OAXACA)
+394 (0.66%)	 DF/MEXICO, SANTIAGO AHUITZOTLA, EL CORRAL, GENERAL VICINITY OF
+385 (0.64%)	 DF/MEXICO (VALLEY OF MEXICO), XICO
+353 (0.59%)	 CHIHUAHUA, 10 MILES SOUTH OF CASAS GRANDES, RANCHO SAN DIEGO
+347 (0.58%)	 PENINSULA OF NICOYA
+344 (0.57%)	 DF/MEXICO, SANTIAGO AHUITZOTLA, EL CORRAL VICINITY, TRENCH C
+342 (0.57%)	 DF/MEXICO, ZACATENCO, TRENCH D
+
+==============================================================================
+Field: Material (2,515 unique values) / Top 30:
+------------------------------------------------------------------------------
+26,529 (44.15%)	 CLAY
+5,108 (8.5%)	 STONE
+4,449 (7.4%)	 <empty>
+2,114 (3.52%)	 STONE (OBSIDIAN)
+1,778 (2.96%)	 CLAY (TERRA COTTA)
+1,706 (2.84%)	 CLAY, PIGMENT
+956 (1.59%)	 WOOD
+919 (1.53%)	 SHELL
+708 (1.18%)	 OBSIDIAN
+676 (1.13%)	 CERAMIC
+622 (1.04%)	 BONE
+467 (0.78%)	 CLAY, PIGMENT?
+459 (0.76%)	 COTTON
+395 (0.66%)	 GOLD
+353 (0.59%)	 MINERAL (CLAY)
+329 (0.55%)	 PLANT FIBER
+287 (0.48%)	 TERRA COTTA
+281 (0.47%)	 POTTERY
+278 (0.46%)	 WOOL, COTTON
+245 (0.41%)	 CLOTH (COTTON)
+240 (0.4%)	 CLAY, BLACK PIGMENT
+221 (0.37%)	 METAL (COPPER)
+203 (0.34%)	 CANE, WOOD, FEATHER, SINEW, PIGMENT
+196 (0.33%)	 WOOL
+193 (0.32%)	 COPPER
+187 (0.31%)	 GREENSTONE
+148 (0.25%)	 GOURD
+143 (0.24%)	 STONE (QUARTZ)
+134 (0.22%)	 COTTON, WOOL
+128 (0.21%)	 JADE
+
+==============================================================================
+Field: Period (307 unique values) / Top 30:
+------------------------------------------------------------------------------
+38,391 (63.9%)	 <empty>
+5,139 (8.55%)	 POSTCLASSIC, circa A.D. 1000 - 1521
+4,261 (7.09%)	 FORMATIVE, circa B.C. 2000 - A.D. 1
+2,379 (3.96%)	 CLASSIC/POSTCLASSIC?, circa A.D. 100 - 1521
+2,324 (3.87%)	 CLASSIC, circa A.D. 1 - 700
+2,043 (3.4%)	 CLASSIC, circa A.D. 1 - 1000
+1,003 (1.67%)	 LATE CLASSIC/POSTCLASSIC, circa A.D. 900 - 1521
+390 (0.65%)	 POSTCLASSIC?, circa A.D. 1200 - 1520 (NAHUATL CIVILIZATION)
+370 (0.62%)	 POSTCLASSIC?, circa A.D. 1300 - 1450?
+361 (0.6%)	 CLASSIC, circa A.D. 250 - 750 (TEOTIHUACAN)
+295 (0.49%)	 POSTCLASSIC
+248 (0.41%)	 POSTCLASSIC, circa A.D. 1200 - 1520 (AZTEC)
+232 (0.39%)	 EARLY POSTCLASSIC?, circa A.D. 950 - 1150? (MAZAPAN)
+167 (0.28%)	 EARLY POSTCLASSIC?, circa A.D. 950 - 1150? (MAZAPAN TYPE)
+137 (0.23%)	 POSTCLASSIC, circa A.D. 1300 - 1500 (AZTEC)
+130 (0.22%)	 CLASSIC (100/200-1000/1100 CE)
+118 (0.2%)	 POSTCLASSIC, circa A.D. 1200 - 1520 (AZTEC TYPE)
+92 (0.15%)	 POSTCLASSIC?, circa A.D. 1000 - 1520
+86 (0.14%)	 POSTCLASSIC (1000/1100-1521 CE)
+83 (0.14%)	 EARLY POSTCLASSIC?, circa A.D. 950 - 1150? (MAZAPAN STYLE)
+57 (0.09%)	 FORMATIVE, circa B.C. 2000 - A.D. 200
+57 (0.09%)	 CLASSIC, circa A.D. 400 - 750 (PERIOD IV TYPE)
+52 (0.09%)	 MEZCALA STYLE, CLASSIC, circa A.D. 200 - 900
+50 (0.08%)	 FORMATIVE, circa B.C. 1500 - A.D. 1 (OLMEC, EARLY-MIDDLE FORMATIVE B.C.1500-400)
+50 (0.08%)	 VIEJO (A.D. 700 +/- 50 TO 1050)
+49 (0.08%)	 CLASSIC, circa A.D. 250 - 900 (MAYA)
+48 (0.08%)	 COLONIAL (V)
+46 (0.08%)	 PAVON FORMATIVE, circa B.C. 2000 - 200
+44 (0.07%)	 FORMATIVE/CLASSIC, circa B.C. 500 - A.D. 300
+41 (0.07%)	 EARLY POSTCLASSIC?, circa A.D. 950 - 1150? (MAZAPAN TRADE WARE)
+
+==============================================================================
+Field: Subject (2,408 unique values) / Top 30:
+------------------------------------------------------------------------------
+46,662 (77.66%)	 <empty>
+2,310 (3.84%)	 HEAD
+948 (1.58%)	 HUMAN HEAD
+582 (0.97%)	 HUMAN
+424 (0.71%)	 BODY
+370 (0.62%)	 ANIMAL HEAD
+338 (0.56%)	 FIGURE
+310 (0.52%)	 FIGURINE
+288 (0.48%)	 BIRD
+284 (0.47%)	 ANIMAL
+252 (0.42%)	 HUMAN FIGURE
+173 (0.29%)	 HUMAN FIGURE PARTS
+165 (0.27%)	 FACE
+146 (0.24%)	 FIGURINE HEAD
+105 (0.17%)	 MONKEY
+102 (0.17%)	 HEAD & EYES
+97 (0.16%)	 TORSO
+88 (0.15%)	 MONKEY HEAD
+87 (0.14%)	 HUMAN FACE
+80 (0.13%)	 BIRD FIGURE
+74 (0.12%)	 HUMAN FEMALE
+67 (0.11%)	 BOWL
+67 (0.11%)	 HEADDRESS
+62 (0.1%)	 DOG
+55 (0.09%)	 BIRD HEAD
+54 (0.09%)	 LEG
+53 (0.09%)	 IDOL
+47 (0.08%)	 HUMAN HEAD WITHOUT HEADDRESS
+46 (0.08%)	 SEATED FIGURE
+44 (0.07%)	 FROG
+
+==============================================================================
+Field: Technique (2,933 unique values) / Top 30:
+------------------------------------------------------------------------------
+37,189 (61.9%)	 <empty>
+6,643 (11.06%)	 POTTERY
+667 (1.11%)	 INCISED
+580 (0.97%)	 CARVED
+509 (0.85%)	 POTTERY, WHITEWARE
+437 (0.73%)	 SCULPTED
+387 (0.64%)	 TEOTIHUACAN II
+359 (0.6%)	 PAINTED
+337 (0.56%)	 POTTERY, TERRA COTTA
+326 (0.54%)	 PERFORATED
+245 (0.41%)	 MODELLED
+241 (0.4%)	 POTTERY, REDWARE
+238 (0.4%)	 POTTERY, INCISED
+226 (0.38%)	 TEOTIHUACAN V?
+225 (0.37%)	 TEOTIHUACAN V
+176 (0.29%)	 POTTERY, PAINTED
+161 (0.27%)	 CHOLULA-TYPE
+160 (0.27%)	 WORKED
+145 (0.24%)	 MOLD-MADE
+131 (0.22%)	 TERRA COTTA
+120 (0.2%)	 POTTERY, CHALCO POLYCHROME
+115 (0.19%)	 POTTERY, BLACKWARE
+110 (0.18%)	 CHIPPED
+99 (0.16%)	 POTTERY, TYPE C
+98 (0.16%)	 POTTERY, BLACKWARE, INCISED
+89 (0.15%)	 POTTERY, TANCOL COMPLEX
+80 (0.13%)	 POTTERY, NORMAL WHITEWARE
+79 (0.13%)	 POTTERY, POLYCHROME
+79 (0.13%)	 POTTERY, MAZAPAN TYPE
+78 (0.13%)	 POTTERY, EL DORADO INCISED WARE
+
+==============================================================================
+FIELD: Curatorial Notes
+------------------------------------------------------------------------------
+107 (0.18%)	 have
+59,975 (99.82%)	 don't have
+
+==============================================================================
+FIELD: Exhibition History
+------------------------------------------------------------------------------
+173 (0.29%)	 have
+59,909 (99.71%)	 don't have
+
+==============================================================================
+FIELD: Publication History
+------------------------------------------------------------------------------
+2,551 (4.25%)	 have
+57,531 (95.75%)	 don't have
+
+==============================================================================
+FIELD: Thumb URL
+------------------------------------------------------------------------------
+60,082 (100.0%)	 have
+0 (0.0%)	 don't have
