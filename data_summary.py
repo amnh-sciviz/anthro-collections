@@ -43,6 +43,8 @@ for i, item in enumerate(items):
         values = set(values).union(set(otherValues))
         items[i][field] = list(values)
 
+print("Total item count: %s" % mu.formatNumber(itemCount))
+
 for field in FIELDS_COUNTS:
     values = []
     if field in FIELDS_LISTS:
