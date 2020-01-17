@@ -79,9 +79,8 @@ while True:
     # print(html)
     # break
     bs = BeautifulSoup(html, "html.parser")
+    inputs = bs.find_all("input", {"type": "hidden"}) + bs.find_all("input", {"type": "text"}) + bs.find_all("select")
 
-    theForm = bs.find("form", {"name": "HiddenForm1"})
-    inputs = theForm.find_all("input", {"type": "hidden"}) + theForm.find_all("input", {"type": "text"}) + theForm.find_all("select")
     prevPageQuery = {}
     for input in inputs:
         value = ""
