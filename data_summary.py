@@ -19,12 +19,16 @@ parser.add_argument('-counts', dest="FIELDS_COUNTS", default="Acquisition Year,C
 parser.add_argument('-lists', dest="FIELDS_LISTS", default="Categories,Keywords", help="List of fields that are comma-separated lists")
 parser.add_argument('-merge', dest="FIELDS_MERGE", default="Categories=Category", help="List of fields that are comma-separated lists")
 parser.add_argument('-count', dest="DISPLAY_COUNT", default=30, type=int, help="Number to display per group")
+parser.add_argument('-out', dest="OUTPUT_FILE", default="reports/MexicoAndCentralAmerica.txt", help="Output text file")
 a = parser.parse_args()
 
 FIELDS_HAS = a.FIELDS_HAS.strip().split(",")
 FIELDS_COUNTS = a.FIELDS_COUNTS.strip().split(",")
 FIELDS_LISTS = a.FIELDS_LISTS.strip().split(",")
 FIELDS_MERGE = io.parseQueryString(a.FIELDS_MERGE.strip())
+
+# Make sure output dirs exist
+io.makeDirectories([a.OUTPUT_FILE])
 
 fieldNames, items = io.readCsv(a.INPUT_FILE)
 itemCount = len(items)
@@ -43,7 +47,8 @@ for i, item in enumerate(items):
         values = set(values).union(set(otherValues))
         items[i][field] = list(values)
 
-print("Total item count: %s" % mu.formatNumber(itemCount))
+outputLines = []
+outputLines.append("Total item count: %s" % mu.formatNumber(itemCount))
 
 for field in FIELDS_COUNTS:
     values = []
@@ -55,14 +60,14 @@ for field in FIELDS_COUNTS:
 
     uvalues = list(set(values))
 
-    print('\n==============================================================================')
-    print('Field: %s (%s unique values) / Top %s:' % (field, mu.formatNumber(len(uvalues)), a.DISPLAY_COUNT))
-    print('------------------------------------------------------------------------------')
+    outputLines.append("\n==============================================================================")
+    outputLines.append("Field: %s (%s unique values) / Top %s:" % (field, mu.formatNumber(len(uvalues)), a.DISPLAY_COUNT))
+    outputLines.append("------------------------------------------------------------------------------")
 
     counter = collections.Counter(values)
     counts = counter.most_common(a.DISPLAY_COUNT)
     for value, count in counts:
-        print("%s (%s%%)\t %s" % (mu.formatNumber(count), round(1.0 * count / itemCount * 100.0, 2), value))
+        outputLines.append("%s (%s%%)\t %s" % (mu.formatNumber(count), round(1.0 * count / itemCount * 100.0, 2), value))
 
 for field in FIELDS_HAS:
     has = 0
@@ -71,8 +76,13 @@ for field in FIELDS_HAS:
         if isinstance(value, str) and len(value.strip()) > 0 or isinstance(value, list) and len(value) > 0:
             has += 1
     hasnt = itemCount - has
-    print('\n==============================================================================')
-    print("FIELD: %s" % field)
-    print('------------------------------------------------------------------------------')
-    print("%s (%s%%)\t have" % (mu.formatNumber(has), round(1.0 * has / itemCount * 100, 2)))
-    print("%s (%s%%)\t don't have" % (mu.formatNumber(hasnt), round(1.0 * hasnt / itemCount * 100, 2)))
+    outputLines.append("\n==============================================================================")
+    outputLines.append("FIELD: %s" % field)
+    outputLines.append("------------------------------------------------------------------------------")
+    outputLines.append("%s (%s%%)\t have" % (mu.formatNumber(has), round(1.0 * has / itemCount * 100, 2)))
+    outputLines.append("%s (%s%%)\t don't have" % (mu.formatNumber(hasnt), round(1.0 * hasnt / itemCount * 100, 2)))
+
+outputStr = "\n".join(outputLines) + "\n"
+with open(a.OUTPUT_FILE, "w") as f:
+    f.write(outputStr)
+print("Wrote report to: %s" % a.OUTPUT_FILE)
