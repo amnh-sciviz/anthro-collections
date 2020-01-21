@@ -3,6 +3,7 @@
 import argparse
 import collections
 from datetime import datetime
+import geopy
 from geopy.geocoders import Nominatim
 import math
 import os
@@ -67,8 +68,12 @@ for i, c in enumerate(counts):
         print("Already found %s" % value)
         continue
 
-    print("Looking up %s..." % value)
-    location = geolocator.geocode(value)
+    try:
+        print("Looking up %s..." % value)
+        location = geolocator.geocode(value)
+    except geopy.exc.GeocoderTimedOut:
+        print("Geopy error; skipping...")
+        location = None
 
     row = {
         "LookupString": value,
