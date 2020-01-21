@@ -1,0 +1,718 @@
+LookupString,Latitude,Longitude,GeoName
+"Chiconauhtla, Mexico",0,0,
+"Santiago Ahuitzotla, El Corral, Mexico",0,0,
+"El Arbolillo, Mexico",19.5356514,-99.1394773,"El Arbolillo, Gustavo A. Madero, Ciudad de México, 07240, México"
+"Tabasco, Comalcalco, Mexico",18.2615076,-93.2231523,"Comalcalco, Tabasco, 86300, México"
+"San Juan Teotihuacán, Mexico",19.6875296,-98.8757397,"Teotihuacán, Estado de México, 55845, México"
+"Ticoman, Mexico",19.5629584,-99.1731712,"Ticoman, Tlalnepantla, Tlalnepantla de Baz, Estado de México, 54120, México"
+"Nonoalco, Campo Cerro, Mexico",0,0,
+"Chalco, Mexico",19.2382585,-98.81888376395177,"Chalco, Estado de México, México"
+"Zacatenco, Mexico",19.5100055,-99.1159678,"Zacatenco, Gustavo A. Madero, Ciudad de México, 07359, México"
+"Sinaloa, West Bank Of Rio Sinaloa, Mexico",0,0,
+"Oaxaca, Mexico",17.0,-96.5,"Oaxaca, México"
+"Oaxaca, Mitla, Mexico",16.920833,-96.361667,"San Pablo Villa de Mitla, Oaxaca, 70430, México"
+"Veracruz, Pavon Site, Mexico",20.5847785,-97.4887798,"José M. Morelos y Pavón, Kilometro Siete (El Paraiso los Limones), General Lazaro Cardenas del Rio, Terrenos del Lote ""San Miguel Mecatepec"", Tihuatlán, Veracruz de Ignacio de la Llave, 93230, México"
+"Morelos, Cuernavaca, Gualupita, Mexico",18.9302157,-99.2332957,"Gualupita, Cuernavaca, Morelos, 62270, México"
+"San Salvador, El Salvador",13.6989939,-89.1914249,"San Salvador, Departamento de San Salvador, CP-1101, República de El Salvador"
+"Oaxaca, Cuilapa, Mexico",0,0,
+"Valley Of Mexico, Mexico",19.4326009,-99.1333416,"Ciudad de México, Cuauhtémoc, Ciudad de México, 06060, México"
+"Tamaulipas, Tampico, Las Flores, Mexico",22.3711946,-97.9045971,"Las Flores, Altamira, Tamaulipas, 89600, México"
+"Aztahuacan, Mexico",19.3572718,-99.0333653,"Zona Urbana Ejido Santa María Aztahuacán, Iztapalapa, Ciudad de México, 09500, México"
+"Jalisco, Pueblo San Andrés De Camiata, Mexico",0,0,
+"Oaxaca, Xoxocotlán, Mexico",17.0620874,-96.757009,"Oaxaca, Arbolada Ilusión, Oaxaca, Municipio de Oaxaca, Oaxaca, 68154, México"
+"San Francisco Mazapan, Mexico",0,0,
+"Oaxaca, Nochistlan, Mexico",17.0408573,-96.6933964,"Andador Nochistlán, El Rosario, San Sebastián Tutla, Oaxaca, 68130, México"
+"Teotihuacán, Mexico",19.690089649999997,-98.84536815577445,"Teotihuacán, MEX 132, Teotihuacán, Estado de México, 55850, México"
+"Coclé, Panama",8.4604873,-80.4305652,"Coclé, Distrito Penonomé, Coclé, Panama"
+"Jerico, Honduras",14.0890087,-87.20812409963084,"Jerico Community Bilingual School, Bulevar Comunidad Económica Europea, Colonia El Prado, La Bolsa, Tegucigalpa, Francisco Morazán, 12101, Honduras"
+"Santiago Ahuitzotla, El Corral, General, Mexico",0,0,
+"Xico, Mexico",19.4457798,-97.0707568368614,"Xico, Veracruz de Ignacio de la Llave, México"
+"Chihuahua, Rancho San Diego, Mexico",0,0,
+"Peninsula Of Nicoya, Costa Rica",10.1467475,-85.4535441,"Repuestos La Peninsula, Avenida 9, Barrio Santa Lucía, Barrio Los Ángeles, Nicoya, Cantón Nicoya, Provincia Guanacaste, 50201, Costa Rica"
+"Puebla, Tepeaca, Mexico",18.9680556,-97.9025,"Tepeaca, Puebla, 75200, México"
+"San Juan Teotihuacan, Mexico",19.6718407,-98.845069,"San Juan Teotihuacan, MEX 132, Teotihuacán, Estado de México, 55850, México"
+"Calixtlahuaca, Mexico",19.3343316,-99.6889279,"Calixtlahuaca, Toluca, Estado de México, 50290, México"
+"Oaxaca, Ixtepec, Mexico",17.0374939,-96.6933359,"Ixtepec, El Rosario, San Sebastián Tutla, Oaxaca, 68130, México"
+"Mercedes, Costa Rica",9.9409094,-84.0526955,"Mercedes, Cantón Montes de Oca, Provincia San José, 11503, Costa Rica"
+"Finca Pompeya, Guatemala",4.118433,-73.3830601,"Finca Guadalupe, vía Alto Pompeya - Pachaquiaro - Puerto López, Puerto Lopez, Meta, Colombia"
+"Atzcapotzalco, Mexico",25.7430591,-100.3601559,"Atzcapotzalco, Lomas Modelo, Monterrey, Nuevo León, 64210, México"
+"Cholula, Mexico",20.743333,-98.502222,"Cholula, Tianguistengo, Hidalgo, México"
+"Limon, Siquierres, Costa Rica",10.091917200000001,-83.50272926422062,"Colegio Universitario de Limón, Carretera José Joaquín Trejos Fernández, Barrio Las Palmiras, Barrio María Auxiliadora, Siquirres, Cantón Siquirres, Provincia Limón, 70301, Costa Rica"
+"Jalisco, Mexico",20.3333331,-103.6666671,"Jalisco, México"
+"Oaxaca, Nochistlán, Mexico",17.0408573,-96.6933964,"Andador Nochistlán, El Rosario, San Sebastián Tutla, Oaxaca, 68130, México"
+"Guerrero, Mexico",17.666667,-100.0,"Guerrero, México"
+"Tamaulipas, Tancol, Mexico",22.298348,-97.8964767,"Tancol, Tampico, Tamaulipas, 89344, México"
+"Veracruz, Mexico",19.333333,-96.666667,"Veracruz de Ignacio de la Llave, México"
+"Sonora, Huatabampo, Mexico",26.8176632,-109.6081921,"Sonora, Los Patos, La Unión, Huatabampo, Sonora, 85994, México"
+"Oaxaca, Monte Alban, Mexico",17.051667,-96.781944,"Monte Albán, Santa María Atzompa, Oaxaca, 68154, México"
+"Durango, San Francisco De Lajas, Mexico",0,0,
+"Veracruz, Tabuco, Mexico",19.5370283,-96.9030045,"Tabuco, Lázaro Cárdenas, El Tanque, Xalapa, Veracruz de Ignacio de la Llave, 91180, México"
+"Cartago, Cartago, Costa Rica",9.8642435,-83.9204377,"Cartago, Cantón Cartago, Provincia Cartago, 30101, Costa Rica"
+"Veracruz, Panuco, Mexico",22.161917,-98.1522495,"Veracruz, Las Ánimas, Confederación Nacional Campesina (Canoas), Pánuco, Veracruz de Ignacio de la Llave, México"
+"Oaxaca, Mixtequilla, Mexico",16.4767033,-95.3457106,"Supercarretera Tehua - Lachiguiri, Santa María Mixtequilla, Oaxaca, México"
+"Colima, Mexico",19.166667,-104.0,"Colima, México"
+"Vera Cruz, Mexico",20.1402352,-98.672521,"Vera Cruz, San Pedro Huixotitla, Mineral del Monte, Hidalgo, 42130, México"
+"Guerrero, San Geronimo District, Mexico",0,0,
+"Guerrero, Mazela, Mexico",0,0,
+"Veracruz, Panuco, El Prisco, Mexico",0,0,
+"Chiriqui, Panama",8.139963649999999,-82.25984378775684,"Chiriquí, Panama"
+"Jalisco, Totoate, Ruin, Mexico",0,0,
+"Veracruz, Panuco, Pavon Site, Mexico",0,0,
+"Puebla, Cholula, Mexico",19.0233438,-98.3076366,"Puebla, Tonantzintla (Santa María Tonantzintla), San Andrés Cholula, Puebla, 72828, México"
+"Guerrero, Acapulco, Mexico",16.9003769,-99.8454285,"Guerrero, 15 de Septiembre, Colonia Loma Larga (El Basurero), Acapulco, Acapulco de Juárez, Guerrero, 39300, México"
+"Salvador, El Salvador",13.8000382,-88.9140683,El Salvador
+"Chiriqui, Colombia",8.51573705,-82.62006619185595,"Bomba de Colombia, Avenida 2a Sur, Belén, Bugabita Arriba, La Concepción, Distrito Bugaba, Chiriquí, Panama"
+"San Cristobal Ecatepec, Mexico",22.1582491,-100.9590861,"San Cristobal Ecatepec, San Luis Potosí, Municipio de San Luis Potosí, San Luis Potosí, 78300, México"
+"San Simón, Mexico",18.9664951,-97.7110501,"San Simón, Quecholac, Puebla, 75460, México"
+"Hidalgo, Tula, Mexico",22.997524,-99.7117393,"Hidalgo, Ciudad Tula, Tula, Tamaulipas, México"
+"El Peten, Uaxactun, Guatemala",17.3912708,-89.6294686,"Uaxactun, Carretera a Uaxactún, Uaxactún, Flores, Petén, Guatemala"
+"Chiapas, Banks Of The Usumacintla River, Tecolpa, Mexico",0,0,
+"Oaxaca, Boca Del Rio, Mexico",16.1812557,-95.1868773,"Oaxaca, Ensenada de la Ventosa, Salina Cruz, Oaxaca, México"
+"Yucatan, Mexico",20.6845957,-88.8755669,"Yucatán, México"
+"Chiapas, Paredon, Mexico",16.052511,-93.8682794,"El Paredón, Tonalá, Chiapas, 30503, México"
+"Nayarít, Santa Teresa, Mexico",18.635152,-95.503327,"Nayarit, Santa Teresa, Lerdo de Tejada, Veracruz de Ignacio de la Llave, México"
+"Jalisco, Atoyac, Mexico",20.1583732,-103.5096405,"Mexico, Autopista Guadalajara - Colima, Zacoalco de Torres, Jalisco, 45780, México"
+"Coatepec, Mexico",19.4448572,-96.93362844130704,"Coatepec, Veracruz de Ignacio de la Llave, México"
+"Quetzaltenango, Guatemala",14.7360257,-91.6152074,"Quetzaltenango, Guatemala"
+"Morelos, Cuernavaca, Mexico",18.9305968,-99.1813253,"Morelos, Tejalpa, Jiutepec, Morelos, 62380, México"
+"Managua, Nicaragua",12.1461244,-86.273717,"Managua, Managua (Municipio), Departamento de Managua, 10000 (CODIGO MAESTRO), Nicaragua"
+"Chihuahua, Mexico",28.5000001,-106.0000001,"Chihuahua, México"
+"Nicoya, Costa Rica",10.10341535,-85.4153082176243,"Cantón Nicoya, Provincia Guanacaste, Costa Rica"
+"San Blas Islands, Panama",9.5857951,-78.87868649714605,"Archipiélago de San Blas, Nusagandi road, Cartí, Distrito Gaigirgordub, Comarca Guna Yala, Panama"
+"Texcoco, Mexico",19.47559065,-98.85539643391266,"Texcoco, Estado de México, México"
+"Jalisco, Tuxpan, Mexico",19.423611,-103.409444,"Jalisco, Calle Leyes de Reforma, La Higuera, Tuxpan, Jalisco, 49834, México"
+"Michoacán, Tzintzuntzan, Mexico",19.6258467,-101.5767139,"Tzintzuntzan, Michoacán de Ocampo, 58440, México"
+"Guerrero, Quechomictipan, Mexico",0,0,
+"Jalisco, Hacienda Estanzuela, Mexico",0,0,
+"Wild Cane Cay, Belize",0,0,
+"Veracruz, Panuco, Vera Cruz, Mexico",0,0,
+"Veracruz, North Panuco, Mexico",22.161917,-98.1522495,"Veracruz, Las Ánimas, Confederación Nacional Campesina (Canoas), Pánuco, Veracruz de Ignacio de la Llave, México"
+"Volcano Turrialba, Costa Rica",0,0,
+"Patuca River, Honduras",14.4451335,-85.9640408,"Complejo hidroeléctrico Patuca III, Juticalpa, Olancho, Honduras"
+"Northern Mexico, Mexico",35.1252011,-106.6957017,"Northern, Los Duranes, Albuquerque, Bernalillo County, New Mexico, 87120-3033, United States of America"
+"Huexotla, Mexico",19.4697145,-98.8824759,"Huexotla, Tolimpa, Lomas de Cristo, Texcoco, Estado de México, 56236, México"
+"Rio General, Costa Rica",10.1875506,-83.9726334,"Río General, Varablanca, Cantón Heredia, Provincia Heredia, 40105, Costa Rica"
+"Veracruz, Panuco, El Prisco Brickyard, Mexico",0,0,
+"Tlaxcala, Calpulalpan, Mexico",19.5899082,-98.615824,"Tlaxcala, San Felipe Sultepec, Calpulalpan, Tlaxcala, México"
+"Sinaloa, Culiacan, Chametla, Mexico",24.817245,-107.4311312,"Estero Chametla, Pradera Dorada, Culiacán, Sinaloa, 80058, México"
+"Teotihuacan, Mexico",19.690089649999997,-98.84536815577445,"Teotihuacán, MEX 132, Teotihuacán, Estado de México, 55850, México"
+"Atzcapotzalco, Santiago Ahuitzotla, El Corral, Mexico",0,0,
+"Jalisco, Totoate, Mexico",0,0,
+"Guerrero, Coacoyula, Mexico",18.073611,-99.631111,"Coacoyula de Álvarez, Iguala de la Independencia, Guerrero, México"
+"San Juan Teotihuacán, Luz Y Fuerza Grounds, Mexico",0,0,
+"Papalotla, El Gavilan, Mexico",0,0,
+"Guerrero, Cerro Ceron, Mexico",0,0,
+"Chihuahua, Carichic, Mexico",31.71545,-106.485157,"Calle Carichic, Anexas, Ciudad Juárez, Juárez, Chihuahua, 32040, México"
+"Santiago Ahuitzotla, Mexico",0,0,
+"Oaxaca, Etla, Mexico",17.2053618,-96.8004105,"Etla, Villa de Etla, Oaxaca, 68251, México"
+"Otumba, Mexico",19.65709395,-98.74015493982428,"Otumba, Estado de México, México"
+"Tlaltenango, Mexico",19.16254935,-98.33978081478668,"Tlaltenango, Puebla, México"
+"Jalisco, Chapala, Mexico",20.2954814,-103.1898601,"Chapala, Jalisco, 45900, México"
+"Central Mexico, Mexico",20.9511737,-87.5502534,"El Central, Lázaro Cárdenas, Quintana Roo, México"
+"Sinaloa, San Lorenzo River, El Dorado, Mexico",0,0,
+"Veracruz, Topila, Cerro La Puerta, Mexico",0,0,
+"Michoacan, Mexico",19.207098,-101.878113,"Michoacán de Ocampo, México"
+"Oaxaca, Piedra Blanca, Mexico",16.9880302,-95.0158261,"Piedra Blanca, San Juan Guichicovi, Oaxaca, México"
+"Tlahuac, Mexico",19.26950425,-99.00409684032508,"Tláhuac, Ciudad de México, México"
+"Jalisco, Axkeltan, Cerro De Colotlan, Mexico",0,0,
+"Buenos Aires, Puntarenas, Costa Rica",9.08251365,-83.24650250792548,"Cantón Buenos Aires, Provincia Puntarenas, Costa Rica"
+"Oaxaca, Yanhuitlan, Mexico",17.5292472,-97.3423926,"Santo Domingo Yanhuitlán, Oaxaca, 69660, México"
+"Chihuahua, Casas Grandes, Mexico",30.1864946,-108.0239307,"Chihuahua, El Adobe, Mata Ortiz, Casas Grandes, Chihuahua, México"
+"San Juan Ixtayopan, Mexico",19.240564,-98.9941977,"San Juan Ixtayopan, San Andrés Mixquic, Tláhuac, Ciudad de México, 13510, México"
+"Chihuahua, Guajochic, Mexico",0,0,
+"Tamaulipas, Mexico",23.9891553,-98.7026825,"Tamaulipas, México"
+"Tetelpan, Mexico",19.3380958,-99.2354053,"Tetelpan, Álvaro Obregón, Ciudad de México, 01700, México"
+"Jalisco, Lake Chapala, Mexico",20.2954814,-103.1898601,"Chapala, Jalisco, 45900, México"
+"San Luis Potosi, Pujal, Mexico",21.8491221,-98.9403104,"El Pujal, Ciudad Valles, San Luis Potosí, 79260, México"
+"Guerrero, Chalchentepetl, Mexico",0,0,
+"Tamaulipas, Tampico District, Mexico",0,0,
+"Culhuacan, Mexico",19.336909,-99.1089421,"Culhuacán, Avenida Tláhuac, Estrella de Culhuacán, Iztapalapa, Ciudad de México, 09800, México"
+"Rio Tamasi, Mexico",46.6293978,18.2850331,"Tamási, Tamási járás, Tolna megye, Dél-Dunántúl, Dunántúl, 7090, Magyarország"
+"Utila Island, Honduras",16.0965571,-86.94340193880814,"Útila, Islas de la Bahía, Honduras"
+"Veracruz, Panuco Town, Mexico",22.0563024,-98.18282,"Pánuco, Veracruz de Ignacio de la Llave, 93990, México"
+"Oaxaca, Lieza, Mexico",16.648056,-97.509722,"Piedra Liza, Santiago Amoltepec, Oaxaca, México"
+"Sonora, Mazatan, Mexico",29.0055376,-110.1392032,"Mazatán, Sonora, México"
+"Oaxaca, Tehuantepec Area, Mexico",16.3224801,-95.2509834,"Calle Oaxaca, El Cairo, Santo Domingo Tehuantepec, Oaxaca, México"
+"Terrango, Mexico",0,0,
+"Saltillo, Mexico",25.4230425,-100.9927509,"Saltillo, Coahuila de Zaragoza, 25000, México"
+"Colima, Manzanillo, Salagoa, Playa De Los Monos, Mexico",0,0,
+"Guerrero, Acapulco, San Geronimo, Mexico",0,0,
+"Totonicapán, Totonicapán, Guatemala",14.911838,-91.3599703,"Totonicapán, Guatemala"
+"Highlands Of Costa Rica, Curridabat, Costa Rica",0,0,
+"Sonora, Santa Cruz, Mexico",18.1455031,-94.4457764,"Sonora, Petrolera, Coatzacoalcos, Veracruz de Ignacio de la Llave, 96500, México"
+"Morelos, Below Tezpoteco, Tepoztlan, Mexico",0,0,
+"Punta Gorda, Belize",16.09929985,-88.81032736769335,"Punta Gorda, Punta Gorda Town, Toledo District, Toledo, Belize"
+"Sinaloa, Guasave, Mexico",25.5523481,-108.455279,"Sinaloa, La Florida, Guasave, Sinaloa, 81040, México"
+"Alta Verapaz, Cobán, Guatemala",15.4755348,-90.37576389134472,"Parque Natural Monumento a la Paz de Guatemala, zona 1, Cobán, Alta Verapaz, Guatemala"
+"Oaxaca, Quiengola, Mexico",16.9536548,-96.7460001,"Calle Quiengola, Barrio del Niño (2a. Sección), Villa de Zaachila, Oaxaca, 71313, México"
+"Nayarít, Pueblo Of Guadalupe Ocotan, Mexico",0,0,
+"Oaxaca, Pariales, Mexico",0,0,
+"Ruins Of San Juan Teotihuacan, Mexico",0,0,
+"Madden Lakes Area, Panama",0,0,
+"San Simón Tornaguac, Mexico",0,0,
+"Veracruz, Campoalla, Mexico",0,0,
+"Puebla, Mexico",18.833333,-98.0,"Puebla, México"
+"San Juanico, Mexico",26.2560372,-112.4791733,"San Juanico, Comondú, Baja California Sur, México"
+"Maranones Creek, Honduras",0,0,
+"Nayarít, Tepic, Mexico",21.4908907,-104.8746519,"Nayarit, Cuatro Milpas, Tepic, Municipio de Tepic, Nayarit, 63180, México"
+"El Peten, Flores, Guatemala",16.96421335,-89.89815432372879,"Lago Petén Itzá, Carretera Flores - Melchor, La Polvora, Melchor de Mencos, Petén, 17011, Guatemala"
+"Queretaro, Mexico",20.8542575,-99.84756,"Querétaro, México"
+"Oaxaca, San Mateo Del Mar, Mexico",16.2103756,-94.9822045,"San Mateo del Mar, Oaxaca, México"
+"Uloa Valley, Travesia, Honduras",0,0,
+"Guanajuato, Chupicuaro, Mexico",20.0682728,-100.6921902,"Chupícuaro, Acámbaro, Guanajuato, 38750, México"
+"Guerrero, Acapulco, Tambuco, Mexico",16.8346329,-99.9090336,"Tambuco, Fracc. Vista del Mar, Acapulco, Acapulco de Juárez, Guerrero, 39300, México"
+"Oaxaca, Tehuantepec, Mexico",16.2161458,-95.1972137,"Tehuantepec, Colonia Granadillo, Salina Cruz, Oaxaca, 70613, México"
+"Michoacán, Patzcuaro, Mexico",19.5136796,-101.6099596,"Pátzcuaro, Michoacán de Ocampo, 61600, México"
+"Michoacán, Paracho, Mexico",19.6465929,-102.0480857,"Paracho de Verduzco, Paracho, Michoacán de Ocampo, 61250, México"
+"Veracruz, Tajin, Mexico",20.2717732,-97.3341833,"Veracruz, Paso de Valencia, Terrenos de la Ex-hacienda ""San Miguel del Rincón"", Papantla, Veracruz de Ignacio de la Llave, 93542, México"
+"Oaxaca, Zaachila, Mexico",16.950833,-96.749167,"Villa de Zaachila, Oaxaca, 71313, México"
+"Michoacán, Zacapú, Mexico",19.8184055,-101.7925083,"Zacapu, Michoacán de Ocampo, 58600, México"
+"Jalisco, Zapotlán, Mexico",20.4683607,-102.9278036,"Jalisco, La Colonia, Zapotlán del Rey, Jalisco, 45997, México"
+"Chiapas, Palenque, Mexico",17.5069182,-91.9783911,"Chiapas, El Panchán, Palenque, Chiapas, 29960, México"
+"Queretaro, Tequisquiapan, Mexico",20.6223414,-100.19326138830405,"Aeropuerto Intercontinental de Queretaro, Querétaro - Tequisquiapan, San José Navajas, El Marqués, Querétaro, México"
+"Teotihuacan, Cerro Gordo, Rancheria Cosotlan, Mexico",0,0,
+"Oaxaca, Tehuantepec, Cerro De Santa Maria, Mexico",0,0,
+"Tlatilco, Mexico",25.8338834,-97.4536706,"Tlatilco, Matamoros, Tamaulipas, 8765, México"
+"Santa Catharina, Mexico",-26.9129657,-49.0606139,"Rua México, Ponta Aguda, Blumenau, Microrregião de Blumenau, Mesorregião do Vale do Itajaí, Santa Catarina, Região Sul, 89015-200, Brasil"
+"Jalisco, Tuxcacuesco, Mexico",19.6966314,-103.9808394,"Calle México, Tuxcacuesco, Jalisco, 48770, México"
+"El Peten, Altar De Sacrificios, Guatemala",0,0,
+"Ixtlahuaca, Mexico",19.60141875,-99.81329173195388,"Ixtlahuaca, Estado de México, México"
+"Quiché, Chichicastenango, Guatemala",14.943710449999998,-91.11329285000001,"Chichicastenango, Quiché, GUATEMALA, Guatemala"
+"Yucatan, Chichen Itza, Mexico",0,0,
+"Sonora, Topolobampo, Mexico",31.3005104,-110.9345588,"Topolobampo, Heroica Nogales, Municipio de Nogales, Sonora, 84074, México"
+"San Simon, Mexico",18.9664951,-97.7110501,"San Simón, Quecholac, Puebla, 75460, México"
+"Cartago, Costa Rica",9.7410738,-83.7122812,"Provincia Cartago, Costa Rica"
+"Veracruz, Tuxpan, Mexico",20.95821,-97.4040543,"Túxpan, Tuxpan, Veracruz de Ignacio de la Llave, 92800, México"
+"North Tlalmanalco, San Lorenzo Tlalmilmilpan, Mexico",0,0,
+"Hidalgo, Zimapan, Mexico",20.7371825,-99.382348,"Hidalgo, Plutarco Elías Calles (Santiago), Zimapán, Hidalgo, México"
+"Oaxaca, Tehuantepec Region, Mexico",0,0,
+"Tabasco, Tecolpa, Mexico",0,0,
+"El Peten, San Andrés, Guatemala",17.2708286,-90.8744237,"Río San Pedro (Guatemala-México), La Libertad, Petén, Guatemala"
+"Chiapas, Puma Station, El Real, Mexico",19.1987222,-96.1701588,"Chiapas, Buenavista, Camino Real, Veracruz, Municipio de Veracruz, Veracruz de Ignacio de la Llave, 91850, México"
+"Veracruz, Tempoal, Mexico",19.2085442,-96.2093245,"Tempoal, Torrentes, Fraccionamiento Costa Dorada, Colonia del Proletariado (Pica Pica), Municipio de Veracruz, Veracruz de Ignacio de la Llave, 91808, México"
+"Oaxaca, Cerro De La Bomba, Mexico",0,0,
+"Campeche, Jaina, Mexico",0,0,
+"West Mexico, Colima, Mexico",19.8088127,-98.7003469,"Colima, Nopaltepec, Estado de México, México"
+"Jalisco, San Nicolas Chapala, Mexico",0,0,
+"Sacatepéquez, Antigua Guatemala, Guatemala",14.5652616,-90.689325,"Carretera de Antigua a Guatemala, Sacatepéquez, Santa Lucía Milpas Altas, Sacatepéquez, 03009, Guatemala"
+"Huasteca, Mexico",21.2642655,-97.7043928,"La Huasteca, Terrenos del Lote ""Zacamixtle"", Tancoco, Veracruz de Ignacio de la Llave, México"
+"San Miguel Nonoalco, Mexico",19.5536293,-98.866456,"Nonoalco, Chiautla, Estado de México, 56270, México"
+"Veracruz, Cerro De Las Mesas, Mexico",0,0,
+"Copan, Honduras",14.894573600000001,-88.92625890244373,"Copán, Honduras"
+"Oaxaca, Misteca, Mexico",0,0,
+"Bonacca Island, Marble Hill, Honduras",0,0,
+"Oaxaca, Tillantongo, Mexico",0,0,
+"Teoloyucan, Mexico",19.75797385,-99.17303298734157,"Teoloyucan, Estado de México, México"
+"Veracruz, San Andres Tuxtla, Mexico",18.440303,-95.2174725,"Veracruz, Prolongación Primitivo R. Valencia, San Andrés Tuxtla, Veracruz de Ignacio de la Llave, 95700, México"
+"De La Baie De La Pay, Kitchen Midden, Mexico",0,0,
+"Toluca Valley, Tenancingo, Teotla, Mexico",0,0,
+"Puebla, Cuetzalan, Zacatipan, Mexico",20.039722,-97.435833,"Zacatipan, Cuetzalan del Progreso, Puebla, México"
+"Sacabaja, Mexico",0,0,
+"Roatan Island, Jonesville Bight, Honduras",0,0,
+"San Juan Teotihuacán, West Of Superpuestos, Mexico",0,0,
+"Nayarít, Ixtlán, Mexico",21.4754218,-104.8769678,"Ixtlán, Infonavit Los Fresnos, Tepic, Municipio de Tepic, Nayarit, 63197, México"
+"Quiché, Guatemala",15.4195605,-90.9460526,"Quiché, Guatemala"
+"Mexico City, Cathedral, Mexico",27.9084759,-110.9009884,"Cathedral, Guaymas, Sonora, 85400, México"
+"Santiago Ahuitzotla, El Corral, South, Mexico",0,0,
+"Zacapa, Guatemala",14.9661596,-89.5180314,"Zacapa, Guatemala"
+"Oaxaca, Huilotepec, Mexico",16.243889,-95.15,"San Pedro Huilotepec, Oaxaca, México"
+"Huehuetenango, Quen Santo, Guatemala",0,0,
+"Western Mexico, Mexico",34.0599968,-106.902616,"Western, Western Hills, Florida, Socorro, Socorro County, New Mexico, 87801, United States of America"
+"Conteros On Edge Of Pedregal, Mexico",0,0,
+"Chiapas, Chocolja, Mexico",17.2709313,-91.7350685,"Chocolja, Palenque, Chiapas, México"
+"Coyotepec, Mexico",18.39581975,-97.8331099037162,"Coyotepec, Puebla, México"
+"Chiapas, Palace Of Palenque, Mexico",0,0,
+"Highlands Of Costa Rica, La Concepcion, Costa Rica",0,0,
+"Sinaloa, San Blas, Mexico",21.5425188,-105.2841721,"Sinaloa, Matanchen, San Blas, Nayarit, 63774, México"
+"Oaxaca, Miahuatlan, San Jose Lachiguiri, Mexico",0,0,
+"San Isidro, General Valley, Costa Rica",10.02995065,-84.03207521651726,"Cantón San Isidro, Provincia Heredia, Costa Rica"
+"Veracruz, Tuzapan, Mexico",0,0,
+"San Luis Potosi, Mexico",22.5000001,-100.5000001,"San Luis Potosí, México"
+"Oaxaca, Ejutla, Mexico",16.565554,-96.7300282,"Ejutla, Heroica Ciudad de Ejutla de Crespo, Oaxaca, 71500, México"
+"Jalisco, Rancho Zapote, Mexico",0,0,
+"Chiapas, Ocozuqu, Mexico",0,0,
+"Chiapas, Mexico",16.5000001,-92.5000001,"Chiapas, México"
+"Toluca Valley, Metepec, Mexico",19.242998,-99.5499367,"Toluca, San Salvador Tizatlalli, San Gaspar Tlahuelilpan, Metepec, Estado de México, 52145, México"
+"Chihuahua, Pueblo Panalachic, Mexico",0,0,
+"Kruta River, Honduras",15.1011153,-83.553164,"Río Kruta, Ramón Villeda Morales, Gracias a Dios, Honduras"
+"Ustuppu Island, Panama",0,0,
+"Sonora, Mexico",29.3333331,-110.6666671,"Sonora, México"
+"Terraba, Costa Rica",9.0675346,-83.2861288,"Térraba, Potrero Grande, Cantón Buenos Aires, Provincia Puntarenas, 60303, Costa Rica"
+"Tamaulipas, Tampico, Mexico",22.2195209,-97.8585296,"Tamaulipas, Tampico, Tamaulipas, 89080, México"
+"Sonora, San Jose, Mexico",16.736602,-92.6527696,"Sonora, Alcanfores, San Cristóbal, San Cristóbal de las Casas, Chiapas, 29200, México"
+"Lake Yajoa, Las Ventanas Island, One Mile North At Site On Mainland, Honduras",0,0,
+"Agua Caliente, Mexico",21.5541092,-104.83929,"Agua Caliente, Tepic, Municipio de Tepic, Nayarit, 63500, México"
+"Izalco, El Salvador",13.7464194,-89.675075,"Izalco, Municipio de Izalco, Departamento de Sonsonate, República de El Salvador"
+"Oaxaca, Huarumbo, Mexico",15.992222,-97.089167,"El Huarumbo, San Pedro Mixtepec, Oaxaca, México"
+"Coatlinchan, Mexico",19.4679925,-98.878042,"Coatlinchan, Tolimpa, Lomas de Cristo, Texcoco, Estado de México, 56236, México"
+"Alta Verapaz, Pansamala, Guatemala",0,0,
+"Huehuetenango, Quen Santo, Casa Del Sol, Guatemala",0,0,
+"Quiché, Zacualpa, Guatemala",15.0890724,-90.88310138387175,"Zacualpa, Quiché, Guatemala"
+"Cara Lucia, El Salvador",0,0,
+"San Francisco, Altamira, Mexico",19.56714,-96.9499088,"San francisco, Altamira, Colonia Insurgentes, Fernando Gutiérrez Barrios, Xalapa, Veracruz de Ignacio de la Llave, 91018, México"
+"Oaxaca, Quiengola Region, Mexico",0,0,
+"Quiché, Nebaj, Guatemala",15.3645947,-91.0967403,"Ruta Quiche - Nebaj, Cunén, Quiché, 14013, Guatemala"
+"Bocay River, Nicaragua",13.5425209,-85.5401699,"Bocay, San José de Bocay (Municipio), Jinotega, 66600, Nicaragua"
+"Aguascalientes, San Antonio, Guatemala",22.075837,-102.2710785,"Guatemala, San Francisco de Los Romo, San Francisco de los Romo, Aguascalientes, 20305, México"
+"Veracruz, Alamo Region, Mexico",0,0,
+"Capotitlan, Mexico",0,0,
+"Sonora, Sahuaripa, Mexico",29.0549963,-109.2347554,"Sahuaripa, Sonora, México"
+"Cuanalan, Mexico",19.6146996,-98.9165895,"Cuanalán, Acolman, Estado de México, 55886, México"
+"Quetzaltenango, Quetzaltenango, Guatemala",14.8464612,-91.5194208,"Quetzaltenango, 09001, Guatemala"
+"Oaxaca, San Bartolo Yautepec, Mexico",16.428333,-95.973611,"San Bartolo Yautepec, Oaxaca, México"
+"Buenos Aires, Terraba, Costa Rica",0,0,
+"Ranch Ratontita, Mexico",0,0,
+"Chimaltenango, San Martín Jilotepeque, Guatemala",14.7790862,-90.7923389,"Carretera de San Martin Jilotepeque a Chimaltenango, San Martín Jilotepeque, Chimaltenango, Guatemala"
+"Oaxaca, Tlaxiaco, Mexico",17.269444,-97.679167,"Tlaxiaco, Heroica Ciudad de Tlaxiaco, Oaxaca, 69800, México"
+"Michoacán, Uruapan - Cheran, Mexico",19.6961907,-101.96641578826754,"Escuela Normal Indígena de Michoacán, Carretera Carapan-Playa Azul, Cherán, Michoacán de Ocampo, 60270, México"
+"Mexico City, Mexico",19.4326009,-99.1333416,"Ciudad de México, Cuauhtémoc, Ciudad de México, 06060, México"
+"Oaxaca, Nejapa, Mexico",17.096389,-96.155278,"Nejapa, Santa María Tlahuitoltepec, Oaxaca, México"
+"Corinto Chinandega, Nicaragua",12.4816978,-87.1742553,"Corinto, Corinto (Municipio), Chinandega, 26400, Nicaragua"
+"Jalisco, Santa Cruz Chapala, Mexico",20.286389,-103.336389,"Colegio Mexico, Carretera Chapala - Jocotepec, San Juan Cosalá, Jocotepec, Jalisco, 45820, México"
+"Quiché, Joyabaj, Guatemala",15.0032702,-90.80933088309162,"Joyabaj, Quiché, Guatemala"
+"Oaxaca, Chilapuilla, Tlaxiaco, Mexico",0,0,
+"San Jose Siclaltepec Puebla, Puebla, Mexico",0,0,
+"Tlapacoya, Mexico",20.13690755,-97.8252880056836,"Tlapacoya, Puebla, México"
+"Tenayuca, Mexico",20.541719,-97.4606808,"Tenayuca, Poza Rica, Terrenos del Lote 3 ""Poza Rica"", Poza Rica de Hidalgo, Veracruz de Ignacio de la Llave, 93320, México"
+"Sinaloa, Aguaruto Culiacary, Mexico",0,0,
+"Sonora, Tayopa, Mexico",28.6393333,-108.8728333,"Tayopa, Sahuaripa, Sonora, México"
+"Veracruz, Panuco, El Prisco Site, Mexico",0,0,
+"Puebla, Huauchinango, Caucuilla, Mexico",0,0,
+"Guerrero, San Miguel, Mexico",20.287985,-98.6721347,"Guerrero, San Miguel, Atotonilco el Grande, Hidalgo, México"
+"Jalisco, Zapotiltec, Mexico",0,0,
+"Michoacán, Paranguitiro, Mexico",0,0,
+"Oaxaca, Mixteca, Mexico",17.0879211,-96.6963421,"Calle Mixteca, Guadalupe Victoria, Oaxaca, Municipio de Oaxaca, Oaxaca, 68020, México"
+"Oaxaca, Cuilapa, Teocalli, Mexico",0,0,
+"Veracruz, Panuco, Zaquil, Mexico",0,0,
+"Veracruz, Panuco, San Cristobal, Mexico",22.0314027,-98.184241,"Veracruz, San Cristóbal, Pánuco, Veracruz de Ignacio de la Llave, 93990, México"
+"Chihuahua, Carichic, Santa Catarina, Mexico",0,0,
+"Michoacán, Patamban, Mexico",19.8032621,-102.2912225,"Patamban, Tangancícuaro, Michoacán de Ocampo, México"
+"Santa Fe, Mexico",30.6784644,-115.9753523,"Santa Fe, Ensenada, Baja California, 22923, México"
+"Michoacán, Ihuatzio, Mexico",19.5657773,-101.6184169,"Ihuatzio, Tzintzuntzan, Michoacán de Ocampo, 61615, México"
+"Michoacán, Ocumicho, Mexico",19.7962565,-102.2224506,"Ocumicho, Charapan, Michoacán de Ocampo, México"
+"Chiapas, Guatemala",16.7883317,-93.0960689,"Guatemala, Las Canteras, Tuxtla Gutiérrez, Chiapas, 29017, México"
+"Oaxaca, Lieza And Boca Del Rio, Mexico",0,0,
+"Oaxaca, Mojarras, Mexico",0,0,
+"Tabasco, Trinidad, Mexico",19.1436068,-96.1411463,"Tabasco, Flores del Valle, Geovillas del Puerto, Veracruz, Municipio de Veracruz, Veracruz de Ignacio de la Llave, 94297, México"
+"Atzcapozalco, Mexico",26.0721958,-98.2700516,"Atzcapozalco, Reynosa, Tamaulipas, 88500, México"
+"Ancon, Panama",8.95853095,-79.54245765387046,"Ancon, Calle I, Santa Ana, Panamá, Distrito Panamá, Panamá, C-0843-00793, Panama"
+"Coyoacan, Mexico",19.32804005,-99.15106340693589,"Coyoacán, Ciudad de México, México"
+"Tlalmanalco, Mexico",19.206607499999997,-98.7323191358236,"Tlalmanalco, Estado de México, México"
+"Brickyard Monument Of Quetzalcoatl, Mexico",0,0,
+"Veracruz, Isla De Pithaya, Mexico",0,0,
+"Veracruz, San Cristobal, Tampeche, Mexico",0,0,
+"Tabasco, Mexico",17.95078635,-92.48312213241397,"Tabasco, México"
+"Puebla, Panhuatlan, Atla And Xolotla, Mexico",0,0,
+"Department Guatemala, San Pedro Sacatepéquez, Guatemala",0,0,
+"Guerrero, Iguila, Mexico",0,0,
+"Jalisco, Lake Zacoalco, Tizapán, Mexico",0,0,
+"Pixana, Mexico",-2.9901832,-59.9963379,"Rua Careaçu, Vila Santa Etelvina, Santa Etelvina, Manaus, Microrregião de Manaus, Mesorregião Centro Amazonense, Amazonas, Região Norte, 69000-000, Brasil"
+"Jalisco, Nostic, Totoate, Mexico",0,0,
+"Escalarillas, Mexico",0,0,
+"Campeche, Island Of Jaina, Mexico",0,0,
+"Travesia, Honduras",14.10051975,-87.1491582445363,"La Travesia, Tegucigalpa, Francisco Morazán, Honduras"
+"Santiago Ahuitzotla Neighborhood, Mexico",0,0,
+"South Bank Of Rio Tamasi, Mexico",0,0,
+"Oaxaca, San José Lachiquire, Mexico",0,0,
+"Huehuetenango, Guatemala",15.6634185,-91.5839796,"Huehuetenango, Guatemala"
+"Alta Verapaz, Tamahú, Guatemala",0,0,
+"San Pablito Pahuatlan, Mexico",20.302222,-98.161944,"San Pablito, Pahuatlán, Puebla, México"
+"Oaxaca, Ladrillera Juchitan, Mexico",0,0,
+"Northeast Coast Of Cuba, Baracoa, Cuba",0,0,
+"Oaxaca, Huitzo, Mexico",17.2776683,-96.9188239,"Autopista Tehuacán - Oaxaca, Santa María Tenéxpam, San Pablo Huitzo, Oaxaca, 68220, México"
+"Guerrero, Xochipala, Mexico",17.810278,-99.639444,"Xochipala, Eduardo Neri, Guerrero, México"
+"Michoacán, Mexico",19.207098,-101.878113,"Michoacán de Ocampo, México"
+"Tabasco, Monte Cristo, Mexico",0,0,
+"Jalisco, Guadalajara, Mexico",20.696765,-103.303591,"Jalisco, Calle San Eugenio, Circunvalación Oblatos, Guadalajara, Jalisco, 44700, México"
+"Huehuetenango, Chacula, Guatemala",15.9854143,-91.6427555,"Chacula, Nentón, Huehuetenango, Guatemala"
+"Oaxaca, Tututepec, Mexico",16.128333,-97.608611,"Villa de Tututepec de Melchor Ocampo, Oaxaca, México"
+"Atzacapotzalco, Mexico",0,0,
+"Olanchito, Jaruca, Honduras",0,0,
+"Bonacca Island, Kelly'S Hill, Honduras",0,0,
+"San Juan Teotihuacán, Superpuestos, Mexico",0,0,
+"Sonora, Guiriego, Mexico",0,0,
+"Oaxaca, Tehuantepec Region, Quiengola Lowlands, Mexico",0,0,
+"Department Guatemala, Guatemala City, Guatemala",0,0,
+"Nayarít, Sentispac, Mexico",21.8060806,-105.3485012,"México, Sentispac, Santiago Ixcuintla, Nayarit, 63565, México"
+"La Mesa Del Nayarit, Mexico",21.0211161,-105.2665844,"Mesa, Colonia Betel, Colonia Paraiso Escondido, Rincon de Guayabitos, Compostela, Nayarit, 63727, México"
+"Sololá, Nahualá, Guatemala",14.7341978,-91.442601047484,"Nahualá, Sololá, Guatemala"
+"Corozal, Belize",18.22156475,-88.28867921366478,"Corozal, Belize"
+"Caiman Nuevo, Panama",25.8023866,-100.3364828,"Islas Caiman, BOSQUES DE ESCOBEDO, General Escobedo, Nuevo León, 66053, México"
+"Oaxaca, Zanatenco, Mexico",0,0,
+"Morelos, Mexico",18.75,-99.0,"Morelos, México"
+"Oaxaca, Sola, Mexico",16.5640037,-96.9536273,"Carretera Oaxaca - Puerto Escondido, San Ildefonso Viejo, San Ildefonso Sola, Oaxaca, México"
+"Txolan, Tepic, Mexico",0,0,
+"Nexapa, El Salvador",0,0,
+"Yucatan, Mayapan, Mexico",20.4678073,-89.2137511,"Mayapán, Yucatán, México"
+"Texcoco, Papalotla, Mexico",19.550731,-98.8634434,"Camino a Papalotla, Coxotla, Papalotla, Estado de México, 56270, México"
+"Campeche, Mexico",19.329205549999998,-89.9439148263377,"Campeche, México"
+"Oaxaca, Tres Cruces, Mexico",0,0,
+"Chihuahua, Nabogame, Mexico",31.6337814,-106.3985041,"Calle Nabogame, Ciudad Juárez, Juárez, Chihuahua, 32693, México"
+"Oaxaca, Chiltepec, Mexico",17.944309,-96.173069,"Carretera Federal Oaxaca - Tuxtepec, El Fortín, San José Chiltepec, Oaxaca, México"
+"Oaxaca, Santa Maria Juquila, Mexico",0,0,
+"Morelos, Hueyapan, Mexico",18.1576132,-95.1838946,"Morelos, Juan Diaz Covarrubias, Meapan de Caldelas, Juan Díaz Covarrubias, Hueyapan de Ocampo, Veracruz de Ignacio de la Llave, México"
+"Nonoalco, Mexico",19.5536293,-98.866456,"Nonoalco, Chiautla, Estado de México, 56270, México"
+"Guerrero, Puerto De Real De Lemon, Mexico",0,0,
+"Ixtlan, Mexico",20.149178550000002,-102.41806746656182,"Ixtlán, Michoacán de Ocampo, México"
+"Michoacán, San Francisco Peribán, Mexico",19.5555037,-102.3993067,"San Francisco Peribán, Peribán, Michoacán de Ocampo, México"
+"Michoacán, Uruapan, Mexico",19.4053279,-102.0445365,"México, Uruapan, Michoacán de Ocampo, 60050, México"
+"Jalisco, Rancho Reparo, Mexico",0,0,
+"Tula, Mexico",22.94788165,-99.8055882397013,"Tula, Tamaulipas, México"
+"San Isidro De Arenilla, Costa Rica",0,0,
+"Tenenepanco, Slopes Of Volcano Popocatepetl, Mexico",0,0,
+"Veracruz, Cuatalapan, Mexico",0,0,
+"Tiripitec, Acambero Region, Mexico",0,0,
+"Santiago Ahuitzotla, El Corral, Center, Mexico",0,0,
+"Oaxaca, Jalapa, Mexico",16.5573679,-95.4626878,"Supercarretera Tehua - Lachiguiri, Colonia Presidente Juárez, Santa María Jalapa del Marqués, Oaxaca, México"
+"Lake Chapala Region, Mexico",0,0,
+"Chihuahua, Nabogame, Talayote, Mexico",0,0,
+"Chihuahua, Norogachic, Mexico",0,0,
+"Suchitepéquez, Mazatenango, Guatemala",14.48069,-91.483382,"Santo Domingo Suchitepéquez, Suchitepéquez, Guatemala"
+"Rivas, Nicaragua",11.3897472,-85.6237074,"Rivas, Nicaragua"
+"Alta Verapaz, Chichen San Juan Chamelco, Guatemala",0,0,
+"Tenancingo, Mexico",18.964659150000003,-99.56898209468059,"Tenancingo, Estado de México, 52400.0, México"
+"Ixtapaluca, Mexico",19.3170983,-98.9050144,"Ixtapaluca, Estado de México, 56535, México"
+"Amecameca, Mexico",19.120025400000003,-98.70653181362624,"Amecameca, Estado de México, México"
+"Guerrero, Zumpango, Mexico",17.933333,-98.683056,"Zumpango, Olinalá, Guerrero, México"
+"Veracruz, Cempoala, Mexico",19.1561116,-96.1675488,"Cempoala, Fraccionamiento Xana, Geovillas del Puerto, Veracruz, Municipio de Veracruz, Veracruz de Ignacio de la Llave, 91779, México"
+"Tacuba, Mexico",19.4565077,-99.1884397,"Tacuba, Miguel Hidalgo, Ciudad de México, 11410, México"
+"Las Huacas, Costa Rica",10.2299101,-85.023067,"Las Huacas, Las Juntas, Cantón Abangares, Provincia Guanacaste, 50701, Costa Rica"
+"Ozumba, Chimal, Mexico",0,0,
+"Roatan Island, North Coxen Hole, Honduras",16.34902105,-86.49775165651938,"Roatán, Coxen Hole, Roatan, Islas de la Bahía, 33166, Honduras"
+"Puerto Castilla, La Francia, Honduras",0,0,
+"Cerro Tortuga, Mexico",-45.8332474,-67.4933801,"Cerro Tortuga, Sismografica, General Mosconi, Comodoro Rivadavia, Departamento Escalante, Chubut, 9005, Argentina"
+"Sonora, La Playa, Mexico",29.1708333,-110.4233333,"La Playa, Ures, Sonora, México"
+"Sonora, Guaymas, Miramar Beach, Mexico",0,0,
+"Quiché, Chichicastenango, St. Thomas, Guatemala",0,0,
+"Totonicapán, Momostenango, Guatemala",15.11180915,-91.36090889438734,"Momostenango, Totonicapán, Guatemala"
+"San Andres, Mexico",18.7905653,-97.0959372,"San Andres, Tlilapan, Veracruz de Ignacio de la Llave, 94410, México"
+"Totonicapán, Guatemala",15.0424999,-91.40610219934399,"Totonicapán, Guatemala"
+"Chiapas, Jetya River, Mexico",0,0,
+"Michoacán, Janitzio, Mexico",19.5740967,-101.6516684,"Janitzio, Pátzcuaro, Michoacán de Ocampo, 61630, México"
+"Oaxaca, Santo Tomas Jalieza, Mexico",16.844722,-96.670556,"Santo Tomás Jalieza, Santo Domingo Jalieza, Santo Tomás Jalieza, Oaxaca, 71506, México"
+"Sololá, Lake Atitlan, Santa Catarina, Guatemala",0,0,
+"Xalatlaco, Mexico",19.1659687,-99.37192201480873,"Xalatlaco, Estado de México, México"
+"Michoacán, Surumata, Mexico",0,0,
+"Jalisco, Lake Chapala, San Nicolas, Mexico",0,0,
+"Chihuahua, Cave Valley, Mexico",0,0,
+"Jalisco, Tala, Pueblo On R.R. Guadalajara, Ameca, Mexico",0,0,
+"Jalisco, Mezquite, Mexico",21.2568364,-102.3373187,"Mezquite, San Juan de los Lagos, Jalisco, 47020, México"
+"Chihuahua, Guachochic, Arroyo Des Iglesias, Mexico",0,0,
+"Oaxaca, Ocotlán, Mexico",20.355816,-102.7805153,"Oaxaca, Ocotlán, Jalisco, 47850, México"
+"Rancho Viejo, Mexico",28.6823329,-107.9622624,"Rancho Viejo, Temósachic, Chihuahua, México"
+"Morelos, Caves Cuernavaca, Mexico",0,0,
+"Bonacca Island, Pine Ridge, Honduras",0,0,
+"San Miguel Jaltocan, Mexico",20.619722,-97.817778,"Jaltocan, Francisco Z. Mena, Puebla, México"
+"West Of Antigua Vera Cruz, Zapapolin, Mexico",0,0,
+"Sonora, Hermosillo, Mexico",29.0819294,-110.953673,"Sonora, Hermosillo, Sonora, 83000, México"
+"Oaxaca, Between San Geronimo And Juchitan, Espinal, Mexico",0,0,
+"Bay Islands, Honduras",16.3217674,-86.17868327530661,"Islas de la Bahía, Honduras"
+"Veracruz, Capitan, Mexico",18.0064655,-94.6336144,"Capitan ariza, Los Encinos, Cosoleacaque, Veracruz de Ignacio de la Llave, 96349, México"
+"Chihuahua, Territory Of Guachochic, Pino Gordo, Mexico",0,0,
+"Hidalgo, Valle Del Mesquital, Barrio De Arbolillo, Tasquillo, Mexico",0,0,
+"Chimaltenango, Patzicía, Guatemala",14.632440299999999,-90.92936960655643,"Patzicía, Chimaltenango, Guatemala"
+"Veracruz, Tuxpilla, Mexico",0,0,
+"Tampico-Panuco Region, Mexico",0,0,
+"Oaxaca, San Jose Paraiso, Mexico",16.8924168,-95.5110811,"San José el Paraíso, Santo Domingo Tehuantepec, Oaxaca, México"
+"Penon, Mexico",19.675833,-98.182222,"El Peñón, Tlaxco, Tlaxcala, México"
+"Guerrero, Tenanguillo, Mexico",18.475833,-99.828889,"Tenanguillo de las Cañas, Ixcateopan de Cuauhtémoc, Guerrero, México"
+"Michoacán, Pungo Arbato, Mexico",0,0,
+"Michoacán, Pueblo Paranguitiro, Mexico",0,0,
+"Michoacán, Capacuaro Uruapan, Mexico",19.5467665,-102.0524988,"Capacuaro, Uruapan, Michoacán de Ocampo, 55280, México"
+"Nayarít, Rancho Of Velandro, Mexico",0,0,
+"Nayarít, Ixtlán, Pueblo Jomulco, Mexico",0,0,
+"Jalisco, Nostic, Mexico",0,0,
+"Yucatan, Cozumel, Mexico",0,0,
+"Oaxaca, Tlacolula, Mexico",16.955778,-96.4757598,"Tlacolula, Tlacolula de Matamoros, Oaxaca, 70400, México"
+"Atlatlanca, Mexico",0,0,
+"Quetzaltepeque, El Salvador",13.8454887,-89.28741554231887,"Municipio de Quetzaltepeque, La Libertad, República de El Salvador"
+"Texcoco, Tepetlaostoc, Mexico",0,0,
+"Chihuahua, Chico Canyon, Mexico",0,0,
+"Utila Island, Brandon'S Hill Cave, Honduras",0,0,
+"Teoloyucan, Cuaxoxoca, La Cruz, Mexico",0,0,
+"Veracruz, Topila, Perrera, Mexico",0,0,
+"Veracruz, Rio Panuco, Vega De Otates, Mexico",22.085,-98.098889,"Vega de Otates, Pánuco, Veracruz de Ignacio de la Llave, México"
+"Sonora, Rancho De Alamos, Mexico",0,0,
+"Sonora, Atil, Mexico",30.8446102,-111.5835041,"Atil, Sonora, México"
+"Bay Islands, Roatan, Honduras",16.3141682,-86.53818592630292,"Correos de Honduras, Calle Principal, Coxen Hole, Roatan, Islas de la Bahía, Honduras"
+"San Francisco Del Nayarit, Mexico",22.287796,-104.4981337,"San Francisco, Del Nayar, Nayarit, México"
+"Chiapas, Chamula, Mexico",16.7529165,-93.1285011,"Chamula, Las Canteras, Tuxtla Gutiérrez, Chiapas, 29000, México"
+"Hidalgo, Ixmiquilpan, Mexico",20.481944,-99.218056,"Ixmiquilpan, Hidalgo, 42300, México"
+"Hidalgo, Santa Ana, Mexico",23.6513656,-100.6238043,"Hidalgo, Matehuala, San Luis Potosí, 78715, México"
+"Island Of Carti, Panama",0,0,
+"Oaxaca, Tehuantepec, San Mateo Del Mar, Mexico",0,0,
+"Oaxaca, Yautepec, Santo Tomas Quierí, Mexico",16.348611,-96.181389,"Santo Tomás Quierí, San Carlos Yautepec, Oaxaca, México"
+"Guerrero, Cañada De Sopilote, Mexico",0,0,
+"Sonora, Sierra De Los Metates, Mexico",0,0,
+"Yzabal, Las Quebradas, Guatemala",0,0,
+"Yucatan, Uxmal, Mexico",25.846013,-100.4052463,"Calle Uxmal, NUEVO LEON ESTADO DE PROGRESO 2da. Etapa, (BARRIO YUCATAN), General Escobedo, Nuevo León, México"
+"Cerro De La Estrella, Mexico",19.3559895,-99.0856882,"Cerro de la Estrella, Calzada Ermita Iztapalapa, 8a. Ampliación San Miguel, Iztapalapa, Ciudad de México, 09837, México"
+"Utila Island, Big Bight, Honduras",0,0,
+"Uloa River, Honduras",0,0,
+"Tlalpan, Mexico",19.200877,-99.21701240427146,"Tlalpan, Ciudad de México, México"
+"Veracruz, Panuco, Tampacas, Mexico",0,0,
+"Oaxaca, San Pedro Quiatoni, Mexico",16.7829817,-96.0308237,"San Pedro Quiatoni, Oaxaca, México"
+"Puerto Rico, Utuado, United States",0,0,
+"Chihuahua, Aboreachic, Mexico",0,0,
+"Huehuetenango, Huehuetenango, Guatemala",15.3184301,-91.4723295,"Huehuetenango, Huenuetenango, Huehuetenango, ZONA 5, Guatemala"
+"Chimaltenango, Xilotepeque, San Martin, Guatemala",0,0,
+"Michoacán, Tarequato, Mexico",0,0,
+"Kukalaya River, Nicaragua",13.708931,-83.698144,"Kukalaya, Prinzapolka (Municipio), Región Autónoma de la Costa Caribe Norte, 72500, Nicaragua"
+"Puebla, Huauchinango, Mexico",20.1851073,-98.0552111,"Puebla, Totolapa (El Sifón), Huauchinango, Puebla, 73160, México"
+"Jalapa, Jalapa, Guatemala",14.6344164,-89.9897996,"Jalapa, Guatemala"
+"Kingston, Jamaica",17.9712148,-76.7928128,"Kingston, Surrey County, KINGSTON 14, Jamaika"
+"Morelos, Xalostoc, Mexico",20.21580975,-97.54496392791924,"Congregación José María Morelos, Terrenos del Lote Xalostoc, Coxquihui, Veracruz de Ignacio de la Llave, México"
+"Jalisco, Pueblo Sayula, Mexico",19.8821441,-103.5988944,"Sayula, Jalisco, 49300, México"
+"San Miguel, Mexico",21.2813188,-97.5630932,"San Miguel, Terrenos del Lote ""La Tinaja"", Tamiahua, Veracruz de Ignacio de la Llave, México"
+"Zacatecas, Real De Pinos, Mexico",22.7563998,-102.5063567,"Real de Pinos, Guadalupe, Zacatecas, 98615, México"
+"Oaxaca, Santo Domingo Albarradas, Mexico",17.066667,-96.2,"Santo Domingo Albarradas, Oaxaca, México"
+"Tlacotepec, Mexico",18.8138899,-98.7510255,"Tlacotepec, Zacualpan, Morelos, México"
+"San Jose, Alajuelita, Costa Rica",9.9027007,-84.1009748,"Alajuelita, Cantón Alajuelita, Provincia San José, 11001, Costa Rica"
+"El Peten, Planch De Piedra, Guatemala",0,0,
+"Barro () Santiago, El Salvador",13.8594646,-89.8025738,"Barrio Santiago, Apaneca, Municipio de Apaneca, Departamento de Ahuachapán, República de El Salvador"
+"Gulf Of California, Sonora, Tiburon Island, East Central Coast, Mexico",0,0,
+"Sonora, Mouth Of The Colorado River, Boca De Colorado, Mexico",0,0,
+"Veracruz, Cuatatolapan, Mexico",0,0,
+"Morelos, Cuernavaca, Gualupita, Pyramid I, Mexico",0,0,
+"Santa Maria Tianguistenco, Mexico",19.157222,-98.444167,"Santa María Tianguistenco, San Miguel Tianguizolco, Huejotzingo, Puebla, 74160, México"
+"Santiago Ahuitzotla, Between El Corral And Coyotlatelco, Mexico",0,0,
+"Veracruz, Topila, La Puerta, Mexico",0,0,
+"Veracruz, La Herradura, Mexico",19.493333,-96.975,"La Herradura, Coatepec, Veracruz de Ignacio de la Llave, 91539, México"
+"Vega De Otates, Mexico",22.085,-98.098889,"Vega de Otates, Pánuco, Veracruz de Ignacio de la Llave, México"
+"Sinaloa, Haciendita, Mexico",19.5501497,-96.9251895,"Sinaloa, Progreso Macuiltépetl, Colonia Insurgentes, Xalapa, Veracruz de Ignacio de la Llave, 91130, México"
+"Sinaloa, Bamoa, Mexico",25.7053028,-108.3452203,"Bamoa, Guasave, Sinaloa, México"
+"Sonora, Ures, Mexico",29.4280461,-110.3906196,"Sonora, El Huahui, Ures, Sonora, 84900, México"
+"Chihuahua, Guachochic, Mexico",31.5930256,-106.3179371,"Calle Vistas De Guachochic, Loma Blanca, Juárez, Chihuahua, 32599, México"
+"Los Altos, Guatemala",14.56792205,-90.47004659043259,"Los Altos, La Nueva Concepcion, Santa Catarina Pinula, Guatemala"
+"Baja Verapaz, Cubulco, Guatemala",0,0,
+"Cerro De Colotlan, Mexico",0,0,
+"Oaxaca, Garrapateras, On The Coast To The Astata, Mexico",0,0,
+"Sololá, Santiago Atitlán, Guatemala",14.6439497,-91.227434,"Universidad Panamericana de Guatemala, Carretera San Lucas Tolimán - Santiago Atitlán, KM. 15, Santiago Atitlán, Sololá, Guatemala"
+"Buenos Aires, Puntarenas, Ujarras, Costa Rica",0,0,
+"Hidalgo, Ixmiquilpan - Zimapan, Mexico",20.7439,-99.392894,"Ixmiquilpan, Benito Juárez (Detzani), Zimapán, Hidalgo, México"
+"Oaxaca, Pinotepa, Mexico",16.3406076,-98.0536701,"Santiago Pinotepa Nacional, Oaxaca, México"
+"Oaxaca, Jalieza, Mexico",16.866111,-96.628611,"Santo Domingo Jalieza, Santo Tomás Jalieza, Oaxaca, México"
+"Oaxaca, Mare Muerto, Mexico",0,0,
+"Pomona, Belize",16.9976748,-88.3479817,"Pomona, Stann Creek District, Stann Creek, Belize"
+"El Arbolillo, Zacatenco, Mexico",19.536255,-99.1420066,"Cerrada Zacatenco, El Arbolillo, Gustavo A. Madero, Ciudad de México, 07240, México"
+"Yucatan, Acanceh, Mexico",20.8132499,-89.4529359,"Acanceh, Yucatán, México"
+"Tamaulipas, Vacinity Of Rio Panuco, Mexico",0,0,
+"Guerrero, Huitziltepec, Mexico",17.7558699,-99.4807342,"Huitziltepec, Eduardo Neri, Guerrero, México"
+"State Line Of Guerrero And Morelos, Mexico",0,0,
+"Sonora, Nacori, Mexico",29.1053333,-111.8218333,"El Nacori, Hermosillo, Sonora, México"
+"Jalisco, Teocuitatlan, Guadalajara, Mexico",0,0,
+"Chalco, Santa Catarina, Mexico",18.9967262,-98.1697518,"Chalco, Lomas de San Miguel, Lomas de Santa Catarina, Puebla, Municipio de Puebla, Puebla, 72595, México"
+"Yucatan, Ticul, Mexico",20.3966705,-89.5350323,"Ticul, Yucatán, México"
+"Cookra Point, Nicaragua",0,0,
+"San Jacinto, El Salvador",10.2183156,-67.5282788,"C. Salvador Allende, Parcelamiento San Luis, Santa Rita, Aragua, Central, 2115, Venezuela"
+"Sonora, Coast Of Sonora, St. Peter'S Harbor, Mexico",0,0,
+"San Juan Teotihuacán, Moon, Mexico",0,0,
+"Sonora County, Magdalena, Alamo, Mexico",30.5196667,-110.8385,"El alamo, Magdalena, Sonora, México"
+"San Andres Atoyac, Tlalmanalco, House Las Palomas, Mexico",0,0,
+"Santiago Ahuitzotla, Adjacent To El Corral, Mexico",0,0,
+"Veracruz, Mata De Palacho, Topila, Mexico",0,0,
+"Sonora, Rancho El Alama, Mexico",0,0,
+"Veracruz, Tres Zapotes, Mexico",18.466667,-95.436389,"Tres Zapotes, Santiago Tuxtla, Veracruz de Ignacio de la Llave, México"
+"Veracruz, San Cristobal, Herradura, Mexico",0,0,
+"Veracruz, Chila, Mexico",20.783611,-98.181944,"Chila, Tenantitla, Benito Juárez, Veracruz de Ignacio de la Llave, México"
+"Iguala, Mexico",18.3466358,-99.5376944,"Iguala, Iguala de la Independencia, Guerrero, México"
+"Parita, Panama",8.035744000000001,-80.57281803208829,"Distrito Parita, Herrera, Panama"
+"Taeakata, Mexico",0,0,
+"Chimaltenango, Patzún, Guatemala",14.650830299999999,-91.03096279651012,"Patzún, Chimaltenango, 502, Guatemala"
+"Chimaltenango, Zumpango, Guatemala",0,0,
+"Alta Verapaz, Tactic, Guatemala",0,0,
+"Sonora, West Of Torres, Mexico",0,0,
+"Nahuizalco, El Salvador",13.7792182,-89.7372948,"Nahuizalco, Departamento de Sonsonate, República de El Salvador"
+"Bocay, Nicaragua",13.5425209,-85.5401699,"Bocay, San José de Bocay (Municipio), Jinotega, 66600, Nicaragua"
+"Alta Verapaz, San Pedro Carchá, Guatemala",0,0,
+"Oaxaca, Huamelula, Mexico",16.0249793,-95.6659466,"México 70, San Pedro Huamelula, Oaxaca, México"
+"Quetzaltenango, San Martin Sacatepéquez, Guatemala",0,0,
+"Department Guatemala, Chinautla, Guatemala",0,0,
+"Oaxaca, Zapotecas, Mexico",17.0542062,-96.7543374,"Zapotecas, Arbolada Ilusión, Oaxaca, Municipio de Oaxaca, Oaxaca, 68154, México"
+"Oaxaca, Tlapiltepec, Mexico",17.809444,-97.431944,"San Mateo Tlapiltepec, Oaxaca, México"
+"Oaxaca, Tillo, Mexico",17.4594897,-97.319786,"Santiago Tillo, Oaxaca, México"
+"Xacatlancillo, Mexico",0,0,
+"Nayarít, Tepic, Rancho Trajitezio, Mexico",0,0,
+"Michoacán, Peribán, Mexico",20.3389367,-102.034056,"Peribán, El Fuerte, La Piedad de Cabadas, La Piedad, Michoacán de Ocampo, 59380, México"
+"Texcoco, Papalotl, Mexico",0,0,
+"Jalisco, Atoyac, Rancho Tehuantepsec, Mexico",0,0,
+"Oaxaca, Zegache, Mexico",16.8689453,-96.7642522,"Carretera Oaxaca - Puerto Escondido, Colonia el Pajarito, Zimatlán de Álvarez, Oaxaca, 71200, México"
+"Jalisco, Antiquisa, Mexico",0,0,
+"Jalisco, Bought Of Dealer In Teuchitlán, Mexico",0,0,
+"Oaxaca, Jalpa, Mexico",0,0,
+"Jalisco, Canton Of Autlan, Rio Cuismala, Mexico",0,0,
+"Oaxaca, Matatlán, Mexico",16.864722,-96.383611,"Santiago Matatlán, Oaxaca, México"
+"Jalisco, San Martin De Tonala, Guadalajara, Mexico",0,0,
+"Jalisco, Environs De Guadalajara, San Martin Tlaxicoltzingo De Tonala, Mexico",0,0,
+"Northern Honduras, Puerto Cortez, La Champa, Honduras",0,0,
+"Guanajuato, La Luz, Mexico",16.8663158,-99.8945661,"Guanajuato, Progreso, Carabalí, Acapulco, Acapulco de Juárez, Guerrero, 39300, México"
+"Cookra Point, Bluefields, Nicaragua",0,0,
+"Wanko River, Nicaragua",0,0,
+"Finca Arevalo, Guatemala",0,0,
+"Bonacca Island, Stanley'S Hill, Honduras",0,0,
+"San Juan Teotihuacán, Station, Mexico",19.6875296,-98.8757397,"Teotihuacán, Estado de México, 55845, México"
+"Oaxaca, Taviche, Mexico",16.712778,-96.594167,"San Jerónimo Taviche, Oaxaca, México"
+"Michoacan, Uruapan, Hacienda Of El Sabino, Mexico",0,0,
+"El Prisco Brickyard, Mexico",0,0,
+"Veracruz, Panuco, El Tigre, Topila And Mexico City Short Line, Mexico",0,0,
+"Sinaloa, Mochicahue, Mexico",0,0,
+"Sonora, Guaymas, Mexico",28.0661064,-110.5344127,"Sonora, Guaymas, Sonora, 85400, México"
+"Sinaloa, Mazatlán, Mexico",23.2555908,-106.3965162,"Sinaloa, La Campiña, Villa Galaxia, Mazatlán, Sinaloa, 82000, México"
+"Chihuahua, Canyon Del Cobre, Mexico",0,0,
+"Veracruz, San Cristobal, Mexico",22.0314027,-98.184241,"Veracruz, San Cristóbal, Pánuco, Veracruz de Ignacio de la Llave, 93990, México"
+"Uloa Valley, United Fruit Co., Honduras",0,0,
+"Oaxaca, Between Quiengola And The River, Tehuantepec, San Pablo, Mexico",0,0,
+"Tehuiztla, Mexico",0,0,
+"West Mexico, Nayarít, Mexico",21.6822857,-104.3172559,"Mexico, Huajimic, La Yesca, Nayarit, México"
+"Baracoa, Jauco, Cuba",20.1107263,-74.339186,"Jauco, Maisí, Guantánamo, Cuba"
+"Ranch Ocota, Mexico",0,0,
+"Chiapas, Bachajon, Mexico",17.037225,-92.1883227,"Bachajón, Chilón, Chiapas, México"
+"Quiché, Sacahaja, Guatemala",0,0,
+"Quetzaltenango, Zunil, Guatemala",14.784802,-91.484805,"Zunil, Quetzaltenango, Guatemala"
+"Hidalgo, Mexico",20.5,-99.0,"Hidalgo, México"
+"Buenos Aires, Puntarenas, Salitre, Costa Rica",0,0,
+"Puebla, Panhuatlan, Atla, Mexico",0,0,
+"Puebla, Cuetzalan, Mexico",20.018611,-97.521111,"Cuetzalan, Cuetzalan del Progreso, Puebla, México"
+"Coahuila, Saltillo, Mexico",25.4399611,-100.996017,"Coahuila, Saltillo, Coahuila de Zaragoza, 25265, México"
+"Veraguas Province, Quebrada Querque, Panama",0,0,
+"Oaxaca, San Augustin Loxicha, Mexico",0,0,
+"Oaxaca, Astata, Mexico",15.986667,-95.673889,"Santiago Astata, Oaxaca, México"
+"Sacatepéquez, San Antonio Aguas Calientes, Guatemala",0,0,
+"Oaxaca, Santa Teresa, Mexico",18.6353372,-95.5028368,"Oaxaca, Santa Teresa, Lerdo de Tejada, Veracruz de Ignacio de la Llave, México"
+"Oaxaca, Cerro Bomba, Mexico",0,0,
+"Ometepe Island, Nicaragua",11.4817664,-85.5644065,"Ometepe Island, Altagracia (Municipio), Rivas, 48800, Nicaragua"
+"Oaxaca, Achiutla, Mexico",17.0653132,-96.7593077,"Achiutla, Arbolada Ilusión, Oaxaca, Municipio de Oaxaca, Oaxaca, 68154, México"
+"Texcoco, Cave At Coatlinchan, Mexico",0,0,
+"Guerrero, Texca, Mexico",17.011389,-99.823889,"Texca, Acapulco de Juárez, Guerrero, México"
+"Nayarít, Rancho Mezpa, Mexico",0,0,
+"Nayarít, Terrero, Mexico",0,0,
+"Nayarít, Rancho Mexpan, Mexico",0,0,
+"San Juan Tornaguac, Mexico",0,0,
+"Guerrero, Ahuehuepan, Mexico",18.005278,-99.498889,"Ahuehuepan, Tepecoacuilco de Trujano, Guerrero, México"
+"Jalisco, Guadalajara, Tala, Mexico",20.6552187,-103.7020971,"Tala, Region Valles, Jalisco, 45300, México"
+"Jalisco, San Juan Cosala, Mexico",20.2871633,-103.3407664,"San Juan Cosalá, Jocotepec, Jalisco, 45820, México"
+"Jalisco, Mexiquitre, Mexico",0,0,
+"Jalisco, Huejucan, Mexico",0,0,
+"Jalisco, Nostic, Boscas, Mexico",0,0,
+"Oaxaca, Zimatlán, Mexico",16.933056,-97.830833,"Zimatlán, Putla Villa de Guerrero, Oaxaca, México"
+"Tlaplan, San Fernando, Pyramid, Mexico",0,0,
+"Highlands Of Costa Rica, Costa Rica",0,0,
+"Coatepeque, El Salvador",13.8633342,-89.5473178931519,"Coatepeque, SAN 34, Santa Ana, Municipio de Santa Ana, Departamento de Santa Ana, República de El Salvador"
+"Oaxaca, San Dionisio, Mexico",0,0,
+"Sinaloa, Mexico",25.0000001,-107.5000001,"Sinaloa, México"
+"Puebla, San Cristobal, Mexico",16.914420149999998,-92.50310661542287,"Puebla, Chenalhó, Chiapas, México"
+"Toledo District, Wild Cane Cay, Belize",0,0,
+"Toledo District, Frenchman'S Cay, Belize",0,0,
+"Valle Del Brayo, Mexico",0,0,
+"North Coast Honduras, The Sico River, Honduras",0,0,
+"Tlaltelolco, Mexico",19.5474885,-99.0307652,"Tlaltelolco, Río de Luz, Depósito de Evaporación Solar ""El Caracol"", Ecatepec, Ecatepec de Morelos, Estado de México, 55120, México"
+"Mixcoac, San Pedro De Los Pinos, Mexico",19.3862956,-99.18984978853291,"Zona arqueológica de Mixcoac, Calle 22, Nonoalco, Benito Juárez, Ciudad de México, 03700, México"
+"Kaminaljuyu, Guatemala",14.6315305,-90.5485243551789,"Kaminaljuyu, 11 Calle, Colonia Kaminal Juyu 1, Zona 7, Ciudad de Guatemala, Guatemala, 01007, Guatemala"
+"Veracruz, Mata De Palacho, Mexico",0,0,
+"Sinaloa, Mouth Of Sinaloa River, Mexico",0,0,
+"Sonora, Batuc, Mexico",29.2136269,-109.7530508,"San Jose de Batuc (Batuquito), San Pedro de la Cueva, Sonora, México"
+"Sonora, Alamos, Mexico",27.0253844,-108.9367016,"Álamos, Sonora, 85760, México"
+"Sonora, Río Mayo, Mexico",32.4668251,-114.820387,"Río Mayo, Enriqueta Guevara, San Luis Río Colorado, Sonora, 83400, México"
+"Sonora, Agiabampo, Mexico",27.3901667,-109.0678333,"Agiabampo, Quiriego, Sonora, México"
+"Sinaloa, Mouth Of Rio Sinaloa, Mexico",0,0,
+"Sinaloa, Mouth Of Rio Fuerte, Mexico",0,0,
+"Sinaloa, Guamuchil, Mexico",25.4451062,-108.0677366,"Sinaloa, Juárez, Las Glorias, Guamúchil, Salvador Alvarado, Sinaloa, 81470, México"
+"Sonora, Cumpas, Mexico",29.9940228,-109.7796367,"Cumpas, Sonora, México"
+"Sonora, Piedra, Mexico",30.1565075,-109.3211776,"Sonora, Agua Caliente, Villa Hidalgo, Sonora, México"
+"North Mexico, Mexico",43.459514,-76.228818,"Mexico, Town of Mexico, Oswego County, New York, 13114, United States of America"
+"Oaxaca, Quiengola, Base Of Quiengola, Salazar, Mexico",0,0,
+"Chiapas, Southwest Of Tonala, Paredon, Mexico",16.052511,-93.8682794,"El Paredón, Tonalá, Chiapas, 30503, México"
+"Oaxaca, Mixteca, Paraje Satandu, Ixtapa San Felipe, Mexico",0,0,
+"Chiapas, Yaxchilán, Mexico",16.7656216,-93.1597958,"Yaxchilán, Malibu, Tuxtla Gutiérrez, Chiapas, 29057, México"
+"Santa Catarina, Mexico",21.14133975,-100.07092969188477,"Santa Catarina, Guanajuato, México"
+"Chihuahua, Baborigame, Mexico",26.4282858,-107.2657023,"Baborigame, Guadalupe y Calvo, Chihuahua, México"
+"Chihuahua, Nararachic, Mexico",0,0,
+"Chihuahua, Tecorichic, Mexico",0,0,
+"Department Guatemala, Mexico, Guatemala",-12.2152422,-76.9184254,"Guatemala, Ciudad de Gosen, Villa María del Triunfo, Lima, 15822, Peru"
+"Sololá, Sololá, Guatemala",14.8181883,-91.16233019125742,"Sololá, 07014, Guatemala"
+"Baja Verapaz, Rabinal, Guatemala",0,0,
+"Durango, Santa Maria De Ocotan, Mexico",22.9141686,-104.5996615,"Santa María de Ocotán, Mezquital, Durango, México"
+"Huehuetenango, Jacaltenango, Guatemala",15.6658989,-91.7160706,"Compartamos Banco, 1a Calle, Jacaltenango, Concepción Huista, Huehuetenango, Guatemala"
+"Yucatan, Santa Cruz Del Bravo, Mexico",25.9911927,-98.090817,"Yucatan, Río Bravo, Tamaulipas, 88900, México"
+"Yucatan, Peto, Mexico",20.1256139,-88.9234278,"Peto, Yucatán, 97930, México"
+"Juarez, Mexico",19.29348285,-100.46459243844754,"Juárez, Michoacán de Ocampo, México"
+"Sololá, Guatemala",14.771302,-91.174569,"Sololá, Guatemala"
+"Intibuca, Honduras",14.45596625,-88.1845960990481,"Intibucá, Honduras"
+"Michoacán, Santa Clara Del Cobre, Mexico",19.4062487,-101.6391737,"Santa Clara del Cobre, Salvador Escalante, Michoacán de Ocampo, México"
+"Guanacaste, Nicoya, Guaitil, Costa Rica",0,0,
+"Hidalgo, Pahuatlan, Mexico",21.068611,-98.475,"Pahuatlán, Huejutla de Reyes, Hidalgo, México"
+"Oaxaca, Ixtlan De Juarez, San Francisco Cajonas, Mexico",0,0,
+"West Highlands, Guatemala",32.92263855,-96.73106040102583,"Wichita Hall, Richland College Drive, Lake Highlands, Dallas, Dallas County, Texas, 75243, United States of America"
+"Guerrero, Costa Chica, Tlacuachistlahuaca, Mexico",0,0,
+"Sacatepéquez, Santa María De Jesus, Guatemala",0,0,
+"Colima, Manzanillo, Mexico",19.0506256,-104.3159957,"Manzanillo, Colima, 28200, México"
+"Puebla, Acatzingo, Mexico",19.0518375,-98.2251899,"Acatzingo, El Vergel, Puebla, Municipio de Puebla, Puebla, 72160, México"
+"Tlanhualpa, Mexico",0,0,
+"Oaxaca, Juchitan, Laguna Zope, Mexico",0,0,
+"Jonuta, Mexico",18.1345697,-92.21693261024582,"Jonuta, Tabasco, México"
+"Oaxaca, Copala, Mexico",17.1857052,-97.9625255,"Calle Oaxaca, San Juan Copala, Santiago Juxtlahuaca, Oaxaca, México"
+"Oaxaca, Teposcolula, Mexico",17.510556,-97.488333,"San Pedro y San Pablo Teposcolula, Oaxaca, México"
+"Santiago Tlatelolco, Mexico",22.139918,-103.2504897,"Santiago Tlatelolco, Colotlán, Jalisco, México"
+"Michoacán, Cheranistico, Mexico",0,0,
+"Michoacán, Pueblo Cherán, Mexico",19.6843528,-101.9532968,"Cherán, Michoacán de Ocampo, 60270, México"
+"Michoacan, Tzintzuntzan, Mexico",19.6258467,-101.5767139,"Tzintzuntzan, Michoacán de Ocampo, 58440, México"
+"Sonora, Cuchuta, Mexico",30.7643674,-109.5918889,"Cuchuta, Esqueda, Fronteras, Sonora, México"
+"Guerrero, Coacoyula, Guayaho, Mexico",0,0,
+"Jalisco, Pueblo Amititlán Tequila, Mexico",0,0,
+"Oaxaca, Hacienda Nazareno, Mexico",0,0,
+"Isthmus Of Tehuantepec, Minatitlán, Mexico",0,0,
+"Jalisco, Omeca, Mexico",0,0,
+"Jalisco, Ocatlan, Bella Vista, Mexico",0,0,
+"Oaxaca, San Miguel Albarradas, Mexico",17.038333,-96.270833,"San Miguel Albarradas, San Pablo Villa de Mitla, Oaxaca, México"
+"Jalisco, Teocuitatlan, Mexico",20.0916986,-103.3774447,"Teocuitatlan de Corona, Teocuitatlán de Corona, Jalisco, 49250, México"
+"Jalisco, Ahualco, Mexico",0,0,
+"Jalisco, Totoate, South Totoate, Banco De L'Eseudida, Mexico",0,0,
+"Jalisco, Totoate, South Totoate, Banco De Las Casas, Mexico",0,0,
+"Oaxaca, Miahuatlan, Mexico",16.3284706,-96.594956,"Miahuatlán, Miahuatlán de Porfirio Díaz, Oaxaca, México"
+"Oaxaca, Nochixtlan, Mexico",17.4592362,-97.2254914,"Nochixtlan, Asunción Nochixtlán, Oaxaca, 69600, México"
+"Jalisco, Taul, Mexico",0,0,
+"Zacatecas, La Quemada Ruin, Mexico",0,0,
+"Highlands Of Costa Rica, Various Locales, Cartago And San Jose, Costa Rica",0,0,
+"Tonacatepeque, Mexico",13.7799478,-89.1181085,"Tonacatepeque, Municipio de Tonacatepeque, Departamento de San Salvador, República de El Salvador"
+"Finca Miraflores, Guatemala",-0.20430900000000002,-78.50422669852969,"La Finca, 18 de Septiembre, Miraflores Bajo, Toctiuco alto, San Juan, Quito, Pichincha, 170401, Ecuador"
+"Xochimilco, Ixtayopan, Mexico",19.2544123,-99.0287136,"Cerrada Ixtayopan, San Juan Tlaxialtemalco, Xochimilco, Ciudad de México, 16629, México"
+"Utila Island, Byron'S Cave, Honduras",0,0,
+"Bonacca Island, Mangrove Bight, Honduras",0,0,
+"Puerto Castilla, Honduras",16.0089831,-85.9504249,"Puerto Castilla, Trujillo, Colón, Honduras"
+"Atzcapotzalco, Cahualtongo San Bartolito, Mexico",0,0,
+"Tlalteloco, Consolidated Rolling Mills, Mexico",0,0,
+"Quirigua, Guatemala",15.2711306,-89.0403247255527,"Quiriguá, Carretera Ciudad de Guatemala - Puerto Barrios, Los Amates, Izabal, Guatemala"
+"Veracruz, Cerro Cebadilla, On Nahuatlan, Mexico",0,0,
+"Veracruz, Panuco, Las Piedras, Mexico",0,0,
+"Veracruz, Topila, Cerro La Puerta (Cavvola Puerta, Cerrols Puerta, Carro La Puerta), Mexico",0,0,
+"Sinaloa, Island Of Macapule, Mexico",0,0,
+"Sinaloa, Amole, Mexico",25.3871345,-108.4394426,"El Amole, Guasave, Sinaloa, México"
+"Sonora, Mouth Of Sonora River, Mexico",0,0,
+"Sonora, Pueblo De Alamos, Mexico",29.2063765,-110.1405005,"Pueblo de Álamos, Ures, Sonora, México"
+"Sonora, Batacosa, Mexico",27.5300174,-109.4022674,"Batacosa, Quiriego, Sonora, México"
+"Sonora, Empalme, Mexico",27.9625108,-110.8068744,"Empalme, Sonora, 85330, México"
+"Sinaloa, Mouth Of Sinaloa River, Rosales, Mexico",0,0,
+"Sinaloa, Estero De Yavaros, Mexico",0,0,
+"Veracruz, Orizaba, Mexico",18.8377003,-97.1134081,"Veracruz, Marco Antonio Muñoz, Orizaba, Veracruz de Ignacio de la Llave, 94300, México"
+"Sonora, Chinobampo, Mexico",26.9753275,-109.297564,"Chinobampo, Navojoa, Sonora, México"
+"Santa Ana, El Salvador",13.9947208,-89.5566796,"Santa Ana, Municipio de Santa Ana, Departamento de Santa Ana, 0210, República de El Salvador"
+"Veracruz, Chila, El Caracol, Mexico",0,0,
+"Oaxaca, Astata, Huamalula), Mexico",0,0,
+"Tlatilco, Brickyard, Mexico",0,0,
+"Esquintla, Tiquisate, Guatemala",0,0,
+"Tepexpan, Mexico",19.614402,-98.9360188,"Tepexpan, Acolman, Estado de México, 55886, México"
+"Palmillas, Mexico",23.26342555,-99.58618907275881,"Palmillas, Tamaulipas, México"
+"Puebla Region, Mexico",20.7707642,-104.0767216,"Puebla, Etzatlán, Region Valles, Jalisco, 46500, México"
+"Chihuahua, Cavorachic, Mexico",0,0,
+"Chihuahua, Barranca De Cobre, Mexico",31.6173899,-106.5397632,"Calle Barranca Del Cobre, Tesoro Escondido, Ciudad Juárez, Juárez, Chihuahua, México"
+"Chihuahua, Yoquibo, Mexico",0,0,
+"Chihuahua, Pueblo Churu Urique, Mexico",0,0,
+"Rio Yaqui, Mexico",29.2945179,-109.2505917,"Río Yaqui, Sahuaripa, Sonora, México"
+"Sierra Santa Rosa, Mexico",30.8907997,-114.9390619,"Sierra Santa Rosa, Ensenada, Baja California, México"
+"Nayarít, Mexico",21.8438765,-104.87148535201122,"Nayarit, México"
+"Southern Mexico, Mexico",22.15176435,-100.9685789572941,"kansas city southern Mexico, San Luis Potosí, Municipio de San Luis Potosí, San Luis Potosí, México"
+"West Of Mexico City, Mexico",19.48279755,-99.14004040900292,"W, Avenida de los 100 Metros, Ampliación Panamericana, Gustavo A. Madero, Ciudad de México, 07770, México"
+"Chilpanzinco, Mexico",0,0,
+"El Peten, San Benito, Guatemala",16.8404631,-89.9162325,"Instituto Tecnico de Capacitación y Productividad ""INTECAP"", Carretera San Benito - San Francisco, Santa Cruz, San Francisco, Petén, 17006, Guatemala"
+"Yucatan, Isla Mujeres, Mexico",0,0,
+"Rama Key, Nicaragua",11.881043850000001,-83.80876759079142,"Rama Key, Bluefields, Bluefields (Municipio), Región Autónoma de la Costa Caribe Sur, 81000, Nicaragua"

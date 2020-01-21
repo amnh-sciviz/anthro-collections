@@ -133,7 +133,7 @@ def writeCsv(filename, arr, headings="auto", append=False, verbose=True):
         headings = arr[0].keys()
     mode = 'w' if not append else "a"
 
-    with open(filename, mode, encoding="utf8") as f:
+    with open(filename, mode, encoding="utf8", newline='') as f:
 
         writer = csv.writer(f)
         if not append:
