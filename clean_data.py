@@ -33,7 +33,9 @@ cleanedItems = [{
     "Latitude": 0,
     "Longitude": 0,
     "Country": "",
-    "Locale": ""
+    "Locale": "",
+    "Category": "",
+    "Hall": ""
 } for item in items]
 
 ##############################################
@@ -239,6 +241,28 @@ for i, item in enumerate(items):
 # io.writeCsv("data/localeDebug.csv", rows, ["Locale", "Cleaned", "Count"])
 # sys.exit()
 
+##############################################
+# STEP 5: retrieve category                  #
+##############################################
+
+for i, item in enumerate(items):
+    categories = item["Categories"].strip()
+    category = item["Category"].strip()
+    categories += "," + category
+
+    categories = [c.strip() for c in categories.split(",")]
+    categories = [c for c in categories if len(c) > 0]
+
+    if len(categories) > 0:
+        cleanedItems[i]["Category"] = categories[0].title()
+
+##############################################
+# STEP 6: retrieve hall                      #
+##############################################
+
+for i, item in enumerate(items):
+    cleanedItems[i]["Hall"] = item["Hall"].strip().title()
+
 fieldNames = [
     "Id",
     "Acquisition Year",
@@ -246,6 +270,8 @@ fieldNames = [
     "Latitude",
     "Longitude",
     "Country",
-    "Locale"
+    "Locale",
+    "Category",
+    "Hall"
 ]
 io.writeCsv(a.OUTPUT_FILE, cleanedItems, fieldNames)
