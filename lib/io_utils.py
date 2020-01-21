@@ -39,7 +39,7 @@ def downloadFile(url, postData=None, filename=None, headers={}, save=True, overw
 
     if os.path.isfile(filename) and not overwrite:
         print("%s already exists." % filename)
-        with open(filename, "r") as f:
+        with open(filename, "r", encoding="utf8", errors="replace") as f:
             if isJSON:
                 contents = json.load(f)
             else:
