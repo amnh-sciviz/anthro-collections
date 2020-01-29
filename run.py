@@ -26,15 +26,15 @@ print("========================================================")
 # Then convert the HTML to .csv file
 command = [a.PYTHON_NAME, 'html_to_csv.py',
                 '-in', "downloads/%s/page-*.html" % a.NAME,
-                '-out', "data/%.csv" % a.NAME]
+                '-out', "data/%s.csv" % a.NAME]
 print(" ".join(command))
 finished = subprocess.check_call(command)
 print("========================================================")
 
 # Then write data summary
 command = [a.PYTHON_NAME, 'data_summary.py',
-                '-in', "data/%.csv" % a.NAME,
-                '-out', "reports/%.txt" % a.NAME]
+                '-in', "data/%s.csv" % a.NAME,
+                '-out', "reports/%s.txt" % a.NAME]
 print(" ".join(command))
 finished = subprocess.check_call(command)
 print("========================================================")
