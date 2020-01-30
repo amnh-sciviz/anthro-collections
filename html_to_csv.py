@@ -31,7 +31,7 @@ filenames = io.getFilenames(a.INPUT_FILE)
 
 def parseHTMLFile(fn):
     contents = ""
-    with open(fn, "r") as f:
+    with open(fn, "r", encoding="utf8", errors="replace") as f:
         contents = f.read()
 
     print("Parsing %s..." % fn)
@@ -88,7 +88,11 @@ def parseHTMLFile(fn):
         if hall is not None:
             item["Hall"] = hall.parent.contents[-1].strip()
 
-        items.append(item)
+        if "Catalog No" not in item:
+            print("Could not find catalog id for item in %s:" % (fn))
+            pprint(item)
+        else:
+            items.append(item)
     return items
 
 pool = ThreadPool(a.THREADS)
