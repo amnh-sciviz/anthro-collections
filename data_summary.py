@@ -56,7 +56,7 @@ for field in FIELDS_COUNTS:
         values = lu.flattenList([item[field] for item in items if item[field]])
         values = [value for value in values if value != ""]
     else:
-        values = [item[field] if item[field] != "" else "<empty>" for item in items]
+        values = [item[field] if field in item and item[field] != "" else "<empty>" for item in items]
 
     uvalues = list(set(values))
 
