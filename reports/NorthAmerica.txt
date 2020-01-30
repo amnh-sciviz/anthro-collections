@@ -1,0 +1,418 @@
+Total item count: 49,376
+
+==============================================================================
+Field: Acquisition Year (302 unique values) / Top 30:
+------------------------------------------------------------------------------
+2,375 (4.81%)	 1894 [PURCHASE]
+2,130 (4.31%)	 1910 [EXPEDITION]
+2,022 (4.1%)	 1910 [PURCHASE]
+1,938 (3.92%)	 <empty>
+1,891 (3.83%)	 1910
+1,597 (3.23%)	 1912 [EXPEDITION]
+1,216 (2.46%)	 1911
+1,168 (2.37%)	 1869-1890
+1,061 (2.15%)	 1899 [EXPEDITION]
+1,045 (2.12%)	 1909 [EXPEDITION]
+1,024 (2.07%)	 1901 [GIFT]
+1,017 (2.06%)	 1869-1890 [GIFT]
+1,002 (2.03%)	 1897 [EXPEDITION]
+984 (1.99%)	 1903
+983 (1.99%)	 1903 [EXPEDITION]
+951 (1.93%)	 1902
+916 (1.86%)	 1915 [EXPEDITION]
+803 (1.63%)	 1899
+726 (1.47%)	 1904
+702 (1.42%)	 1899 [GIFT]
+696 (1.41%)	 1916 [PURCHASE]
+696 (1.41%)	 1911 [PURCHASE]
+691 (1.4%)	 1891-1893 [PURCHASE]
+691 (1.4%)	 1900 [GIFT]
+649 (1.31%)	 1906 [EXPEDITION]
+637 (1.29%)	 1902 [EXPEDITION]
+536 (1.09%)	 1946 [GIFT]
+517 (1.05%)	 1919 [PURCHASE]
+467 (0.95%)	 1905
+428 (0.87%)	 1900
+
+==============================================================================
+Field: Categories (8 unique values) / Top 30:
+------------------------------------------------------------------------------
+12,196 (24.7%)	 CONTAINERS
+10,866 (22.01%)	 EQUIPMENT
+8,503 (17.22%)	 COSTUME
+2,345 (4.75%)	 WEAPONS AND AMMUNITION
+1,887 (3.82%)	 TEXTILE
+1,275 (2.58%)	 SOUND DEVICES
+1,172 (2.37%)	 RECREATIONAL ARTIFACTS
+1,009 (2.04%)	 FURNISHINGS
+
+==============================================================================
+Field: Collection (2 unique values) / Top 30:
+------------------------------------------------------------------------------
+47,607 (96.42%)	 NORTH AMERICAN ETHNOGRAPHIC COLLECTION
+1,769 (3.58%)	 NORTH AMERICAN ARCHAEOLOGICAL COLLECTION
+
+==============================================================================
+Field: Collector (114 unique values) / Top 30:
+------------------------------------------------------------------------------
+44,615 (90.36%)	 <empty>
+476 (0.96%)	 HUNT, GEORGE & BOAS, FRANZ
+449 (0.91%)	 C. F. BRIGGS, MR. AND MRS.
+430 (0.87%)	 KROEBER, ALFRED L.
+390 (0.79%)	 JAKOBSEN, FILLIP
+336 (0.68%)	 KROEBER, A.L.
+303 (0.61%)	 DIXON, ROLAND B.
+286 (0.58%)	 TEIT, JAMES A.
+225 (0.46%)	 BARTLETT, CAPT.
+209 (0.42%)	 BOAS/HUNT
+195 (0.39%)	 LEVY, LOUIS
+157 (0.32%)	 HILLERMAN, DALE G.
+138 (0.28%)	 DR. HAUPT JR, HERMAN, COLLECTED BETWEEN 1885-1893
+110 (0.22%)	 CASPAR WHITNEY (DONOR'S FATHER)
+90 (0.18%)	 FARRAND, LIVINGSTON
+69 (0.14%)	 BELL, ROBERT, PROF.
+51 (0.1%)	 GREENE, AUGUSTA, MRS.
+50 (0.1%)	 PEPPER, G.
+50 (0.1%)	 GEORGE PEPPER
+48 (0.1%)	 SMITH, HARLAN I.
+39 (0.08%)	 MCLOYD, CHARLES AND GRAHAM, C.C.
+34 (0.07%)	 HOWES, SETH B.
+32 (0.06%)	 MAJOR JOHN C. TIDBALL, DONOR'S FATHER
+31 (0.06%)	 PARSON, ELSIE CLEWS
+30 (0.06%)	 BUMPUS, H.C., DR.
+27 (0.05%)	 SATTERLEE, JOHN V.
+24 (0.05%)	 DICKINSON, W.E. (PRIOR TO 1904)
+24 (0.05%)	 SHIRLAW, WALTER
+22 (0.04%)	 HUNT, GEORGE
+20 (0.04%)	 MIDDLETON, F.D.
+
+==============================================================================
+Field: Country (13 unique values) / Top 30:
+------------------------------------------------------------------------------
+29,107 (58.95%)	 USA
+11,809 (23.92%)	 CANADA
+5,896 (11.94%)	 <empty>
+1,098 (2.22%)	 GREENLAND
+857 (1.74%)	 USA?, CANADA?
+454 (0.92%)	 USA?
+53 (0.11%)	 CANADA?
+52 (0.11%)	 MEXICO
+17 (0.03%)	 GREENLAND?
+15 (0.03%)	 USA?, MEXICO?
+11 (0.02%)	 USA?, RUSSIA?
+6 (0.01%)	 MEXICO?
+1 (0.0%)	 RUSSIA
+
+==============================================================================
+Field: Culture (1,147 unique values) / Top 30:
+------------------------------------------------------------------------------
+4,716 (9.55%)	 <empty>
+4,447 (9.01%)	 ESKIMO
+1,589 (3.22%)	 ZUNI
+1,208 (2.45%)	 TLINGIT
+1,092 (2.21%)	 HOPI
+807 (1.63%)	 PLAINS
+782 (1.58%)	 ESKIMO, WEST ALASKA
+780 (1.58%)	 HAIDA
+778 (1.58%)	 NLAKA'PAMUX
+762 (1.54%)	 OJIBWA
+760 (1.54%)	 ARAPAHO
+727 (1.47%)	 NAVAJO
+679 (1.38%)	 PAPAGO
+653 (1.32%)	 MENOMINEE
+582 (1.18%)	 'WAKW
+547 (1.11%)	 ESKIMO, POLAR
+543 (1.1%)	 TLINGIT, CHILKAT
+502 (1.02%)	 SIOUX, LAKOTA, OGLALA
+451 (0.91%)	 ESKIMO, BAFFINLAND
+416 (0.84%)	 ESKIMO, IGLULIK
+415 (0.84%)	 WINNEBAGO
+401 (0.81%)	 ESKIMO, SOUTHAMPTON
+396 (0.8%)	 NUU-CHAH-NULTH, CLAYOQUATH
+390 (0.79%)	 TLINGIT, CHILKAT QWAN
+385 (0.78%)	 SAC AND FOX
+384 (0.78%)	 SAN ILDEFONSO
+384 (0.78%)	 APACHE, SAN CARLOS
+383 (0.78%)	 IROQUOIS
+379 (0.77%)	 APACHE, JICARILLA
+371 (0.75%)	 TAOS
+
+==============================================================================
+Field: Date (58 unique values) / Top 30:
+------------------------------------------------------------------------------
+48,955 (99.15%)	 <empty>
+147 (0.3%)	 Late 1800s
+32 (0.06%)	 1860s
+20 (0.04%)	 1941
+17 (0.03%)	 1977
+14 (0.03%)	 TRANSITIONAL
+11 (0.02%)	 Early 1900'S
+10 (0.02%)	 Century
+10 (0.02%)	 CLASSIC
+9 (0.02%)	 1975
+9 (0.02%)	 1997
+8 (0.02%)	 1980
+8 (0.02%)	 Late CLASSIC
+7 (0.01%)	 1995
+7 (0.01%)	 1960'S
+6 (0.01%)	 1978
+6 (0.01%)	 1982
+6 (0.01%)	 1991
+5 (0.01%)	 Early 1900s
+5 (0.01%)	 1993
+5 (0.01%)	 1976
+5 (0.01%)	 1994
+5 (0.01%)	 1985
+5 (0.01%)	 1960
+4 (0.01%)	 1974
+4 (0.01%)	 1987
+4 (0.01%)	 1989
+4 (0.01%)	 1979
+4 (0.01%)	 1998
+4 (0.01%)	 Early 1970s?
+
+==============================================================================
+Field: Donor (931 unique values) / Top 30:
+------------------------------------------------------------------------------
+4,743 (9.61%)	 EMMONS, GEORGE T., LT.
+2,081 (4.21%)	 COMER, GEORGE, CAPT.
+2,011 (4.07%)	 SPINDEN, HERBERT J., DR.
+1,970 (3.99%)	 <empty>
+1,796 (3.64%)	 GODDARD, PLINY E., DR.
+1,666 (3.37%)	 SKINNER, ALANSON B.
+1,560 (3.16%)	 KROEBER, ALFRED L., PROF.
+1,316 (2.67%)	 JESUP, MORRIS K.
+1,219 (2.47%)	 STEFANSSON, VILHJALMUR
+1,117 (2.26%)	 MORGAN, J. PIERPOINT & LENDERS, E. W.
+1,053 (2.13%)	 TEFFT, ERASTUS T.
+980 (1.98%)	 BRUCE, MINER W., CAPT.
+963 (1.95%)	 JONES, WILLIAM
+902 (1.83%)	 SPECK, FRANK G., DR.
+882 (1.79%)	 LOWIE, ROBERT H., DR.
+843 (1.71%)	 WISSLER, CLARK, DR.
+773 (1.57%)	 HUNT, GEORGE
+750 (1.52%)	 BISHOP, HEBER R.
+736 (1.49%)	 JESUP, MORRIS K., MRS.
+723 (1.46%)	 MUTCH, JAMES S., CAPT.
+713 (1.44%)	 TEIT, JAMES
+686 (1.39%)	 TERRY, JAMES
+661 (1.34%)	 HARRINGTON, M. RAYMOND
+581 (1.18%)	 PEPPER, GEORGE H.
+571 (1.16%)	 PEARY, R. E., LT.
+547 (1.11%)	 LUMHOLTZ, CARL, DR.
+462 (0.94%)	 OSBORN, E.D.
+451 (0.91%)	 PEABODY, GEORGE F.
+435 (0.88%)	 PAUL, GABRIEL A.
+419 (0.85%)	 WRIGHT, MARVIN J., MRS., ROBINSON, J.P.,
+
+==============================================================================
+Field: Hall (3 unique values) / Top 30:
+------------------------------------------------------------------------------
+48,036 (97.29%)	 <empty>
+1,279 (2.59%)	 Hall of Plains Indians
+61 (0.12%)	 Hall of Northwest Coast Indians
+
+==============================================================================
+Field: Keywords (5,059 unique values) / Top 30:
+------------------------------------------------------------------------------
+2,828 (5.73%)	 BASKET
+1,933 (3.91%)	 POTTERY
+1,238 (2.51%)	 BOWL
+1,106 (2.24%)	 BAG
+757 (1.53%)	 SPOON
+743 (1.5%)	 MASK
+737 (1.49%)	 MEDICINE
+732 (1.48%)	 PIPE
+723 (1.46%)	 MOCCASIN
+717 (1.45%)	 CARVING
+636 (1.29%)	 ARROW
+539 (1.09%)	 KNIFE
+536 (1.09%)	 DRAWING
+411 (0.83%)	 BOW
+408 (0.83%)	 JAR
+381 (0.77%)	 BASKET BOWL
+365 (0.74%)	 RATTLE
+362 (0.73%)	 NECKLACE
+354 (0.72%)	 DISH
+348 (0.7%)	 HEADDRESS
+298 (0.6%)	 BASKET TRAY
+297 (0.6%)	 BLANKET
+281 (0.57%)	 BROOCH
+280 (0.57%)	 POUCH
+276 (0.56%)	 BELT
+274 (0.55%)	 SCRAPER
+267 (0.54%)	 BOX
+266 (0.54%)	 BRACELET
+253 (0.51%)	 HARPOON HEAD
+248 (0.5%)	 LEGGING
+
+==============================================================================
+Field: Locale (2,370 unique values) / Top 30:
+------------------------------------------------------------------------------
+8,633 (17.48%)	 <empty>
+2,075 (4.2%)	 BC
+1,999 (4.05%)	 AK
+1,624 (3.29%)	 AZ
+1,321 (2.68%)	 NM, MCKINLEY COUNTY, ZUNI
+918 (1.86%)	 NM
+681 (1.38%)	 NORTHWEST COAST
+642 (1.3%)	 CA
+560 (1.13%)	 OK
+498 (1.01%)	 AK, HAINES BOROUGH, CHILKAT
+452 (0.92%)	 WA
+451 (0.91%)	 WI
+438 (0.89%)	 CUMBERLAND SOUND
+414 (0.84%)	 NORTH GREENLAND, SMITH SOUND
+410 (0.83%)	 SOUTHAMPTON ISLAND
+387 (0.78%)	 BC, VANCOUVER ISLAND, WEST COAST
+384 (0.78%)	 MT, BLAINE COUNTY?, PHILLIPS COUNTY?, FORT BELKNAP INDIAN RESERVATION
+380 (0.77%)	 BC, THOMPSON RIVER
+367 (0.74%)	 NM, SANTA FE COUNTY, SAN ILDEFONSO PUEBLO
+362 (0.73%)	 NM, TAOS COUNTY, TAOS
+361 (0.73%)	 AK, HAINES BOROUGH, KLUKWAN, CHILKAT QWAN
+356 (0.72%)	 WI, JACKSON COUNTY, BLACK RIVER FALLS
+351 (0.71%)	 AK, PORT CLARENCE
+340 (0.69%)	 BC, UPPER SKEENA RIVER
+336 (0.68%)	 NM, GRANT COUNTY, MIMBRES VALLEY
+327 (0.66%)	 IA
+326 (0.66%)	 HUDSON BAY
+326 (0.66%)	 AK, SITKA BOROUGH, BARANOF ISLAND, SITKA
+323 (0.65%)	 AZ, NAVAJO COUNTY, HOPI INDIAN RESERVATION, FIRST MESA
+311 (0.63%)	 WI, MENOMINEE COUNTY, MENOMINEE INDIAN RESERVATION
+
+==============================================================================
+Field: Material (14,705 unique values) / Top 30:
+------------------------------------------------------------------------------
+2,701 (5.47%)	 WOOD
+2,012 (4.07%)	 BONE
+1,934 (3.92%)	 STONE
+1,608 (3.26%)	 CLAY, PIGMENT
+1,199 (2.43%)	 PLANT FIBER
+937 (1.9%)	 WOOD, PIGMENT
+854 (1.73%)	 <empty>
+735 (1.49%)	 PLANT FIBER, PIGMENT
+732 (1.48%)	 IVORY
+510 (1.03%)	 CERAMIC, PIGMENT
+473 (0.96%)	 METAL (SILVER)
+434 (0.88%)	 CLAY
+390 (0.79%)	 PLANT FIBER, TWIGS
+332 (0.67%)	 BARK (CEDAR)
+326 (0.66%)	 WOOL
+317 (0.64%)	 WOOD, METAL
+299 (0.61%)	 HIDE, FUR, SINEW
+297 (0.6%)	 CERAMIC
+283 (0.57%)	 HIDE, PIGMENT
+257 (0.52%)	 HIDE, SINEW
+249 (0.5%)	 PLANT FIBER, WOOD
+232 (0.47%)	 HIDE, BEADS, SINEW
+230 (0.47%)	 PAPER, PIGMENT
+222 (0.45%)	 STONE (SLATE)
+210 (0.43%)	 HIDE
+205 (0.42%)	 WOOD, HIDE
+205 (0.42%)	 PAPER, PENCIL, PIGMENT
+201 (0.41%)	 BONE/IVORY
+182 (0.37%)	 HORN
+172 (0.35%)	 STONE (OBSIDIAN)
+
+==============================================================================
+Field: Period (1 unique values) / Top 30:
+------------------------------------------------------------------------------
+49,376 (100.0%)	 <empty>
+
+==============================================================================
+Field: Subject (1,996 unique values) / Top 30:
+------------------------------------------------------------------------------
+46,498 (94.17%)	 <empty>
+40 (0.08%)	 RAVEN
+33 (0.07%)	 BEAVER
+30 (0.06%)	 BEAR
+30 (0.06%)	 EAGLE
+27 (0.05%)	 GEOMETRIC DESIGN
+25 (0.05%)	 WHALE
+24 (0.05%)	 SEAL
+19 (0.04%)	 WOLF
+18 (0.04%)	 FROG
+18 (0.04%)	 BIRD
+18 (0.04%)	 SALMON
+17 (0.03%)	 KILLER WHALE
+17 (0.03%)	 LAND OTTER
+16 (0.03%)	 KILLER WHALE FIN
+16 (0.03%)	 ECHO
+14 (0.03%)	 HAWK
+14 (0.03%)	 KWAKIUTL FACIAL PAINTING AND DANCE REGALIA
+13 (0.03%)	 BLACK FISH
+12 (0.02%)	 ARROW POINT DESIGN
+11 (0.02%)	 HUMAN FACE
+11 (0.02%)	 BIRD DESIGN
+10 (0.02%)	 DOG FISH
+10 (0.02%)	 THUNDERBIRD
+10 (0.02%)	 SEA LION
+10 (0.02%)	 MUDHEAD
+9 (0.02%)	 MAN
+9 (0.02%)	 GRIZZLY BEAR
+9 (0.02%)	 SEA OTTER
+8 (0.02%)	 HEAD
+
+==============================================================================
+Field: Technique (586 unique values) / Top 30:
+------------------------------------------------------------------------------
+47,096 (95.38%)	 <empty>
+278 (0.56%)	 BEADWORK EMBROIDERY
+220 (0.45%)	 TAPESTRY WEAVE
+130 (0.26%)	 SILKSCREEN PRINT
+82 (0.17%)	 CARVED
+69 (0.14%)	 CARVED, PAINTED
+58 (0.12%)	 BEADWORK
+48 (0.1%)	 PAINTED
+45 (0.09%)	 APPLIQUE, BEADWORK EMBROIDERY
+41 (0.08%)	 APPLIQUE
+41 (0.08%)	 BEADWORK COUCHED EMBROIDERY
+39 (0.08%)	 BEAD WORK EMBROIDERY
+39 (0.08%)	 KNITTED
+36 (0.07%)	 EMBROIDERY
+31 (0.06%)	 HAND STITCHED
+29 (0.06%)	 BEAD WEAVING
+28 (0.06%)	 BEADWEAVING
+20 (0.04%)	 BEADED
+20 (0.04%)	 APPLIQUE, MACHINE STITCHED
+19 (0.04%)	 MACHINE STITCHED
+16 (0.03%)	 DIAGONAL TWILL WEAVE
+15 (0.03%)	 BRAIDED (OBLIQUE TWILL INTERLACING)
+15 (0.03%)	 PLAIN WEAVE
+13 (0.03%)	 TWILL WEAVE
+11 (0.02%)	 TWINED
+10 (0.02%)	 BEADWORK, HANDSTITCHED
+10 (0.02%)	 QUILL WEAVING
+9 (0.02%)	 WOVEN
+9 (0.02%)	 WATERCOLOR
+9 (0.02%)	 COILED
+
+==============================================================================
+FIELD: Curatorial Notes
+------------------------------------------------------------------------------
+422 (0.85%)	 have
+48,954 (99.15%)	 don't have
+
+==============================================================================
+FIELD: Exhibition History
+------------------------------------------------------------------------------
+1,521 (3.08%)	 have
+47,855 (96.92%)	 don't have
+
+==============================================================================
+FIELD: Publication History
+------------------------------------------------------------------------------
+5,419 (10.97%)	 have
+43,957 (89.03%)	 don't have
+
+==============================================================================
+FIELD: Dimensions
+------------------------------------------------------------------------------
+46,233 (93.63%)	 have
+3,143 (6.37%)	 don't have
+
+==============================================================================
+FIELD: Thumb URL
+------------------------------------------------------------------------------
+49,376 (100.0%)	 have
+0 (0.0%)	 don't have

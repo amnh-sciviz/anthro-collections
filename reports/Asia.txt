@@ -1,0 +1,444 @@
+Total item count: 53,147
+
+==============================================================================
+Field: Acquisition Year (327 unique values) / Top 30:
+------------------------------------------------------------------------------
+4,060 (7.64%)	 1905 [PURCHASE]
+4,017 (7.56%)	 1902 [EXPEDITION]
+2,888 (5.43%)	 1903 [EXPEDITION]
+2,386 (4.49%)	 1961 [TRANSFER]
+2,358 (4.44%)	 <empty>
+2,261 (4.25%)	 1904 [EXPEDITION]
+1,991 (3.75%)	 1901 [EXPEDITION]
+1,923 (3.62%)	 1910 [PURCHASE]
+1,541 (2.9%)	 1973 [PURCHASE]
+1,332 (2.51%)	 1946 [GIFT]
+1,309 (2.46%)	 1963 [PURCHASE]
+1,256 (2.36%)	 1900 [GIFT]
+1,240 (2.33%)	 1928 [GIFT]
+1,049 (1.97%)	 1970 [PURCHASE]
+849 (1.6%)	 1937 [GIFT]
+764 (1.44%)	 1909 [PURCHASE]
+694 (1.31%)	 1968 [GIFT]
+591 (1.11%)	 1962 [PURCHASE]
+586 (1.1%)	 1954 [PURCHASE]
+557 (1.05%)	 1932 [GIFT]
+492 (0.93%)	 1898 [EXPEDITION]
+485 (0.91%)	 2000 [PURCHASE]
+478 (0.9%)	 1976 [GIFT]
+470 (0.88%)	 1959 [PURCHASE]
+453 (0.85%)	 1938 [EXPEDITION]
+421 (0.79%)	 1900 [EXPEDITION]
+400 (0.75%)	 1980 [GIFT]
+387 (0.73%)	 1942 [GIFT]
+378 (0.71%)	 1983
+343 (0.65%)	 1969 [PURCHASE]
+
+==============================================================================
+Field: Categories (8 unique values) / Top 30:
+------------------------------------------------------------------------------
+11,025 (20.74%)	 EQUIPMENT
+8,289 (15.6%)	 CONTAINERS
+7,581 (14.26%)	 COSTUME
+4,446 (8.37%)	 TEXTILE
+4,286 (8.06%)	 RECREATIONAL ARTIFACTS
+2,529 (4.76%)	 WEAPONS AND AMMUNITION
+1,577 (2.97%)	 FURNISHINGS
+1,028 (1.93%)	 SOUND DEVICES
+
+==============================================================================
+Field: Collection (2 unique values) / Top 30:
+------------------------------------------------------------------------------
+52,938 (99.61%)	 ASIAN ETHNOGRAPHIC COLLECTION
+209 (0.39%)	 ASIAN ARCHAEOLOGICAL COLLECTION
+
+==============================================================================
+Field: Collector (17 unique values) / Top 30:
+------------------------------------------------------------------------------
+52,443 (98.68%)	 <empty>
+183 (0.34%)	 CAPT. HAGADORN
+104 (0.2%)	 RAVEN, H. C. AND VERNAY, A. S.
+100 (0.19%)	 HARDIE, FRANCIS H., LT. COL.
+80 (0.15%)	 SEELMANN, THEODORE
+74 (0.14%)	 DR. KENAN ERIM
+62 (0.12%)	 BERTHA SMALLEY
+35 (0.07%)	 MARBLE, FRANK
+32 (0.06%)	 WYNAM, WALTER C., MR.
+9 (0.02%)	 SATTERLEE, GENERAL
+7 (0.01%)	 LAUREL KENDALL
+6 (0.01%)	 ALBERT L. SHELTON, MD, 1908-1920
+5 (0.01%)	 DR. JUNIUS BIRD
+4 (0.01%)	 HOWES, SETH B.
+1 (0.0%)	 NICOLAT, PROF.
+1 (0.0%)	 MCALPINE, VOLNEY, DR.
+1 (0.0%)	 CHESNOKOV, YURI
+
+==============================================================================
+Field: Country (146 unique values) / Top 30:
+------------------------------------------------------------------------------
+12,008 (22.59%)	 CHINA
+11,070 (20.83%)	 PHILIPPINES
+6,260 (11.78%)	 INDIA
+5,843 (10.99%)	 RUSSIA
+3,958 (7.45%)	 JAPAN
+2,619 (4.93%)	 INDONESIA
+1,418 (2.67%)	 <empty>
+1,054 (1.98%)	 KOREA
+870 (1.64%)	 CHINA ?
+848 (1.6%)	 AFGHANISTAN
+842 (1.58%)	 MALAYSIA
+769 (1.45%)	 VIETNAM
+717 (1.35%)	 MYANMAR
+446 (0.84%)	 IRAN
+386 (0.73%)	 TAIWAN
+333 (0.63%)	 THAILAND
+331 (0.62%)	 TURKEY
+303 (0.57%)	 PAKISTAN
+294 (0.55%)	 NEPAL
+214 (0.4%)	 MONGOLIA
+213 (0.4%)	 INDIA ?
+198 (0.37%)	 ARMENIA
+151 (0.28%)	 SIAM
+134 (0.25%)	 SYRIA
+115 (0.22%)	 KUWAIT
+113 (0.21%)	 UZBEKISTAN
+113 (0.21%)	 SAUDI ARABIA
+108 (0.2%)	 JAPAN ?
+92 (0.17%)	 LAOS
+79 (0.15%)	 CHINA (PEOPLE'S REPUBLIC OF CHINA)
+
+==============================================================================
+Field: Culture (674 unique values) / Top 30:
+------------------------------------------------------------------------------
+13,726 (25.83%)	 <empty>
+7,832 (14.74%)	 CHINESE
+3,001 (5.65%)	 INDIAN
+2,199 (4.14%)	 TIBETAN
+1,803 (3.39%)	 BAGOBO
+1,631 (3.07%)	 BALINESE
+1,567 (2.95%)	 JAPANESE
+1,138 (2.14%)	 CHUKCHI
+834 (1.57%)	 KOREAN
+758 (1.43%)	 CHINESE ?
+747 (1.41%)	 MORO
+744 (1.4%)	 KORYAK ?
+726 (1.37%)	 HANUNÓO
+705 (1.33%)	 SAKHA
+701 (1.32%)	 VISAYAN
+537 (1.01%)	 RUSSIANIZED NATIVES
+535 (1.01%)	 TAGALOG
+455 (0.86%)	 IFUGAO
+441 (0.83%)	 YUPIK
+430 (0.81%)	 JAVANESE
+352 (0.66%)	 EVEN
+332 (0.62%)	 SEMAI SENOI
+300 (0.56%)	 MARITIME KORYAK
+292 (0.55%)	 IGOROT, BENGUET IGOROT
+277 (0.52%)	 TIRURAY
+258 (0.49%)	 VISAYAN?
+235 (0.44%)	 VIETNAMESE (VIET, KINH)
+228 (0.43%)	 ARMENIAN
+228 (0.43%)	 VIETNAMESE
+202 (0.38%)	 NANAI
+
+==============================================================================
+Field: Date (145 unique values) / Top 30:
+------------------------------------------------------------------------------
+41,030 (77.2%)	 <empty>
+9,095 (17.11%)	 circa 1900 A.D.
+885 (1.67%)	 Century
+882 (1.66%)	 1940s - 1950s A.D.
+384 (0.72%)	 1960s A.D.
+226 (0.43%)	 Century A.D.
+114 (0.21%)	 2000
+67 (0.13%)	 1970s
+58 (0.11%)	 Century?
+30 (0.06%)	 1950'S
+24 (0.05%)	 Century C.E.
+18 (0.03%)	 Century (COLLECTED JANUARY 2014)
+14 (0.03%)	 2009
+13 (0.02%)	 1600-1850 C.E. (Edo)
+12 (0.02%)	 2001
+12 (0.02%)	 2011
+11 (0.02%)	 1989
+10 (0.02%)	 1950s
+9 (0.02%)	 Century (2014)
+9 (0.02%)	 Century (2016)
+8 (0.02%)	 Early 1900s
+7 (0.01%)	 1950s A.D.
+7 (0.01%)	 Century (Late 1990s)
+7 (0.01%)	 Century (2015)
+6 (0.01%)	 DECEMBER 2002
+6 (0.01%)	 1980s
+6 (0.01%)	 Century (1966)
+5 (0.01%)	 1945
+5 (0.01%)	 KIEN LUNG
+4 (0.01%)	 CA 1900
+
+==============================================================================
+Field: Donor (882 unique values) / Top 30:
+------------------------------------------------------------------------------
+6,931 (13.04%)	 LAUFER, BERTHOLD
+4,053 (7.63%)	 JESUP, MORRIS K.
+3,615 (6.8%)	 BOGORAS, WALDEMAR
+2,747 (5.17%)	 <empty>
+2,444 (4.6%)	 DRUMMOND, I.W., DR.
+1,898 (3.57%)	 BENEDICT, LAURA WATSON
+1,629 (3.07%)	 RUDI ORIENTAL ARTS
+1,471 (2.77%)	 JOCHELSON, WALDEMAR
+1,270 (2.39%)	 CONKLIN, HAROLD C.
+1,202 (2.26%)	 MISSIONARY EXHIBIT
+1,077 (2.03%)	 BATESON, GREGORY
+1,072 (2.02%)	 HILDBURGH, W.L., DR.
+849 (1.6%)	 STARR, FREDERICK
+809 (1.52%)	 WHITNEY, WILLIAM B., ESTATE OF
+763 (1.44%)	 DUPREE, LOUIS, DR.
+637 (1.2%)	 HEUER
+618 (1.16%)	 KENDALL, LAUREL DR.
+590 (1.11%)	 VINTON, C. C., DR.
+490 (0.92%)	 DENTAN, ROBERT KNOX
+452 (0.85%)	 HILDBURGH, WALTER L., DR.
+435 (0.82%)	 BOSE, JUDGE AND MRS. VIVIAN
+357 (0.67%)	 CARL SCHUSTER ESTATE
+350 (0.66%)	 BOSE, VIVIAN, MRS.
+325 (0.61%)	 MEAD, MARGARET, DR.
+306 (0.58%)	 MENCHER
+298 (0.56%)	 HIRSHFIELD, PAUL, MRS.
+268 (0.5%)	 LEHMAN, F. K.
+266 (0.5%)	 SOLHEIM II, W. J.
+265 (0.5%)	 TENNEY
+259 (0.49%)	 ANDERSON
+
+==============================================================================
+Field: Hall (4 unique values) / Top 30:
+------------------------------------------------------------------------------
+50,669 (95.34%)	 <empty>
+2,358 (4.44%)	 Gardner D. Stout Hall of Asian Peoples
+119 (0.22%)	 Margaret Mead Hall of Pacific Peoples
+1 (0.0%)	 Hall of African Peoples
+
+==============================================================================
+Field: Keywords (5,581 unique values) / Top 30:
+------------------------------------------------------------------------------
+2,590 (4.87%)	 SHADOW PUPPET
+2,257 (4.25%)	 CARVING
+1,357 (2.55%)	 TEXTILE PRINTING BLOCK
+1,298 (2.44%)	 POTTERY
+998 (1.88%)	 BASKET
+893 (1.68%)	 ARROW
+877 (1.65%)	 FIGURE
+875 (1.65%)	 BUDDHA
+705 (1.33%)	 FIGURINE
+593 (1.12%)	 WOODBLOCK PRINT
+556 (1.05%)	 SPOON
+554 (1.04%)	 PAINTING
+531 (1.0%)	 NETSUKE
+492 (0.93%)	 KNIFE
+484 (0.91%)	 BOWL
+459 (0.86%)	 BRACELET
+436 (0.82%)	 HAT
+413 (0.78%)	 NECKLACE
+407 (0.77%)	 BOX
+396 (0.75%)	 SNUFF BOTTLE
+390 (0.73%)	 TEXTILE
+379 (0.71%)	 MODEL
+367 (0.69%)	 MASK
+359 (0.68%)	 DISH
+341 (0.64%)	 SPEAR
+330 (0.62%)	 TANGKA
+327 (0.62%)	 SWORD GUARD
+321 (0.6%)	 CLAY TABLET
+316 (0.59%)	 SCROLL
+298 (0.56%)	 COIN
+
+==============================================================================
+Field: Locale (2,052 unique values) / Top 30:
+------------------------------------------------------------------------------
+23,410 (44.05%)	 <empty>
+1,754 (3.3%)	 SIBERIA
+1,736 (3.27%)	 MINDANAO
+812 (1.53%)	 ANDHRA PRADESH
+791 (1.49%)	 PEKIN
+756 (1.42%)	 SIBERIA, MARKOWA
+680 (1.28%)	 MINDORO
+500 (0.94%)	 LUZON
+464 (0.87%)	 JAVA
+438 (0.82%)	 BALI, SEBATOE
+422 (0.79%)	 BALI
+362 (0.68%)	 SIBERIA, MARIINSKY POST
+354 (0.67%)	 SIBERIA, MOUTH OF ANADYR, MARIINSKY POST
+299 (0.56%)	 SHANGHAI
+297 (0.56%)	 ANDAMAN ISLANDS
+291 (0.55%)	 SIBERIA, BARON KORFF'S BAY
+271 (0.51%)	 SIBERIA, KAMENSKOYE
+265 (0.5%)	 SIBERIA, KUSHKA
+256 (0.48%)	 PEKING
+238 (0.45%)	 MINDANAO, WEST COAST OF MINDANAO, SOUTH OF CATOBATO RIVER
+221 (0.42%)	 SIBERIA, ANADYR, MARIINSKY POST
+209 (0.39%)	 NINGPO
+208 (0.39%)	 MALAYA, NORTHERN PAHANG, KAMPONG JINTEH ?
+206 (0.39%)	 OKINAWA
+205 (0.39%)	 SAMAR ISLAND
+167 (0.31%)	 BALI, BAJOENG
+165 (0.31%)	 SUCHOW
+164 (0.31%)	 SIBERIA, INDIAN POINT, WUTEEN
+151 (0.28%)	 MINDORO, YAGAW
+148 (0.28%)	 SOUTHERN CHIN HILLS
+
+==============================================================================
+Field: Material (11,773 unique values) / Top 30:
+------------------------------------------------------------------------------
+5,200 (9.78%)	 <empty>
+3,872 (7.29%)	 WOOD
+1,304 (2.45%)	 METAL (BRASS)
+1,117 (2.1%)	 METAL
+1,097 (2.06%)	 PAPER, PIGMENT
+1,082 (2.04%)	 WOOD, PIGMENT
+900 (1.69%)	 CLOTH (COTTON)
+863 (1.62%)	 HIDE, PIGMENT
+841 (1.58%)	 BAMBOO
+807 (1.52%)	 IVORY
+802 (1.51%)	 CLOTH
+576 (1.08%)	 CLAY
+534 (1.0%)	 WOOD, METAL
+522 (0.98%)	 METAL (IRON)
+502 (0.94%)	 HIDE (GOAT), PIGMENT, BAMBOO, STRING
+441 (0.83%)	 PLANT FIBER
+413 (0.78%)	 METAL (BRONZE)
+397 (0.75%)	 METAL (SILVER)
+334 (0.63%)	 STONE
+309 (0.58%)	 CLOTH (SILK)
+283 (0.53%)	 CLAY, GILT, LACQUER
+280 (0.53%)	 CLAY, GLAZE
+277 (0.52%)	 WOOD, PIGMENT, INK
+248 (0.47%)	 CLOTH (WOOL)
+223 (0.42%)	 METAL (COPPER)
+215 (0.4%)	 METAL, WOOD
+201 (0.38%)	 CARDBOARD, PAPER, PIGMENT
+191 (0.36%)	 WOOD, PIGMENT, METAL
+184 (0.35%)	 CLOTH (SINAMAY)
+166 (0.31%)	 METAL (BRONZE), GILT, PIGMENT
+
+==============================================================================
+Field: Period (22 unique values) / Top 30:
+------------------------------------------------------------------------------
+53,110 (99.93%)	 <empty>
+6 (0.01%)	 ISLAMIC II
+4 (0.01%)	 JYOMON
+3 (0.01%)	 HAN DYNASTY
+2 (0.0%)	 PROTOHISTORIC
+2 (0.0%)	 HISSAR IIIB
+2 (0.0%)	 HISSAR III C
+2 (0.0%)	 SASSANIAN 224-651 AD
+2 (0.0%)	 HARAPPAN LEVEL
+2 (0.0%)	 BABYLONIAN
+1 (0.0%)	 500-300 BC
+1 (0.0%)	 500 BC - 100 BC ("SLATE-TOMB" CULTURE)
+1 (0.0%)	 HISSAR II?
+1 (0.0%)	 HISSAR II B ?
+1 (0.0%)	 HISSAR IIIC
+1 (0.0%)	 SASSANIAN, 224-561 AD
+1 (0.0%)	 3RD DYNASTY OF UR
+1 (0.0%)	 SUMERIAN?
+1 (0.0%)	 ACHAEMENID
+1 (0.0%)	 800 BC
+1 (0.0%)	 ROMAN - 1ST CENT A.D.?
+1 (0.0%)	 EGYPTO-ROMAN
+
+==============================================================================
+Field: Subject (1,494 unique values) / Top 30:
+------------------------------------------------------------------------------
+50,569 (95.15%)	 <empty>
+68 (0.13%)	 UNIDENTIFIED
+34 (0.06%)	 GAUTAMA BUDDHA
+34 (0.06%)	 SYMBOLS, WRITING
+22 (0.04%)	 VAJRAPANI
+22 (0.04%)	 AMITAYUS
+22 (0.04%)	 MAHAKALA
+20 (0.04%)	 AVALOKITESVARA
+19 (0.04%)	 MANJUSRI
+17 (0.03%)	 FLORAL
+16 (0.03%)	 SEATED HUMAN FIGURE
+15 (0.03%)	 BUDDHA
+14 (0.03%)	 DEITY
+14 (0.03%)	 GEOMETRIC MOTIFS
+13 (0.02%)	 MAITREYA
+13 (0.02%)	 HAT
+12 (0.02%)	 BIRD
+11 (0.02%)	 LHAMO
+11 (0.02%)	 TARA
+10 (0.02%)	 SITATARA
+10 (0.02%)	 SYAMATARA
+10 (0.02%)	 JAMBHALA
+10 (0.02%)	 CAT
+10 (0.02%)	 SHOE
+10 (0.02%)	 BOWL
+9 (0.02%)	 TSONG KHAPA
+9 (0.02%)	 YAMA
+9 (0.02%)	 KUAN YIN
+9 (0.02%)	 TIGER
+9 (0.02%)	 LANDSCAPE SCENE
+
+==============================================================================
+Field: Technique (1,232 unique values) / Top 30:
+------------------------------------------------------------------------------
+46,460 (87.42%)	 <empty>
+599 (1.13%)	 CARVED
+492 (0.93%)	 EMBROIDERY
+392 (0.74%)	 PLAITED
+284 (0.53%)	 PRINTED
+225 (0.42%)	 EMBROIDERED
+216 (0.41%)	 WOVEN
+210 (0.4%)	 BRAIDED
+193 (0.36%)	 PAINTED
+172 (0.32%)	 INCISED
+137 (0.26%)	 POLYCHROME
+94 (0.18%)	 PRINT
+92 (0.17%)	 CARVED, PAINTED
+75 (0.14%)	 BATIK
+72 (0.14%)	 COLORED PHOTOGRAPHIC PRINT
+65 (0.12%)	 BEADED
+64 (0.12%)	 IKAT
+61 (0.11%)	 BROCADE
+58 (0.11%)	 PAINTING
+57 (0.11%)	 APPLIQUÉ
+57 (0.11%)	 OPENWORK
+57 (0.11%)	 BASKET WORK
+56 (0.11%)	 PRINT WITH COLOR ADDED, FAN-FOLD
+48 (0.09%)	 SUPPLEMENTARY WEFT PATTERNS
+43 (0.08%)	 WARP IKAT
+43 (0.08%)	 SPINNING
+42 (0.08%)	 CARVED, INCISED
+35 (0.07%)	 WRAPPED
+31 (0.06%)	 NEEDLE LACE
+28 (0.05%)	 RELIEF CARVING
+
+==============================================================================
+FIELD: Curatorial Notes
+------------------------------------------------------------------------------
+389 (0.73%)	 have
+52,758 (99.27%)	 don't have
+
+==============================================================================
+FIELD: Exhibition History
+------------------------------------------------------------------------------
+1,020 (1.92%)	 have
+52,127 (98.08%)	 don't have
+
+==============================================================================
+FIELD: Publication History
+------------------------------------------------------------------------------
+2,287 (4.3%)	 have
+50,860 (95.7%)	 don't have
+
+==============================================================================
+FIELD: Dimensions
+------------------------------------------------------------------------------
+39,364 (74.07%)	 have
+13,783 (25.93%)	 don't have
+
+==============================================================================
+FIELD: Thumb URL
+------------------------------------------------------------------------------
+53,147 (100.0%)	 have
+0 (0.0%)	 don't have

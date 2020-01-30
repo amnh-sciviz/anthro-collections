@@ -1,0 +1,400 @@
+Total item count: 34,588
+
+==============================================================================
+Field: Acquisition Year (246 unique values) / Top 30:
+------------------------------------------------------------------------------
+5,127 (14.82%)	 1910 [PURCHASE]
+3,157 (9.13%)	 1907 [GIFT]
+2,482 (7.18%)	 1915 [EXPEDITION]
+1,401 (4.05%)	 1907 [PURCHASE]
+1,364 (3.94%)	 1951 [PURCHASE]
+1,293 (3.74%)	 <empty>
+794 (2.3%)	 1954 [PURCHASE]
+613 (1.77%)	 1963 [GIFT]
+613 (1.77%)	 1915 [PURCHASE]
+598 (1.73%)	 1971 [PURCHASE]
+579 (1.67%)	 1959 [PURCHASE]
+507 (1.47%)	 1980 [GIFT]
+425 (1.23%)	 1905 [GIFT]
+402 (1.16%)	 1902 [PURCHASE]
+395 (1.14%)	 1948 [EXPEDITION]
+382 (1.1%)	 1990 [GIFT]
+379 (1.1%)	 1944 [GIFT]
+369 (1.07%)	 1928 [EXPEDITION]
+349 (1.01%)	 1949 [GIFT]
+348 (1.01%)	 1957 [GIFT]
+319 (0.92%)	 1967 [GIFT]
+315 (0.91%)	 1954 [EXPEDITION]
+306 (0.88%)	 1956 [PURCHASE]
+284 (0.82%)	 1908 [GIFT]
+261 (0.75%)	 1964 [GIFT]
+255 (0.74%)	 1869-1890
+252 (0.73%)	 1953 [EXPEDITION]
+250 (0.72%)	 1957 [PURCHASE]
+243 (0.7%)	 1962 [PURCHASE]
+237 (0.69%)	 1973 [GIFT]
+
+==============================================================================
+Field: Categories (8 unique values) / Top 30:
+------------------------------------------------------------------------------
+6,738 (19.48%)	 WEAPONS AND AMMUNITION
+6,337 (18.32%)	 EQUIPMENT
+5,812 (16.8%)	 COSTUME
+4,839 (13.99%)	 CONTAINERS
+1,544 (4.46%)	 TEXTILE
+1,419 (4.1%)	 SOUND DEVICES
+1,200 (3.47%)	 FURNISHINGS
+347 (1.0%)	 RECREATIONAL ARTIFACTS
+
+==============================================================================
+Field: Collection (1 unique values) / Top 30:
+------------------------------------------------------------------------------
+34,588 (100.0%)	 AFRICAN ETHNOGRAPHIC COLLECTION
+
+==============================================================================
+Field: Collector (12 unique values) / Top 30:
+------------------------------------------------------------------------------
+34,119 (98.64%)	 <empty>
+205 (0.59%)	 JAMES LAWTON
+118 (0.34%)	 BERTHA SMALLEY
+108 (0.31%)	 GLAVE, E.J.
+14 (0.04%)	 MARBLE, FRANK
+11 (0.03%)	 STOLPE, HJALMAR, MR.
+7 (0.02%)	 DONOR'S BROTHER
+2 (0.01%)	 PENE, K.
+1 (0.0%)	 NICOLAT, PROF.
+1 (0.0%)	 RAINSFORD, KERR
+1 (0.0%)	 DONOR'S UNCLE DON CARLOS MOURAILLE M.D.
+1 (0.0%)	 LAUREL KENDALL
+
+==============================================================================
+Field: Country (312 unique values) / Top 30:
+------------------------------------------------------------------------------
+8,399 (24.28%)	 CONGO (BELGIAN CONGO)
+3,305 (9.56%)	 CONGO FREESTATE
+2,545 (7.36%)	 NIGERIA
+1,922 (5.56%)	 <empty>
+1,648 (4.76%)	 KENYA
+1,011 (2.92%)	 ZAMBIA?
+836 (2.42%)	 GHANA
+812 (2.35%)	 DUTCH GUIANA
+775 (2.24%)	 CAMEROON
+735 (2.13%)	 LIBERIA
+633 (1.83%)	 TANZANIA
+586 (1.69%)	 UGANDA
+506 (1.46%)	 SOUTH AFRICA?
+459 (1.33%)	 ZAIRE?, CONGO?
+456 (1.32%)	 ETHIOPIA
+431 (1.25%)	 ANGOLA
+430 (1.24%)	 BOTSWANA
+424 (1.23%)	 BOTSWANA?
+399 (1.15%)	 GHANA?
+341 (0.99%)	 TOGO
+339 (0.98%)	 ZIMBABWE
+336 (0.97%)	 MADAGASCAR
+335 (0.97%)	 SOUTH AFRICA
+326 (0.94%)	 CONGO?, ZAIRE?
+293 (0.85%)	 MOROCCO
+273 (0.79%)	 COTE D'IVOIRE
+248 (0.72%)	 EAST AFRICA
+237 (0.69%)	 SUDAN
+226 (0.65%)	 BURKINA FASO
+221 (0.64%)	 FRENCH EQUATORIAL AFRICA
+
+==============================================================================
+Field: Culture (1,542 unique values) / Top 30:
+------------------------------------------------------------------------------
+8,090 (23.39%)	 <empty>
+1,336 (3.86%)	 YORUBA
+1,072 (3.1%)	 ASHANTI
+943 (2.73%)	 MANGBETU
+833 (2.41%)	 LOZI? (BAROTSE?)
+701 (2.03%)	 PENDE (BAMPENDE)
+643 (1.86%)	 KUBA
+574 (1.66%)	 LUBA
+384 (1.11%)	 ZULU
+372 (1.08%)	 MAASAI
+371 (1.07%)	 MANGBETU?
+364 (1.05%)	 BUSHMAN, KUNG
+348 (1.01%)	 NGWATO (BAMANWATO)
+339 (0.98%)	 KARAMOJONG
+328 (0.95%)	 NGUMBI (HUMBE, VAHUMBE)
+326 (0.94%)	 LOZI?
+306 (0.88%)	 SARAMACCANER
+300 (0.87%)	 ZANDE
+277 (0.8%)	 ZULU?
+275 (0.8%)	 LELE (BASCHILELE)
+260 (0.75%)	 DJUKA
+244 (0.71%)	 NTOMBA (NTUMBA)
+244 (0.71%)	 KETE
+242 (0.7%)	 HAUSA
+239 (0.69%)	 AUCANER
+225 (0.65%)	 ZANDE?
+211 (0.61%)	 NGALA (BANGALA)
+208 (0.6%)	 YAKA (BAYAKA)
+208 (0.6%)	 TURKANA
+203 (0.59%)	 DOROBO (OKIEK, NDOROBO)
+
+==============================================================================
+Field: Date (14 unique values) / Top 30:
+------------------------------------------------------------------------------
+34,500 (99.75%)	 <empty>
+32 (0.09%)	 Early 1980s
+20 (0.06%)	 PRE-EUROPEAN
+15 (0.04%)	 Century
+10 (0.03%)	 CA. 1940
+3 (0.01%)	 Early 1970'S
+1 (0.0%)	 Early 1900s
+1 (0.0%)	 Late 1800s
+1 (0.0%)	 CA 1700
+1 (0.0%)	 OTTOMAN
+1 (0.0%)	 C 1900
+1 (0.0%)	 MID-1970'S
+1 (0.0%)	 Early 1960s
+1 (0.0%)	 Late 1990'S
+
+==============================================================================
+Field: Donor (575 unique values) / Top 30:
+------------------------------------------------------------------------------
+4,863 (14.06%)	 STARR, FREDERICK
+3,151 (9.11%)	 BELGIAN GOVERNMENT
+2,482 (7.18%)	 LANG, HERBERT
+1,678 (4.85%)	 <empty>
+1,370 (3.96%)	 DOUGLAS, RICHARD
+1,118 (3.23%)	 BASCOM, WILLIAM R., DR.
+659 (1.91%)	 MORDEN
+654 (1.89%)	 WILLIAMS
+610 (1.76%)	 DOUGLAS
+560 (1.62%)	 GRANGER, MYRON AND KAHN, MORTON
+451 (1.3%)	 CONANT
+438 (1.27%)	 BOWDOIN, GEORGE S., HON.
+431 (1.25%)	 BERLIN ROYAL ETHNOGRAPHIC MUSEUM
+386 (1.12%)	 KLUMPP PIDO, DONNA
+376 (1.09%)	 KORABIEWICZ, W., DR.
+353 (1.02%)	 YELLEN
+340 (0.98%)	 LERNER, MICHAEL
+337 (0.97%)	 DYER
+333 (0.96%)	 DYSON-HUDSON, NEVILLE, DR.
+330 (0.95%)	 SCHILDKROUT, ENID
+329 (0.95%)	 LYON
+328 (0.95%)	 PUTNAM FAMILY
+312 (0.9%)	 TURNBULL
+257 (0.74%)	 JESUP, MORRIS K.
+252 (0.73%)	 DAVIS-WILLIS
+251 (0.73%)	 SHELDON, ALICE BRADLEY
+245 (0.71%)	 GOOD, A. I., DR.
+219 (0.63%)	 HUNTINGTON, C. P.
+214 (0.62%)	 BLACKBURN, RODERIC H.
+209 (0.6%)	 CAMPBELL, R. H.
+
+==============================================================================
+Field: Hall (3 unique values) / Top 30:
+------------------------------------------------------------------------------
+32,921 (95.18%)	 <empty>
+1,666 (4.82%)	 Hall of African Peoples
+1 (0.0%)	 Hall of South American Peoples
+
+==============================================================================
+Field: Keywords (1,907 unique values) / Top 30:
+------------------------------------------------------------------------------
+4,637 (13.41%)	 ARROW
+1,346 (3.89%)	 BASKET
+1,345 (3.89%)	 FIGURE
+1,183 (3.42%)	 SPEAR
+1,170 (3.38%)	 KNIFE
+876 (2.53%)	 GOLDWEIGHT
+860 (2.49%)	 BRACELET
+635 (1.84%)	 NECKLACE
+598 (1.73%)	 MASK
+464 (1.34%)	 FETISH
+458 (1.32%)	 COMB
+455 (1.32%)	 MAT
+407 (1.18%)	 CONTAINER
+406 (1.17%)	 SPOON
+372 (1.08%)	 BASKET LID
+362 (1.05%)	 WEAVING SAMPLE
+360 (1.04%)	 BOW
+343 (0.99%)	 BOWL
+342 (0.99%)	 MONEY
+337 (0.97%)	 RAFFIA CLOTH
+323 (0.93%)	 APRON
+317 (0.92%)	 BELT
+276 (0.8%)	 STOOL
+275 (0.8%)	 JAR
+267 (0.77%)	 SHIELD
+264 (0.76%)	 PADDLE
+262 (0.76%)	 PIPE BOWL
+256 (0.74%)	 SMOKING PIPE
+256 (0.74%)	 BAG
+254 (0.73%)	 RATTLE
+
+==============================================================================
+Field: Locale (1,884 unique values) / Top 30:
+------------------------------------------------------------------------------
+13,956 (40.35%)	 <empty>
+959 (2.77%)	 OYO
+789 (2.28%)	 KASAI
+600 (1.73%)	 BAROTSELAND
+542 (1.57%)	 NIANGARA
+538 (1.56%)	 MEDJE
+504 (1.46%)	 NDOMBE
+481 (1.39%)	 UPPER UELE
+463 (1.34%)	 BAROTSELAND, LEALUI
+389 (1.12%)	 POKO
+358 (1.04%)	 BECHUANNALAND, SEROWE
+352 (1.02%)	 WESTERN NGAMILAND/DOBE
+331 (0.96%)	 ARUWIMI
+329 (0.95%)	 BETWEEN CUNENE AND COPOROLO-TCHILENGES RIVERS
+277 (0.8%)	 LUKENGU
+261 (0.75%)	 LUEBO
+217 (0.63%)	 CHISAKONKA
+211 (0.61%)	 IKOKO
+206 (0.6%)	 UELE
+205 (0.59%)	 RUNGU
+197 (0.57%)	 NAROK DISTRICT
+189 (0.55%)	 FARADJE
+177 (0.51%)	 CHIMBUNDU
+159 (0.46%)	 AKENGE
+147 (0.43%)	 LAIKIPIA, KIJABE
+141 (0.41%)	 MASHONALAND, MAZOE DISTRICT
+129 (0.37%)	 MWAMBA?
+125 (0.36%)	 KIGEZI DISTRICT
+124 (0.36%)	 OKAVANGO RIVER, RUNTU CAMP
+112 (0.32%)	 YAKUSU
+
+==============================================================================
+Field: Material (6,742 unique values) / Top 30:
+------------------------------------------------------------------------------
+1,944 (5.62%)	 WOOD
+1,357 (3.92%)	 <empty>
+1,288 (3.72%)	 WOOD, COATING
+1,117 (3.23%)	 PLANT FIBER
+994 (2.87%)	 METAL (BRASS)
+748 (2.16%)	 METAL
+679 (1.96%)	 METAL (IRON)
+573 (1.66%)	 WOOD, STAIN
+489 (1.41%)	 COTTON
+442 (1.28%)	 WOOD, PIGMENT
+407 (1.18%)	 WOOD, METAL
+361 (1.04%)	 METAL (BRASS?)
+351 (1.01%)	 CERAMIC
+333 (0.96%)	 PLANT FIBER, DYE
+318 (0.92%)	 WOOD, METAL (IRON)
+315 (0.91%)	 PLANT FIBER, CORD
+303 (0.88%)	 PALM LEAF FIBER
+282 (0.82%)	 WOOD, PLANT FIBER
+277 (0.8%)	 IVORY
+234 (0.68%)	 WOOD, METAL, COATING
+223 (0.64%)	 WOOD, METAL (IRON), COATING
+222 (0.64%)	 CERAMIC, COATING
+204 (0.59%)	 BEAD, CORD
+197 (0.57%)	 PLANT FIBER, WOOD
+191 (0.55%)	 METAL, COATING
+160 (0.46%)	 METAL (IRON), COATING
+147 (0.43%)	 HIDE, FUR, WOOD, FEATHER, PL.FIBER, COATING
+142 (0.41%)	 GOURD
+134 (0.39%)	 PLANT FIBER, COATING
+133 (0.38%)	 WOOD, METAL (IRON, COPPER)
+
+==============================================================================
+Field: Period (1 unique values) / Top 30:
+------------------------------------------------------------------------------
+34,588 (100.0%)	 <empty>
+
+==============================================================================
+Field: Subject (175 unique values) / Top 30:
+------------------------------------------------------------------------------
+34,268 (99.07%)	 <empty>
+29 (0.08%)	 TRADITIONAL ARCHITECTURE, CEREMONIES, VILLAGE LIFE
+14 (0.04%)	 HUMAN FIGURE
+11 (0.03%)	 MALE FIGURE
+10 (0.03%)	 ANIMAL
+8 (0.02%)	 HUMAN FIGURES
+6 (0.02%)	 HEAD
+6 (0.02%)	 SNAKE FIGURE
+6 (0.02%)	 RECTANGLE
+6 (0.02%)	 SWORDFISH FIGURE
+5 (0.01%)	 CALF
+5 (0.01%)	 AIRPLANE
+4 (0.01%)	 OBEIAH
+4 (0.01%)	 BIRD FIGURES
+4 (0.01%)	 ANIMAL FIGURE
+4 (0.01%)	 CANNON
+4 (0.01%)	 RING
+4 (0.01%)	 SQUARE
+3 (0.01%)	 HOUSE GOD
+3 (0.01%)	 HUMAN FACE
+3 (0.01%)	 ANIMAL FIGURES
+3 (0.01%)	 BIRD
+3 (0.01%)	 HORN
+3 (0.01%)	 PYRAMID
+3 (0.01%)	 FISH FIGURE
+3 (0.01%)	 BAYANNI DEITY
+3 (0.01%)	 FIGURE
+2 (0.01%)	 BIRDS
+2 (0.01%)	 FIGURES, BIRDS
+2 (0.01%)	 ANIMAL, HUMAN FIGURE
+
+==============================================================================
+Field: Technique (614 unique values) / Top 30:
+------------------------------------------------------------------------------
+32,217 (93.15%)	 <empty>
+723 (2.09%)	 CARVED
+128 (0.37%)	 WARP STRIPED
+117 (0.34%)	 PLAIN WEAVE
+39 (0.11%)	 COILED
+33 (0.1%)	 PLAIN WEAVE, STRIPED
+33 (0.1%)	 WOVEN
+33 (0.1%)	 VARIOUS WARP STRIPES
+28 (0.08%)	 STRIP WEAVE, WARP STRIPED
+28 (0.08%)	 PLAIN WEAVE, STEM STITCH AND CUT-PILE EMBROIDERY
+27 (0.08%)	 PLAIN WEAVE, QUILTED
+26 (0.08%)	 WARP STRIPES
+26 (0.08%)	 WARP STRIPED, (SOME STRIPES BARRED)
+26 (0.08%)	 VARIOUS PLAIDS, AND IKAT
+26 (0.08%)	 WARP STRIPES, 1 SAMPLE WARP JOINING
+22 (0.06%)	 PLAIN WEAVE, CUT-PILE AND STEM STITCH EMBROIDERY
+21 (0.06%)	 BLACKWARE
+20 (0.06%)	 WARP STRIP AND WEFT STRIPES, IKAT
+19 (0.05%)	 INCISED
+18 (0.05%)	 EMBROIDERED
+17 (0.05%)	 TWILL WEAVE
+17 (0.05%)	 PLAINWEAVE
+15 (0.04%)	 VARIOUS PLAIDS
+15 (0.04%)	 WARP STRIPED WITH IKAT
+14 (0.04%)	 VARIOUS WARP STRIPES, PLAIDS AND IKAT
+13 (0.04%)	 BEADED
+12 (0.03%)	 PLAITED
+11 (0.03%)	 MACHINE STITCHED
+10 (0.03%)	 WARP AND WEFT STRIPES (CHECKS)
+9 (0.03%)	 PLAIN WEAVE, PIECED
+
+==============================================================================
+FIELD: Curatorial Notes
+------------------------------------------------------------------------------
+4,180 (12.09%)	 have
+30,408 (87.91%)	 don't have
+
+==============================================================================
+FIELD: Exhibition History
+------------------------------------------------------------------------------
+864 (2.5%)	 have
+33,724 (97.5%)	 don't have
+
+==============================================================================
+FIELD: Publication History
+------------------------------------------------------------------------------
+383 (1.11%)	 have
+34,205 (98.89%)	 don't have
+
+==============================================================================
+FIELD: Dimensions
+------------------------------------------------------------------------------
+32,420 (93.73%)	 have
+2,168 (6.27%)	 don't have
+
+==============================================================================
+FIELD: Thumb URL
+------------------------------------------------------------------------------
+34,588 (100.0%)	 have
+0 (0.0%)	 don't have
