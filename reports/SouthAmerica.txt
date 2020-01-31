@@ -1,0 +1,463 @@
+Total item count: 24,613
+
+==============================================================================
+Field: Acquisition Year (234 unique values) / Top 30:
+------------------------------------------------------------------------------
+2,845 (11.56%)	 1934 [GIFT]
+2,067 (8.4%)	 1951 [GIFT]
+893 (3.63%)	 1939 [EXPEDITION]
+850 (3.45%)	 1894 [EXPEDITION]
+807 (3.28%)	 1963 [GIFT]
+787 (3.2%)	 1957 [PURCHASE]
+764 (3.1%)	 <empty>
+547 (2.22%)	 1969 [PURCHASE]
+460 (1.87%)	 1958 [PURCHASE]
+437 (1.78%)	 1983 [GIFT]
+421 (1.71%)	 1907 [PURCHASE]
+402 (1.63%)	 1999 [GIFT]
+393 (1.6%)	 1956 [PURCHASE]
+351 (1.43%)	 1902 [GIFT]
+351 (1.43%)	 1950 [EXCHANGE]
+323 (1.31%)	 1961 [EXPEDITION]
+318 (1.29%)	 1992 [EXPEDITION]
+312 (1.27%)	 1953 [PURCHASE]
+302 (1.23%)	 1965 [GIFT]
+290 (1.18%)	 1962 [PURCHASE]
+284 (1.15%)	 1901 [EXPEDITION]
+271 (1.1%)	 1905
+267 (1.08%)	 1909 [PURCHASE]
+258 (1.05%)	 1925 [GIFT]
+258 (1.05%)	 1960 [GIFT]
+253 (1.03%)	 1914 [GIFT]
+248 (1.01%)	 1914 [EXPEDITION]
+232 (0.94%)	 1930 [EXPEDITION]
+229 (0.93%)	 1961 [GIFT]
+218 (0.89%)	 1943 [GIFT]
+
+==============================================================================
+Field: Categories (8 unique values) / Top 30:
+------------------------------------------------------------------------------
+4,306 (17.49%)	 COSTUME
+4,163 (16.91%)	 TEXTILE
+3,878 (15.76%)	 EQUIPMENT
+3,818 (15.51%)	 WEAPONS AND AMMUNITION
+3,764 (15.29%)	 CONTAINERS
+755 (3.07%)	 SOUND DEVICES
+494 (2.01%)	 RECREATIONAL ARTIFACTS
+351 (1.43%)	 FURNISHINGS
+
+==============================================================================
+Field: Collection (2 unique values) / Top 30:
+------------------------------------------------------------------------------
+21,236 (86.28%)	 SOUTH AMERICAN ETHNOGRAPHIC COLLECTION
+3,377 (13.72%)	 SOUTH AMERICAN ARCHAEOLOGICAL COLLECTION
+
+==============================================================================
+Field: Collector (45 unique values) / Top 30:
+------------------------------------------------------------------------------
+20,330 (82.6%)	 <empty>
+2,018 (8.2%)	 RAÚL DE LOS RÍOS
+349 (1.42%)	 WILLIAM BEVERLY HARRISON
+271 (1.1%)	 HASSLER, EMIL
+241 (0.98%)	 HARALD SCHULTZ
+232 (0.94%)	 RONALD L. OLSON
+106 (0.43%)	 OGILVIE
+101 (0.41%)	 DR. AMBROSETTI
+99 (0.4%)	 H. WALDE VON WALDEGG
+94 (0.38%)	 DR. JUNIUS BIRD
+90 (0.37%)	 COL. ARTHUR J. WILLIAMS
+86 (0.35%)	 JAY AND EDITH LOUTHIAN
+65 (0.26%)	 JAMES LAWTON
+61 (0.25%)	 G.S. SIMPSON, 1939
+60 (0.24%)	 D.B. KAYE JR. (DONOR'S UNCLE)
+51 (0.21%)	 DONOR'S UNCLE DON CARLOS MOURAILLE M.D.
+45 (0.18%)	 MONTERO, MANUEL
+44 (0.18%)	 ROBERT V. AND NANCY C. MOREY
+38 (0.15%)	 ANNITA KER, 1929
+31 (0.13%)	 B. MAGUIRE
+27 (0.11%)	 BERTHA SMALLEY
+25 (0.1%)	 HARALD SCHULZ
+22 (0.09%)	 HARALD SCHULTZ AND VILMA CHIARA
+18 (0.07%)	 KATHERINE STURGIS KNIGHT
+14 (0.06%)	 ALGOT LANGE
+14 (0.06%)	 RUSSELL W. HENDEE
+9 (0.04%)	 CASPAR WHITNEY (DONOR'S FATHER)
+9 (0.04%)	 IVANOFF, PAUL
+9 (0.04%)	 FRANK STUART
+9 (0.04%)	 ROBERT L. RUSSELL
+
+==============================================================================
+Field: Country (37 unique values) / Top 30:
+------------------------------------------------------------------------------
+11,819 (48.02%)	 PERU
+5,169 (21.0%)	 BRAZIL
+1,291 (5.25%)	 ARGENTINA
+1,274 (5.18%)	 ECUADOR
+892 (3.62%)	 COLOMBIA
+876 (3.56%)	 VENEZUELA
+665 (2.7%)	 <empty>
+610 (2.48%)	 BOLIVIA
+531 (2.16%)	 BRITISH GUIANA
+347 (1.41%)	 PARAGUAY
+263 (1.07%)	 FRENCH GUIANA
+240 (0.98%)	 CHILE
+132 (0.54%)	 DUTCH GUIANA
+96 (0.39%)	 COLOMBIA?, BRAZIL?
+92 (0.37%)	 COLOMBIA?
+79 (0.32%)	 BRAZIL?
+59 (0.24%)	 PERU?
+39 (0.16%)	 BOLIVIA?
+20 (0.08%)	 PERU?, BOLIVIA?
+19 (0.08%)	 ECUADOR?
+15 (0.06%)	 PANAMA
+13 (0.05%)	 SURINAME
+12 (0.05%)	 GUYANA
+10 (0.04%)	 URUGUAY
+9 (0.04%)	 ARGENTINA?
+8 (0.03%)	 BOLIVIA?, PERU?
+8 (0.03%)	 PERU?, ECUADOR?
+6 (0.02%)	 VENEZUELA?
+5 (0.02%)	 CHILE?
+3 (0.01%)	 COLOMBIA?, ECUADOR?
+
+==============================================================================
+Field: Culture (400 unique values) / Top 30:
+------------------------------------------------------------------------------
+5,471 (22.23%)	 <empty>
+1,742 (7.08%)	 CAMPA
+1,006 (4.09%)	 CHAMA (SHIPIBO/CONIBO)
+770 (3.13%)	 KARAJÁ
+618 (2.51%)	 CONIBO
+529 (2.15%)	 PILAGÁ
+514 (2.09%)	 WAYANA (OYANA)
+437 (1.78%)	 TUKANO
+382 (1.55%)	 WAORANI (AUCA)
+381 (1.55%)	 AMAHUACA
+376 (1.53%)	 CASHIBO
+359 (1.46%)	 WAIWAI
+356 (1.45%)	 KUIKURU
+355 (1.44%)	 SHAVANTE
+341 (1.39%)	 TUPARÍ
+331 (1.34%)	 JÍVARO
+327 (1.33%)	 INKA
+286 (1.16%)	 SHIPIBO
+268 (1.09%)	 PARESSÍ
+252 (1.02%)	 YANOMAMÖ (WAICA), SHAMATARI?
+239 (0.97%)	 JÍVARO (UNTSURI SHUARA)
+235 (0.95%)	 TIKUNA (TUCUNA)
+230 (0.93%)	 AGUARUNA
+229 (0.93%)	 TOBA
+196 (0.8%)	 PIRO
+194 (0.79%)	 URUBÚ-KAAPOR
+181 (0.74%)	 NASCA
+178 (0.72%)	 ISHKONAHUA
+177 (0.72%)	 PARACAS
+167 (0.68%)	 CHULUPÍ (CHUNUPÍ)
+
+==============================================================================
+Field: Date (44 unique values) / Top 30:
+------------------------------------------------------------------------------
+11,657 (47.36%)	 <empty>
+2,793 (11.35%)	 Early 1900s
+2,701 (10.97%)	 Early/Mid 1900s
+1,106 (4.49%)	 Late 1930s
+944 (3.84%)	 Early 1960s
+905 (3.68%)	 Late 1800s
+524 (2.13%)	 Early 1950s
+410 (1.67%)	 1905-1907
+397 (1.61%)	 1970-1983
+323 (1.31%)	 1955-1961
+318 (1.29%)	 1960s-1970s
+248 (1.01%)	 Early 1910s
+236 (0.96%)	 1957-1958
+231 (0.94%)	 1953-1954
+218 (0.89%)	 1932
+151 (0.61%)	 1980s
+130 (0.53%)	 Mid 1930s
+119 (0.48%)	 1907-1908
+106 (0.43%)	 1900-1906
+103 (0.42%)	 1970s
+102 (0.41%)	 1950s
+97 (0.39%)	 1974-1975
+94 (0.38%)	 1960s
+92 (0.37%)	 Early 1920s
+90 (0.37%)	 Mid 1960s
+88 (0.36%)	 1950-1951
+83 (0.34%)	 1970-1971
+79 (0.32%)	 Late 1800s-Early 1900s
+63 (0.26%)	 Early 1970s
+46 (0.19%)	 Late 1900s
+
+==============================================================================
+Field: Donor (499 unique values) / Top 30:
+------------------------------------------------------------------------------
+2,727 (11.08%)	 BASSLER, HARVEY, DR.
+2,018 (8.2%)	 MUNITALP FOUNDATION, INC.
+927 (3.77%)	 <empty>
+925 (3.76%)	 MALKIN, BORYS, MR.
+893 (3.63%)	 METRAUX, A. DR.
+859 (3.49%)	 BANDELIER, ADOLPH
+692 (2.81%)	 WEISS
+630 (2.56%)	 CARNEIRO AND DOLE
+558 (2.27%)	 SCHMIDT AND WEISS
+409 (1.66%)	 LAPOINTE, JEAN
+361 (1.47%)	 HARNER
+350 (1.42%)	 MUSEU PAULISTA
+349 (1.42%)	 LOUBAT
+348 (1.41%)	 CASPAR, FRANZ, DR.
+341 (1.39%)	 BEHRMAN & YOST
+337 (1.37%)	 ADAIR, ROBIN G.
+327 (1.33%)	 WILLIAMSON, LAILA
+324 (1.32%)	 SCHULTZ, HARALD
+309 (1.26%)	 MANGIN, WILLIAM
+275 (1.12%)	 FIELD COLUMBIAN MUSEUM
+260 (1.06%)	 DE LOS RÍOS, RAÚL
+252 (1.02%)	 CHAGNON
+248 (1.01%)	 ROOSEVELT, THEODORE
+232 (0.94%)	 GRANGER, MYRON I.
+232 (0.94%)	 JUILLIARD/GAFFRON
+218 (0.89%)	 METRAUX
+210 (0.85%)	 LOUTHIAN, JAY AND EDITH
+205 (0.83%)	 GAFFRON, EDWARDO, DR.
+196 (0.8%)	 LEMLEY, H. R.
+176 (0.72%)	 JONES
+
+==============================================================================
+Field: Hall (2 unique values) / Top 30:
+------------------------------------------------------------------------------
+23,715 (96.35%)	 <empty>
+898 (3.65%)	 Hall of South American Peoples
+
+==============================================================================
+Field: Keywords (2,771 unique values) / Top 30:
+------------------------------------------------------------------------------
+2,132 (8.66%)	 ARROW
+965 (3.92%)	 CLOTH FRAGMENT
+808 (3.28%)	 BOWL
+581 (2.36%)	 BAG
+505 (2.05%)	 NECKLACE
+417 (1.69%)	 POTTERY
+393 (1.6%)	 BASKET
+357 (1.45%)	 HEADDRESS
+353 (1.43%)	 EAR ORNAMENT
+331 (1.34%)	 BOW
+323 (1.31%)	 BELT
+289 (1.17%)	 HUNTING ARROW
+247 (1.0%)	 ARROWPOINT
+229 (0.93%)	 STRING FIGURE
+226 (0.92%)	 HEADBAND
+225 (0.91%)	 FIGURINE
+220 (0.89%)	 FLUTE
+168 (0.68%)	 SPINDLE
+160 (0.65%)	 BORDER FRAGMENT
+157 (0.64%)	 SLING
+157 (0.64%)	 OLLA
+155 (0.63%)	 FIRE FAN
+155 (0.63%)	 ORNAMENT
+153 (0.62%)	 BRACELET
+149 (0.61%)	 SPEAR
+148 (0.6%)	 LOOM BAR
+145 (0.59%)	 CARRYING BASKET
+139 (0.56%)	 FEATHER ORNAMENT
+134 (0.54%)	 TUNIC
+130 (0.53%)	 DOLL
+
+==============================================================================
+Field: Locale (777 unique values) / Top 30:
+------------------------------------------------------------------------------
+6,598 (26.81%)	 <empty>
+1,916 (7.78%)	 NORTHEAST PERU
+856 (3.48%)	 EAST PERU, ALTO UCAYALI
+662 (2.69%)	 EAST PERU, RIO TAMBO AREA
+534 (2.17%)	 FORMOSA, LAGUNA DE LOS PAJAROS
+458 (1.86%)	 ANCON
+409 (1.66%)	 AMAZONAS, RIO CAIARY-UAUPÉS
+409 (1.66%)	 PARÁ, UPPER PARU DE LESTE RIVER
+351 (1.43%)	 MATO GROSSO
+348 (1.41%)	 WEST BRAZIL, RIO GUAPORÉ
+341 (1.39%)	 CONONACO RIVER
+337 (1.37%)	 SOUTH VENEZUELA
+315 (1.28%)	 MATO GROSSO, PIMENTEL BARBOSA RESERVATION
+311 (1.26%)	 EAST PERU, RIO TAMBO
+310 (1.26%)	 SOUTHEAST PERU, UPPER INUYA RIVER
+309 (1.26%)	 ANCASH, HACIENDA VICOS
+272 (1.11%)	 EAST ECUADOR, WEST OF RÍO PASTAZA
+270 (1.1%)	 MATO GROSSO, 8 MILES WEST OF KULUENE RIVER
+235 (0.95%)	 UPPER SOLIMOES RIVER
+231 (0.94%)	 NASCA
+192 (0.78%)	 EAST PERU, RIO SAN ALEJANDRO
+174 (0.71%)	 PACHACAMAC
+168 (0.68%)	 TIERRA DEL FUEGO
+165 (0.67%)	 RIO PILCOMAYO
+162 (0.66%)	 EAST PERU, RIO URUBAMBA
+162 (0.66%)	 EAST PERU, BAJO UCAYALI
+148 (0.6%)	 RIO ISANA
+142 (0.58%)	 SOUTH COAST?
+128 (0.52%)	 ARAWA RIVER
+120 (0.49%)	 SURCO
+
+==============================================================================
+Field: Material (5,953 unique values) / Top 30:
+------------------------------------------------------------------------------
+2,049 (8.32%)	 WOOD
+1,172 (4.76%)	 <empty>
+829 (3.37%)	 CLAY, PIGMENT
+652 (2.65%)	 CLAY
+498 (2.02%)	 PLANT FIBER
+395 (1.6%)	 CAMELID FIBER
+329 (1.34%)	 COTTON
+320 (1.3%)	 CLOTH (COTTON)
+307 (1.25%)	 CAMELID FIBER, COTTON
+286 (1.16%)	 CLOTH
+240 (0.98%)	 CANE, WOOD, FEATHER, STRING
+237 (0.96%)	 GOURD
+191 (0.78%)	 CANE, WOOD, STRING
+189 (0.77%)	 STRING (COTTON), METAL (PIN), PAPER
+186 (0.76%)	 STONE
+172 (0.7%)	 CANE
+172 (0.7%)	 BAMBOO
+166 (0.67%)	 LEAF (PALM)
+161 (0.65%)	 CLAY, PIGMENT, GLAZE
+154 (0.63%)	 BONE
+151 (0.61%)	 FEATHER
+144 (0.59%)	 CLOTH (COTTON, CAMELID FIBER)
+142 (0.58%)	 COTTON, CAMELID FIBER
+139 (0.56%)	 WOOD, PIGMENT
+123 (0.5%)	 WOOL
+122 (0.5%)	 WOOD, STRING
+116 (0.47%)	 PAPER, PENCIL, INK, PIGMENT
+112 (0.46%)	 FEATHER, CORD (PLANT FIBER)
+106 (0.43%)	 CLOTH (CAMELID FIBER, COTTON)
+104 (0.42%)	 METAL (SILVER)
+
+==============================================================================
+Field: Period (302 unique values) / Top 30:
+------------------------------------------------------------------------------
+22,896 (93.02%)	 <empty>
+162 (0.66%)	 LATE HORIZON, 1450-1532
+148 (0.6%)	 1000-1450AD
+145 (0.59%)	 1450-1532 AD
+96 (0.39%)	 800-100 BC
+76 (0.31%)	 800-100 B.C.
+65 (0.26%)	 600-1000AD
+41 (0.17%)	 PROBABLY LIP 1000-1450 A.D.
+38 (0.15%)	 100BC-700AD
+36 (0.15%)	 LATE HORIZON 1450-1532
+35 (0.14%)	 LIP
+34 (0.14%)	 ?
+33 (0.13%)	 100 B.C.-700 A.D.
+31 (0.13%)	 100 BC-700 AD
+26 (0.11%)	 600-1000AD?
+24 (0.1%)	 LIP?
+24 (0.1%)	 LIP AD 1000-1450
+22 (0.09%)	 100 BC- AD 700
+21 (0.09%)	 LIP 1000-1450 A.D.
+18 (0.07%)	 LIP AD 1000-1476
+17 (0.07%)	 100 BC - 700 AD
+17 (0.07%)	 MH 600-1000 A.D.
+16 (0.07%)	 600-1000 A.D.
+15 (0.06%)	 1450-1532 A.D.
+15 (0.06%)	 MH 600-1000 AD
+13 (0.05%)	 LIP OR LH
+13 (0.05%)	 600-1000 AD
+13 (0.05%)	 100 BC-AD 700
+12 (0.05%)	 LATE HORIZON, 1450-1532 ?
+12 (0.05%)	 1000-1532AD
+
+==============================================================================
+Field: Subject (1,367 unique values) / Top 30:
+------------------------------------------------------------------------------
+22,439 (91.17%)	 <empty>
+45 (0.18%)	 BIRD MOTIF
+39 (0.16%)	 DIAMOND MOTIF
+35 (0.14%)	 GEOMETRIC MOTIFS
+35 (0.14%)	 STYLIZED FELINE FACES ON TOP PORTION OF SEGMENT FOLLOWED BY STRIPES OF COLORS
+28 (0.11%)	 CAIRARA MONKEY
+21 (0.09%)	 NONE
+20 (0.08%)	 MULTI-COLORED VARIED GEOMETRIC PATTERNS
+17 (0.07%)	 CEBUS MONKEY
+12 (0.05%)	 DIAMOND PATTERN
+12 (0.05%)	 GEOMETRIC MOTIF
+11 (0.04%)	 STRIPES
+11 (0.04%)	 STRIPE MOTIF
+11 (0.04%)	 DIAMOND AND SCROLL MOTIF
+10 (0.04%)	 NO DESIGN
+10 (0.04%)	 PAIRED FIGURES AND ANIMALS
+10 (0.04%)	 FISH MOTIF
+10 (0.04%)	 FIGURAL MOTIF
+9 (0.04%)	 STEPPED FRET MOTIF
+9 (0.04%)	 MONOCHROME
+8 (0.03%)	 BIRD
+8 (0.03%)	 GEOMETRIC PATTERN
+8 (0.03%)	 BIRD DESIGNS
+7 (0.03%)	 MONKEY
+7 (0.03%)	 STYLIZED FACES WITH HEADDRESSES
+7 (0.03%)	 DOUBLE-HEADED SERPENT MOTIF
+7 (0.03%)	 TOO DAMAGED TO DISTINGUISH THE DESIGN
+7 (0.03%)	 DIAMONS MOTIFS ON STEPPED FRET SHAPED CLOTHS IN ALTERNATING COLORS
+7 (0.03%)	 HUMAN AND ANIMAL FIGURES
+7 (0.03%)	 NO DESIGN, TWO SEPERATE LAYERS OF CLOTH, ONE BROWN AND ONE WHITE
+
+==============================================================================
+Field: Technique (2,856 unique values) / Top 30:
+------------------------------------------------------------------------------
+15,641 (63.55%)	 <empty>
+813 (3.3%)	 POTTERY
+440 (1.79%)	 WOVEN
+354 (1.44%)	 PAINTED
+262 (1.06%)	 POTTERY, PAINTED
+183 (0.74%)	 PLAITED
+113 (0.46%)	 CARVED
+111 (0.45%)	 INCISED
+108 (0.44%)	 TWILL PLAITED
+108 (0.44%)	 KNOTTING AND PLYING
+86 (0.35%)	 BRAIDED
+80 (0.33%)	 POTTERY, GLAZED
+76 (0.31%)	 BEADED
+64 (0.26%)	 SLIT TAPESTRY
+62 (0.25%)	 WRAPPING
+61 (0.25%)	 WRAPPED FEATHERING
+61 (0.25%)	 DRAWING, COLOR WASH, SKETCHED
+59 (0.24%)	 PERUVIAN CEMENTED FEATHERING
+58 (0.24%)	 DOUBLE CLOTH
+55 (0.22%)	 DRAWING, COLOR WASH
+50 (0.2%)	 BEADWORK
+47 (0.19%)	 POTTERY, UNFIRED CLAY, PAINTED.
+46 (0.19%)	 TWILLED
+46 (0.19%)	 CRADLE:RIBBED TAPESTRY, VERTICAL WRAPPING OF HORIZONTAL ELEMENTS, BRAIDING, FRINGE
+45 (0.18%)	 PLAIN WEAVE
+45 (0.18%)	 KNITTED
+43 (0.17%)	 KNOTLESS NETTING
+42 (0.17%)	 WRAPPING, PLYING
+42 (0.17%)	 DOUBLE-FACED COMPLIMENTARY WARP PATTERN
+35 (0.14%)	 PLAIN WEAVE WITH SUPPLEMENTARY OR COMPLEMENTARY PATTERNING, OVERCASTING STITCHES
+
+==============================================================================
+FIELD: Curatorial Notes
+------------------------------------------------------------------------------
+50 (0.2%)	 have
+24,563 (99.8%)	 don't have
+
+==============================================================================
+FIELD: Exhibition History
+------------------------------------------------------------------------------
+213 (0.87%)	 have
+24,400 (99.13%)	 don't have
+
+==============================================================================
+FIELD: Publication History
+------------------------------------------------------------------------------
+179 (0.73%)	 have
+24,434 (99.27%)	 don't have
+
+==============================================================================
+FIELD: Dimensions
+------------------------------------------------------------------------------
+23,701 (96.29%)	 have
+912 (3.71%)	 don't have
+
+==============================================================================
+FIELD: Thumb URL
+------------------------------------------------------------------------------
+24,613 (100.0%)	 have
+0 (0.0%)	 don't have
