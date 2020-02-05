@@ -1,0 +1,345 @@
+Total item count: 467
+
+==============================================================================
+Field: Acquisition Year (34 unique values) / Top 30:
+------------------------------------------------------------------------------
+78 (16.7%)	 1954 [PURCHASE]
+64 (13.7%)	 1962 [PURCHASE]
+45 (9.64%)	 1970 [GIFT]
+44 (9.42%)	 1954 [EXCHANGE]
+41 (8.78%)	 1973 [GIFT]
+39 (8.35%)	 1967 [GIFT]
+17 (3.64%)	 1961
+16 (3.43%)	 1976 [GIFT]
+14 (3.0%)	 1968 [GIFT]
+10 (2.14%)	 1979 [GIFT]
+10 (2.14%)	 1983 [GIFT]
+9 (1.93%)	 1902
+9 (1.93%)	 1970 [PURCHASE]
+8 (1.71%)	 1929 [GIFT]
+7 (1.5%)	 1931 [GIFT]
+7 (1.5%)	 1974 [GIFT]
+7 (1.5%)	 1985 [GIFT]
+6 (1.28%)	 1900 [GIFT]
+6 (1.28%)	 <empty>
+4 (0.86%)	 1956 [GIFT]
+4 (0.86%)	 1957 [GIFT]
+4 (0.86%)	 1964 [GIFT]
+3 (0.64%)	 1980 [GIFT]
+2 (0.43%)	 1869-1890
+2 (0.43%)	 1912 [PURCHASE]
+2 (0.43%)	 1913 [EXCHANGE]
+2 (0.43%)	 1942 [GIFT]
+1 (0.21%)	 1921 [GIFT]
+1 (0.21%)	 1921 [PURCHASE]
+1 (0.21%)	 1949 [GIFT]
+
+==============================================================================
+Field: Categories (5 unique values) / Top 30:
+------------------------------------------------------------------------------
+437 (93.58%)	 TEXTILE
+238 (50.96%)	 COSTUME
+27 (5.78%)	 EQUIPMENT
+22 (4.71%)	 CONTAINERS
+11 (2.36%)	 FURNISHINGS
+
+==============================================================================
+Field: Collection (2 unique values) / Top 30:
+------------------------------------------------------------------------------
+437 (93.58%)	 EUROPEAN ETHNOGRAPHIC COLLECTION
+30 (6.42%)	 EUROPEAN ARCHAEOLOGICAL COLLECTION
+
+==============================================================================
+Field: Collector (3 unique values) / Top 30:
+------------------------------------------------------------------------------
+424 (90.79%)	 <empty>
+36 (7.71%)	 BERTHA SMALLEY
+7 (1.5%)	 DR. JUNIUS BIRD
+
+==============================================================================
+Field: Country (27 unique values) / Top 30:
+------------------------------------------------------------------------------
+161 (34.48%)	 <empty>
+78 (16.7%)	 SERBIA
+55 (11.78%)	 MACEDONIA
+42 (8.99%)	 FINLAND
+26 (5.57%)	 CROATIA
+20 (4.28%)	 PORTUGAL
+12 (2.57%)	 GREECE
+10 (2.14%)	 SPAIN
+9 (1.93%)	 FRANCE
+8 (1.71%)	 BULGARIA
+8 (1.71%)	 ROMANIA
+8 (1.71%)	 RUSSIA
+4 (0.86%)	 TURKEY
+4 (0.86%)	 NORWAY
+3 (0.64%)	 MONTENEGRO
+3 (0.64%)	 FRANCE? SCOTLAND?
+2 (0.43%)	 GREECE?
+2 (0.43%)	 HUNGARY?
+2 (0.43%)	 HOLLAND
+2 (0.43%)	 POLAND
+2 (0.43%)	 SPAIN?
+1 (0.21%)	 HUNGARY
+1 (0.21%)	 SWEDEN
+1 (0.21%)	 LITHUANIA
+1 (0.21%)	 MACEDONIA?
+1 (0.21%)	 FRANCE?
+1 (0.21%)	 GERMANY
+
+==============================================================================
+Field: Culture (6 unique values) / Top 30:
+------------------------------------------------------------------------------
+415 (88.87%)	 <empty>
+42 (8.99%)	 LAPP (SAAMI)
+7 (1.5%)	 TEREK COSSACK
+1 (0.21%)	 MOUSTERIAN
+1 (0.21%)	 SAMOGITIAN
+1 (0.21%)	 PSHAV-KHEVSUR PEOPLE
+
+==============================================================================
+Field: Date (3 unique values) / Top 30:
+------------------------------------------------------------------------------
+463 (99.14%)	 <empty>
+3 (0.64%)	 Century
+1 (0.21%)	 Century?
+
+==============================================================================
+Field: Donor (40 unique values) / Top 30:
+------------------------------------------------------------------------------
+68 (14.56%)	 HALPERN, JOEL, DR.
+64 (13.7%)	 BALIKCI, ASEN DR.
+44 (9.42%)	 ETHNOGRAPHIC MUSEUM, SKOPJE
+39 (8.35%)	 VENCIUS, VICTORIA
+36 (7.71%)	 DERSCH, JOHN, MRS.
+33 (7.07%)	 ERDA, BETTIE
+17 (3.64%)	 PRATT, GEORGE, MRS.
+16 (3.43%)	 CARL SCHUSTER ESTATE
+14 (3.0%)	 FREEMAN, ETHEL C.
+12 (2.57%)	 WOLFSON, JOY
+10 (2.14%)	 SCHULMAN, MIRKO, DR.
+10 (2.14%)	 BIRD, JUNIUS
+9 (1.93%)	 TEIT, JAMES
+9 (1.93%)	 PIRIC, KATERINA
+9 (1.93%)	 DEBEVOISE, KENNETH H.
+8 (1.71%)	 DE WEBBER, HERMAN
+7 (1.5%)	 ULICH, H.P.
+7 (1.5%)	 AGOEFF, CONSTANTINE, GENERAL-MAYOR
+7 (1.5%)	 BIRD, MARGARET, MRS.
+6 (1.28%)	 MISSIONARY EXHIBIT
+6 (1.28%)	 <empty>
+5 (1.07%)	 D'HARNONCOURT, RENE
+4 (0.86%)	 BUHLER, ALFRED, DR.
+4 (0.86%)	 KOCHER, ERIC, MRS.
+3 (0.64%)	 COSTA, JOSEPH L.
+2 (0.43%)	 FEUARDENT, G.L.
+2 (0.43%)	 FEHRLIN, OTTO
+2 (0.43%)	 MARTIN, HENRI
+2 (0.43%)	 ARMENIAN COLLECTION (OF MRS. ORDJANIAN)
+2 (0.43%)	 DIMPEL, CHIRLES S.
+
+==============================================================================
+Field: Hall (1 unique values) / Top 30:
+------------------------------------------------------------------------------
+467 (100.0%)	 <empty>
+
+==============================================================================
+Field: Keywords (169 unique values) / Top 30:
+------------------------------------------------------------------------------
+50 (10.71%)	 APRON
+18 (3.85%)	 SOCK
+17 (3.64%)	 COIN
+14 (3.0%)	 WOVEN BAND
+14 (3.0%)	 SOCK (WOMAN)
+12 (2.57%)	 APRON (WOMAN)
+10 (2.14%)	 BAG
+9 (1.93%)	 JACKET (WOMAN)
+8 (1.71%)	 BELT
+8 (1.71%)	 STOCKING (MAN)
+8 (1.71%)	 FABRIC
+7 (1.5%)	 CAP
+7 (1.5%)	 VEST (WOMAN)
+7 (1.5%)	 BELT (WOMAN)
+6 (1.28%)	 GARTER
+6 (1.28%)	 TOE WARMER (MAN)
+6 (1.28%)	 VEST
+6 (1.28%)	 TOWEL
+5 (1.07%)	 SHAWL
+5 (1.07%)	 VEST (MAN)
+5 (1.07%)	 SHIRT (MAN)
+5 (1.07%)	 SKIRT (WOMAN)
+4 (0.86%)	 MITTEN
+4 (0.86%)	 STOCKING
+4 (0.86%)	 CARRYING BAG
+4 (0.86%)	 STOCKING (WOMAN)
+4 (0.86%)	 DRESS (WOMAN)
+4 (0.86%)	 SASH (WOMAN)
+4 (0.86%)	 BELT BUCKLE
+4 (0.86%)	 IKAT SAMPLE
+
+==============================================================================
+Field: Locale (58 unique values) / Top 30:
+------------------------------------------------------------------------------
+68 (14.56%)	 CENTRAL SERBIA, SUMADIJA
+64 (13.7%)	 MACEDONIA, SKOCIVIR
+61 (13.06%)	 <empty>
+37 (7.92%)	 SUWALKI?
+33 (7.07%)	 INARI FELLS
+22 (4.71%)	 MACEDONIA, SKOPJE REGION, BOULATCHANE
+14 (3.0%)	 MINHO DISTRICT, VIANO DO CASTELLO
+12 (2.57%)	 NORTHERN YUGOSLAVIA, VILLAGE NEAR ZAGREB
+10 (2.14%)	 VOJVODINA
+9 (1.93%)	 SHETLAND ISLANDS
+9 (1.93%)	 MACEDONIA, KRIVA PALANKA REGION, PSATCHA VILLAGE
+8 (1.71%)	 DORDOGNE DEPARTMENT, LE MOUSTIER
+8 (1.71%)	 ISLAND IN BALTIC SEA
+8 (1.71%)	 SOUTHERN YUGOSLAVIA
+7 (1.5%)	 MACEDONIA, GALITCHAK
+7 (1.5%)	 BALKANS
+7 (1.5%)	 CAUCASUS, TEREK RIVER
+6 (1.28%)	 DALMATIA, ZARA
+6 (1.28%)	 MINHO DISTRICT?
+5 (1.07%)	 LAPLAND
+5 (1.07%)	 CROATIA
+4 (0.86%)	 MAJORCA
+4 (0.86%)	 MALAGA
+3 (0.64%)	 CONSTANTINOPLE
+3 (0.64%)	 SOFIA
+3 (0.64%)	 PEC
+3 (0.64%)	 PAISLEY?
+2 (0.43%)	 TROJAN
+2 (0.43%)	 MACEDONIA, SKOPJE REGION
+2 (0.43%)	 PLORDAV
+
+==============================================================================
+Field: Material (121 unique values) / Top 30:
+------------------------------------------------------------------------------
+154 (32.98%)	 CLOTH (WOOL)
+34 (7.28%)	 CLOTH (COTTON, WOOL)
+33 (7.07%)	 CLOTH (COTTON)
+16 (3.43%)	 CLOTH
+16 (3.43%)	 CLOTH (WOOL, COTTON)
+13 (2.78%)	 METAL (GOLD)
+12 (2.57%)	 CLOTH (SILK)
+8 (1.71%)	 STONE
+7 (1.5%)	 CLOTH (LINEN)
+5 (1.07%)	 CLOTH (WOOL), COIN
+5 (1.07%)	 CLOTH (FLANNEL), RIBBON
+4 (0.86%)	 METAL (SILVER)
+4 (0.86%)	 LEATHER
+4 (0.86%)	 CLOTH (VELVET)
+4 (0.86%)	 CLOTH (COTTON, SILK)
+4 (0.86%)	 <empty>
+4 (0.86%)	 FUR (OTTER)
+3 (0.64%)	 CLOTH (COTTON, LINEN)
+3 (0.64%)	 CLOTH (COTTON), THREAD (SILK)
+3 (0.64%)	 CLOTH (WOOL), LACE
+3 (0.64%)	 CLOTH (COTTON), THREAD (WOOL)
+3 (0.64%)	 CLOTH (FLANNEL), FUR (OTTER)
+3 (0.64%)	 CLOTH (WOOL), THREAD (COTTON)
+3 (0.64%)	 CLOTH (LINEN), LACE
+2 (0.43%)	 CLOTH (WOOL), DYE
+2 (0.43%)	 CLOTH (LINEN, COTTON)
+2 (0.43%)	 CLOTH (COTTON), LACE
+2 (0.43%)	 CLOTH (LINEN), BEAD
+2 (0.43%)	 CLOTH (WOOL), THREAD (GOLD, SILVER), SEQUIN
+2 (0.43%)	 CLOTH (WOOL), SEQUIN, THREAD (SILVER, GOLD)
+
+==============================================================================
+Field: Period (8 unique values) / Top 30:
+------------------------------------------------------------------------------
+456 (97.64%)	 <empty>
+4 (0.86%)	 MOUSTERIAN
+2 (0.43%)	 ROMAN
+1 (0.21%)	 LAVALLOIS?
+1 (0.21%)	 MAGDALENIAN
+1 (0.21%)	 337-323 B.C.; HELLENISTIC
+1 (0.21%)	 527-565 A.D.
+1 (0.21%)	 BRONZE AGE
+
+==============================================================================
+Field: Subject (19 unique values) / Top 30:
+------------------------------------------------------------------------------
+447 (95.72%)	 <empty>
+2 (0.43%)	 TIBERIUS
+2 (0.43%)	 POLYCHROME FLORAL SPRAYS
+1 (0.21%)	 HORSE, DEER, SWAN
+1 (0.21%)	 ALEXANDER THE GREAT
+1 (0.21%)	 JUSTINIAN I
+1 (0.21%)	 CHRIST STANDING WITH ROMANUS IV AND EUDOCIA (?)
+1 (0.21%)	 ARABIC SCRIPT
+1 (0.21%)	 SCENE OF LAPPLAND
+1 (0.21%)	 DARK RED BLOSSOM
+1 (0.21%)	 DIAMOND AND FLORAL PATTERN
+1 (0.21%)	 PEONY AND OTHER FLORAL SPRAYS
+1 (0.21%)	 FLORAL SPRAYS
+1 (0.21%)	 RED VASES AND FLOWERS
+1 (0.21%)	 VINES, BIRDS, DEER, FISH
+1 (0.21%)	 STRIPED DESIGN
+1 (0.21%)	 GEOMETRIC PATTERN
+1 (0.21%)	 GEOMETRIC DESIGN
+1 (0.21%)	 FLOWERS, DIAMONDS
+
+==============================================================================
+Field: Technique (84 unique values) / Top 30:
+------------------------------------------------------------------------------
+199 (42.61%)	 <empty>
+70 (14.99%)	 EMBROIDERED
+35 (7.49%)	 KNIT
+17 (3.64%)	 KNIT, EMBROIDERED
+9 (1.93%)	 APPLIQUÉ
+6 (1.28%)	 HOMESPUN, EMBROIDERED
+5 (1.07%)	 WEFT STRIPES
+5 (1.07%)	 WARP PATTERN
+4 (0.86%)	 EMBROIDERED, APPLIQUÉ
+4 (0.86%)	 WOVEN BY WOMEN ON HORIZONTAL LOOM
+4 (0.86%)	 CROSS-STITCH EMBROIDERY
+4 (0.86%)	 EMBOSSED
+4 (0.86%)	 WEFT PATTERN STRIPES
+4 (0.86%)	 FLAKED
+3 (0.64%)	 WOVEN
+3 (0.64%)	 HAND WOVEN
+3 (0.64%)	 EMBROIDERED, CROCHET
+3 (0.64%)	 TWILL WEAVE
+3 (0.64%)	 WARP STRIPES, WEFT PILE WORK
+2 (0.43%)	 HAND WOVEN, CROCHET
+2 (0.43%)	 HAND LOOMED
+2 (0.43%)	 HAND LOOMED, CROCHET
+2 (0.43%)	 BROCADE
+2 (0.43%)	 TAPESTRY WEAVE
+2 (0.43%)	 WEFT PATTERN
+2 (0.43%)	 PLAIN WEAVE, EMBROIDERED
+2 (0.43%)	 CROCHET
+2 (0.43%)	 IKAT, EMBROIDERED, APPLIQUÉ
+2 (0.43%)	 WEFT STRIPES, CROCHET
+2 (0.43%)	 KNIT, CHAIN STITCH EMBROIDERY
+
+==============================================================================
+FIELD: Curatorial Notes
+------------------------------------------------------------------------------
+11 (2.36%)	 have
+456 (97.64%)	 don't have
+
+==============================================================================
+FIELD: Exhibition History
+------------------------------------------------------------------------------
+19 (4.07%)	 have
+448 (95.93%)	 don't have
+
+==============================================================================
+FIELD: Publication History
+------------------------------------------------------------------------------
+0 (0.0%)	 have
+467 (100.0%)	 don't have
+
+==============================================================================
+FIELD: Dimensions
+------------------------------------------------------------------------------
+204 (43.68%)	 have
+263 (56.32%)	 don't have
+
+==============================================================================
+FIELD: Thumb URL
+------------------------------------------------------------------------------
+467 (100.0%)	 have
+0 (0.0%)	 don't have
