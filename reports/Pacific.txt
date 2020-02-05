@@ -1,0 +1,412 @@
+Total item count: 25,987
+
+==============================================================================
+Field: Acquisition Year (238 unique values) / Top 30:
+------------------------------------------------------------------------------
+2,502 (9.63%)	 1933 [EXPEDITION]
+2,084 (8.02%)	 1891-1893 [PURCHASE]
+1,949 (7.5%)	 1909 [PURCHASE]
+1,440 (5.54%)	 1957 [PURCHASE]
+1,416 (5.45%)	 1898
+1,113 (4.28%)	 1964 [PURCHASE]
+860 (3.31%)	 1939 [GIFT]
+836 (3.22%)	 1929 [EXPEDITION]
+699 (2.69%)	 1930 [TRANSFER, EXPEDITION]
+529 (2.04%)	 1916 [PURCHASE]
+520 (2.0%)	 1953 [GIFT]
+515 (1.98%)	 <empty>
+515 (1.98%)	 1967 [PURCHASE]
+455 (1.75%)	 1958 [PURCHASE]
+414 (1.59%)	 1973 [PURCHASE]
+401 (1.54%)	 1946 [GIFT]
+392 (1.51%)	 1950 [GIFT]
+360 (1.39%)	 1896 [PURCHASE]
+348 (1.34%)	 1949 [GIFT]
+328 (1.26%)	 1960 [PURCHASE]
+301 (1.16%)	 1947 [GIFT]
+297 (1.14%)	 1936 [GIFT]
+256 (0.99%)	 1959 [PURCHASE]
+248 (0.95%)	 1908 [PURCHASE]
+243 (0.94%)	 1981 [GIFT]
+234 (0.9%)	 1896
+224 (0.86%)	 1907 [EXCHANGE]
+215 (0.83%)	 1926 [GIFT]
+199 (0.77%)	 1934 [GIFT]
+183 (0.7%)	 1961 [PURCHASE]
+
+==============================================================================
+Field: Categories (8 unique values) / Top 30:
+------------------------------------------------------------------------------
+7,953 (30.6%)	 WEAPONS AND AMMUNITION
+4,576 (17.61%)	 EQUIPMENT
+3,259 (12.54%)	 COSTUME
+2,150 (8.27%)	 CONTAINERS
+565 (2.17%)	 SOUND DEVICES
+436 (1.68%)	 FURNISHINGS
+212 (0.82%)	 RECREATIONAL ARTIFACTS
+164 (0.63%)	 TEXTILE
+
+==============================================================================
+Field: Collection (2 unique values) / Top 30:
+------------------------------------------------------------------------------
+25,624 (98.6%)	 PACIFIC ETHNOGRAPHIC COLLECTION
+363 (1.4%)	 PACIFIC ARCHAEOLOGICAL COLLECTION
+
+==============================================================================
+Field: Collector (23 unique values) / Top 30:
+------------------------------------------------------------------------------
+25,097 (96.58%)	 <empty>
+411 (1.58%)	 BURKE, JOHN, LT-COMMANDER
+104 (0.4%)	 FLAHERTY, DAVID
+61 (0.23%)	 GOULD, RICHARD, DR. AND MRS.
+60 (0.23%)	 BRASS, L.J.
+53 (0.2%)	 WYNAM, WALTER C., MR.
+40 (0.15%)	 BUTLER, HARRY
+37 (0.14%)	 WOLFF, P.E.
+26 (0.1%)	 WARINNER, JOHN M.?
+25 (0.1%)	 MENIL, ADELAIDE DE, AND CARPENTER, EDMUND
+25 (0.1%)	 SATTERLEE, GENERAL
+19 (0.07%)	 ROBLEY, MAJ. GEN.
+9 (0.03%)	 BERTHA SMALLEY
+4 (0.02%)	 DONOR'S BROTHER
+4 (0.02%)	 ZEGWAARD?, G., REVEREND
+4 (0.02%)	 DRUMMOND COLLECTION
+2 (0.01%)	 HOWES, SETH B.
+1 (0.0%)	 STOLPE, HJALMAR, MR.
+1 (0.0%)	 MRS. FLORENCE FINCH KELLEY OF NY TIMES
+1 (0.0%)	 CASPAR WHITNEY (DONOR'S FATHER)
+1 (0.0%)	 MCALPINE, VOLNEY, DR.
+1 (0.0%)	 AGASSIZ, A.
+1 (0.0%)	 C. F. BRIGGS, MR. AND MRS.
+
+==============================================================================
+Field: Country (27 unique values) / Top 30:
+------------------------------------------------------------------------------
+11,186 (43.04%)	 PAPUA NEW GUINEA
+2,989 (11.5%)	 <empty>
+2,137 (8.22%)	 SOLOMON ISLANDS
+2,078 (8.0%)	 REPUBLIC OF FIJI
+1,483 (5.71%)	 PAPUA NEW GUINEA?/INDONESIA?
+1,344 (5.17%)	 AUSTRALIA
+855 (3.29%)	 INDONESIA
+580 (2.23%)	 REPUBLIC OF VANUATU
+518 (1.99%)	 SOLOMON ISLANDS?
+460 (1.77%)	 NEW ZEALAND
+379 (1.46%)	 SAMOA
+352 (1.35%)	 FRENCH POLYNESIA (FRANCE)
+348 (1.34%)	 NEW GUINEA
+298 (1.15%)	 FEDERATED STATES OF MICRONESIA
+263 (1.01%)	 REPUBLIC OF KIRIBATI
+227 (0.87%)	 USA
+225 (0.87%)	 COOK ISLANDS (NEW ZEALAND)
+165 (0.63%)	 CHILE
+41 (0.16%)	 KINGDOM OF TONGA
+24 (0.09%)	 REPUBLIC OF PALAU
+16 (0.06%)	 FED STATES MICRONESIA? REPUBLIC PALAU?
+8 (0.03%)	 USA?
+6 (0.02%)	 AUSTRALIA?
+2 (0.01%)	 REPUBLIC OF THE MARSHALL ISLANDS
+1 (0.0%)	 USA?, FRANCE?
+1 (0.0%)	 USA?, NZ?
+1 (0.0%)	 KINGDON OF TONGA?
+
+==============================================================================
+Field: Culture (152 unique values) / Top 30:
+------------------------------------------------------------------------------
+19,245 (74.06%)	 <empty>
+641 (2.47%)	 TCHAMBULI
+565 (2.17%)	 TSEMBAGA
+511 (1.97%)	 ABELAM
+312 (1.2%)	 HULI
+269 (1.04%)	 ARAPESH, MOUNTAIN ARAPESH
+248 (0.95%)	 KUMA
+237 (0.91%)	 TCHAMBULI?
+222 (0.85%)	 MAORI
+216 (0.83%)	 WAPE
+210 (0.81%)	 MUNDUGUMOR
+201 (0.77%)	 KAKOLI
+200 (0.77%)	 PYGMY
+198 (0.76%)	 LUJERE
+171 (0.66%)	 KUMAN, NUMIOMANI TRIBE
+143 (0.55%)	 MAE
+138 (0.53%)	 MENDI
+124 (0.48%)	 PINTUPI
+121 (0.47%)	 PITJANTJARA
+113 (0.43%)	 ARAPESH, PLAINS ARAPESH
+110 (0.42%)	 IATMUL, EASTERN IATMUL, TAMBUNAN
+104 (0.4%)	 ARAPESH?
+98 (0.38%)	 ABELAM/PLAINS ARAPESH?
+83 (0.32%)	 ARUNTA
+81 (0.31%)	 KORFAN
+76 (0.29%)	 NGATATJARA
+73 (0.28%)	 LUFA
+71 (0.27%)	 USIAI
+70 (0.27%)	 ARAPESH, BEACH ARAPESH
+70 (0.27%)	 GURURUMBA
+
+==============================================================================
+Field: Date (18 unique values) / Top 30:
+------------------------------------------------------------------------------
+25,000 (96.2%)	 Century A.D.
+673 (2.59%)	 <empty>
+63 (0.24%)	 Century (1950s)
+49 (0.19%)	 Century
+46 (0.18%)	 Century (1882)
+44 (0.17%)	 Century (1884)
+32 (0.12%)	 Century (1880)
+30 (0.12%)	 Century (1879)
+25 (0.1%)	 Century (1885)
+9 (0.03%)	 Century (1881)
+4 (0.02%)	 Century?
+3 (0.01%)	 Century A.D.?
+3 (0.01%)	 Century (1993)
+2 (0.01%)	 Century (1882-1884)
+1 (0.0%)	 Century (1989?)
+1 (0.0%)	 Century (2015)
+1 (0.0%)	 Century (1881-1884)
+1 (0.0%)	 Century (1880-1885)
+
+==============================================================================
+Field: Donor (545 unique values) / Top 30:
+------------------------------------------------------------------------------
+3,403 (13.1%)	 MEAD, MARGARET, DR.
+2,129 (8.19%)	 STURGIS, APPLETON
+1,850 (7.12%)	 WATERS, JOHN WILLIAM
+1,369 (5.27%)	 FINSCH, OTTO
+1,249 (4.81%)	 GLASSE, ROBERT, M., DR.
+711 (2.74%)	 ARCHBOLD, MR. RICHARD
+699 (2.69%)	 AMNH, DEPARTMENT OF ORNITHOLOGY
+626 (2.41%)	 RAPPAPORT, ROY, MR.
+610 (2.35%)	 <empty>
+529 (2.04%)	 HOLLAND AMERICA LINE
+502 (1.93%)	 GOULD, RICHARD A., DR. AND MRS.
+414 (1.59%)	 MITCHELL, WILLIAM, DR.
+411 (1.58%)	 NAVY DEPARTMENT
+387 (1.49%)	 NEWTON, DOUGLAS
+337 (1.3%)	 ZEGWAARD, G., REVEREND
+331 (1.27%)	 GILLIARD, E. THOMAS, MR.
+303 (1.17%)	 BURKE, MARTIN, MRS.
+297 (1.14%)	 GAYLORD COLLECTION
+288 (1.11%)	 MORNER, HAMPUS, COUNT
+279 (1.07%)	 SCHROEDER
+279 (1.07%)	 LEDOUX, LOUIS PIERRE
+261 (1.0%)	 NEW GUINEA ADMIRALTY ISLAND EXPEDITION
+246 (0.95%)	 BIGGS, BRUCE, DR.
+226 (0.87%)	 BOWERS, NANCY
+202 (0.78%)	 NEWTON, DOUGLAS, MR.
+201 (0.77%)	 GUSINDE, MARTIN, FATHER
+195 (0.75%)	 CROCKER
+178 (0.68%)	 ENGLER COLLECTION
+175 (0.67%)	 DENIS, ARMAND, MR.
+173 (0.67%)	 ZIMMERMANN, F.L.
+
+==============================================================================
+Field: Hall (2 unique values) / Top 30:
+------------------------------------------------------------------------------
+25,062 (96.44%)	 <empty>
+925 (3.56%)	 Margaret Mead Hall of Pacific Peoples
+
+==============================================================================
+Field: Keywords (2,101 unique values) / Top 30:
+------------------------------------------------------------------------------
+4,062 (15.63%)	 ARROW
+1,351 (5.2%)	 SPEAR
+756 (2.91%)	 CLUB
+387 (1.49%)	 NECKLACE
+373 (1.44%)	 ADZE
+362 (1.39%)	 BOW
+359 (1.38%)	 BOWL
+337 (1.3%)	 TAPA
+321 (1.24%)	 ORNAMENT
+304 (1.17%)	 WAR CLUB
+294 (1.13%)	 CARVING
+257 (0.99%)	 THROWING CLUB
+256 (0.99%)	 MASK
+250 (0.96%)	 BAG
+244 (0.94%)	 ARMBAND
+237 (0.91%)	 BASKET
+237 (0.91%)	 SHELL
+217 (0.84%)	 FIGURE
+207 (0.8%)	 AXE
+205 (0.79%)	 FISH HOOK
+204 (0.79%)	 BELT
+188 (0.72%)	 FAN
+188 (0.72%)	 BLADE
+185 (0.71%)	 PADDLE
+184 (0.71%)	 COMB
+180 (0.69%)	 BRACELET
+176 (0.68%)	 BARKCLOTH
+172 (0.66%)	 FLUTE
+166 (0.64%)	 DAGGER
+163 (0.63%)	 MAT
+
+==============================================================================
+Field: Locale (1,481 unique values) / Top 30:
+------------------------------------------------------------------------------
+1,664 (6.4%)	 NEW GUINEA
+1,644 (6.33%)	 FIJI
+1,405 (5.41%)	 SOLOMON ISLANDS
+1,365 (5.25%)	 <empty>
+1,154 (4.44%)	 NEW GUINEA, AITAPE DISTRICT
+653 (2.51%)	 ADMIRALTY ISLANDS, MANUS
+511 (1.97%)	 SOLOMON ISLANDS?
+502 (1.93%)	 NEW GUINEA, ON THE AIBOM LAKE
+434 (1.67%)	 NEW GUINEA, (TERRITORY OF NEW GUINEA), MADANG DISTRICT
+358 (1.38%)	 SAMOA
+344 (1.32%)	 FIJI (FIJI ISLAND)
+297 (1.14%)	 NEW ZEALAND
+278 (1.07%)	 NEW GUINEA, (DUTCH NEW GUINEA), BALIEM VALLEY (BALIEN)
+258 (0.99%)	 SOLOMON ISLANDS, RENNELL ISLAND
+258 (0.99%)	 NEW GUINEA, (NETHERLANDS NEW GUINEA), ASMAT AREA
+253 (0.97%)	 NEW GUINEA, MOUNT HAGEN
+250 (0.96%)	 NEW GUINEA, KAUP
+246 (0.95%)	 NEW GUINEA, WESTERN HIGHLANDS DISTRICT, UPPER KAIRONK VALLEY
+234 (0.9%)	 NEW GUINEA, TCHAMBULI
+222 (0.85%)	 NEW GUINEA, NEW GUINEA HIGHLANDS, UPPER KAUGEL VALLEY
+217 (0.84%)	 NEW GUINEA, SEPIK RIVER, WEWAK DISTRICT (WIWAK DISTRICT)
+204 (0.79%)	 NEW GUINEA, WAHGI REGION
+198 (0.76%)	 ADMIRALTY ISLANDS
+198 (0.76%)	 NEW GUINEA, PAPUA NEW GUINEA, SEPIK AREA, ABOVE THE YELLOW RIVER
+185 (0.71%)	 NEW GUINEA, BETWEEN RAMU AND JIMMI RIVERS
+173 (0.67%)	 NEW IRELAND
+171 (0.66%)	 NEW GUINEA, (TERRITORY OF NEW GUINEA), EASTERN HIGHLANDS DISTRICT, CHIMBU VALLEY, GOROMOKO
+170 (0.65%)	 HAWAII
+152 (0.58%)	 NEW GUINEA, PAPUA, SOUTHERN HIGHLANDS DIVISION, TARI
+144 (0.55%)	 NEW GUINEA, (BRITISH NEW GUINEA), FLY RIVER
+
+==============================================================================
+Field: Material (4,587 unique values) / Top 30:
+------------------------------------------------------------------------------
+3,692 (14.21%)	 WOOD
+1,067 (4.11%)	 STONE
+936 (3.6%)	 WOOD, PIGMENT
+713 (2.74%)	 PLANT FIBER
+619 (2.38%)	 SHELL
+498 (1.92%)	 CANE, WOOD, PLANT FIBER, PIGMENT
+466 (1.79%)	 BAMBOO
+463 (1.78%)	 SHELL (COCONUT)
+442 (1.7%)	 <empty>
+420 (1.62%)	 WOOD, PLANT FIBER
+398 (1.53%)	 CANE, WOOD, PLANT FIBER
+346 (1.33%)	 CANE, WOOD
+296 (1.14%)	 BARKCLOTH, PIGMENT
+258 (0.99%)	 BARK, PIGMENT
+236 (0.91%)	 CANE, WOOD (PALM), PLANT FIBER, PIGMENT
+220 (0.85%)	 BONE
+199 (0.77%)	 PAPER, PAINT (WATERCOLOR)
+172 (0.66%)	 CANE
+159 (0.61%)	 GOURD
+155 (0.6%)	 WOOD, CORD
+152 (0.58%)	 PLANT FIBER, PIGMENT
+144 (0.55%)	 STRING, PIGMENT
+135 (0.52%)	 CORD
+113 (0.43%)	 GRASS
+113 (0.43%)	 BONE (CASSOWARY)
+110 (0.42%)	 BARKCLOTH
+110 (0.42%)	 WOOD, BAMBOO, PLANT FIBER
+103 (0.4%)	 BARK
+102 (0.39%)	 BAMBOO, WOOD, PLANT FIBER, PIGMENT
+95 (0.37%)	 SHELL, STRING
+
+==============================================================================
+Field: Period (1 unique values) / Top 30:
+------------------------------------------------------------------------------
+25,987 (100.0%)	 <empty>
+
+==============================================================================
+Field: Subject (338 unique values) / Top 30:
+------------------------------------------------------------------------------
+25,554 (98.33%)	 <empty>
+12 (0.05%)	 TITLE "TÄTOWIRUNG DER MOTU; PORT MORESBY"
+6 (0.02%)	 TITLE "TÄTOWIRUNG DER FRAUEN; PONAPÉ"
+5 (0.02%)	 HUMAN HEAD
+5 (0.02%)	 CROCODILE?
+5 (0.02%)	 HUMAN FIGURE
+5 (0.02%)	 FACE AND SCROLL
+5 (0.02%)	 TITLE "TÄTOWIRUNG"
+4 (0.02%)	 PIG
+4 (0.02%)	 BIRD
+4 (0.02%)	 INSTALLATION TITLE "PALIULI"
+4 (0.02%)	 TITLE "TÄTOWIRUNG; MORESBY-ARCH. "
+4 (0.02%)	 TITLE "MATUPI, NEU POMMERN "
+3 (0.01%)	 DIAMOND PATTERN
+3 (0.01%)	 OUTRIGGER CANOE WITH ACCESSORIES
+3 (0.01%)	 NAUTICAL DESIGN
+3 (0.01%)	 TITLE "PIAHLHAUS; HUMBOLDTBAI"
+3 (0.01%)	 TITLE "?VANAKA"; PORT MORESBY. MOTU"
+3 (0.01%)	 TITLE "TÄTOWIRUNG; HOODBAI. (FRAU)"
+3 (0.01%)	 TITLE "TÄTOWIRUNG. FRAUEN"
+3 (0.01%)	 TITLE "MOTU; PORT MORESBY"
+2 (0.01%)	 ANIMAL HEAD
+2 (0.01%)	 MAN BEING EATEN BY CROCODILE?
+2 (0.01%)	 HUMAN FIGURE?
+2 (0.01%)	 FISH
+2 (0.01%)	 BIRDS
+2 (0.01%)	 CONCENTRIC DIAMONDS
+2 (0.01%)	 MAN AND CROCODILE?
+2 (0.01%)	 HEAD
+2 (0.01%)	 TRADITIONAL SAMOAN OBJECTS
+
+==============================================================================
+Field: Technique (763 unique values) / Top 30:
+------------------------------------------------------------------------------
+15,743 (60.58%)	 <empty>
+2,741 (10.55%)	 CARVED
+1,341 (5.16%)	 INCISED
+1,080 (4.16%)	 PLAITED
+422 (1.62%)	 ENGRAVED
+313 (1.2%)	 PAINTED
+279 (1.07%)	 CARVED, PAINTED
+277 (1.07%)	 WOVEN
+199 (0.77%)	 WATERCOLOR
+166 (0.64%)	 BRAIDED
+158 (0.61%)	 PERFORATED
+141 (0.54%)	 CARVED, INCISED
+122 (0.47%)	 NOTCHED
+92 (0.35%)	 INCISED, PLAITED
+87 (0.33%)	 NETTED
+86 (0.33%)	 INCISED, CARVED
+76 (0.29%)	 BARBED
+60 (0.23%)	 PLAITED, INCISED
+57 (0.22%)	 CARVED, PLAITED
+47 (0.18%)	 ENGRAVED, CARVED
+45 (0.17%)	 CARVED, INLAY
+45 (0.17%)	 OPENWORK
+42 (0.16%)	 DRAWING, MONOCHROME
+37 (0.14%)	 KNOTLESS NETTING
+36 (0.14%)	 WOVEN, PAINTED
+36 (0.14%)	 INCISED, WRAPPING
+36 (0.14%)	 CARVED, RELIEF
+35 (0.13%)	 CARVED, PERFORATED
+34 (0.13%)	 INLAY
+33 (0.13%)	 FLAKED
+
+==============================================================================
+FIELD: Curatorial Notes
+------------------------------------------------------------------------------
+42 (0.16%)	 have
+25,945 (99.84%)	 don't have
+
+==============================================================================
+FIELD: Exhibition History
+------------------------------------------------------------------------------
+158 (0.61%)	 have
+25,829 (99.39%)	 don't have
+
+==============================================================================
+FIELD: Publication History
+------------------------------------------------------------------------------
+230 (0.89%)	 have
+25,757 (99.11%)	 don't have
+
+==============================================================================
+FIELD: Dimensions
+------------------------------------------------------------------------------
+24,876 (95.72%)	 have
+1,111 (4.28%)	 don't have
+
+==============================================================================
+FIELD: Thumb URL
+------------------------------------------------------------------------------
+25,987 (100.0%)	 have
+0 (0.0%)	 don't have
