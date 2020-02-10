@@ -72,6 +72,8 @@ for field in FIELDS_COUNTS:
 for field in FIELDS_HAS:
     has = 0
     for item in items:
+        if field not in item:
+            continue
         value = item[field]
         if isinstance(value, str) and len(value.strip()) > 0 or isinstance(value, list) and len(value) > 0:
             has += 1
