@@ -1,6 +1,20 @@
 
+def addNormalizedValues(arr, key, nkey):
+    if len(arr) < 1:
+        return arr
+
+    values = [v[key] for v in arr if v[key] is not None]
+    range = (min(values), max(values))
+    for i, entry in enumerate(arr):
+        arr[i][nkey] = norm(entry[key], range) if entry[key] is not None else 0
+    return arr
+
 def formatNumber(n):
     return "{:,}".format(n)
+
+def lerp(ab, amount):
+    a, b = ab
+    return (b-a) * amount + a
 
 def lim(value, ab=(0, 1)):
     a, b = ab

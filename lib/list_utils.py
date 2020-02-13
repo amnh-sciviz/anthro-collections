@@ -1,5 +1,6 @@
 import collections
-
+import itertools
+from operator import itemgetter
 import lib.math_utils as mu
 
 def countValues(arr, key, displayCount=-1, printLines=True):
@@ -27,6 +28,22 @@ def createLookup(arr, key):
 
 def flattenList(arr):
     return [item for sublist in arr for item in sublist]
+
+def groupList(arr, groupBy, sort=False, desc=True):
+    groups = []
+    arr = sorted(arr, key=itemgetter(groupBy))
+    for key, items in itertools.groupby(arr, key=itemgetter(groupBy)):
+        group = {}
+        litems = list(items)
+        count = len(litems)
+        group[groupBy] = key
+        group["items"] = litems
+        group["count"] = count
+        groups.append(group)
+    if sort:
+        reversed = desc
+        groups = sorted(groups, key=lambda k: k["count"], reverse=reversed)
+    return groups
 
 def unique(arr):
     return list(set(arr))
