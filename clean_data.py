@@ -103,7 +103,7 @@ for i, item in enumerate(items):
 
 # lu.countValues(items, "Country")
 
-_, countrySynonyms = io.readCsv("data/CountriesSynonyms.csv")
+_, countrySynonyms = io.readCsv("data/usergen/CountriesSynonyms.csv")
 countrySynonymLookup = lu.createLookup(countrySynonyms, "alt")
 
 for i, item in enumerate(items):
@@ -133,7 +133,7 @@ for i, item in enumerate(items):
 
 # Attempt to retrieve country lat lon
 # Reference: https://developers.google.com/public-data/docs/canonical/countries_csv
-_, countryLatLons = io.readCsv("data/CountriesLatLon.csv")
+_, countryLatLons = io.readCsv("data/vendor/CountriesLatLon.csv")
 countryLatLonLookup = lu.createLookup(countryLatLons, "name")
 
 # uCountries = lu.unique([item["Country"] for item in cleanedItems])
