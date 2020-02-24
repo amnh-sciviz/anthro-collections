@@ -1,4 +1,7 @@
 
+import math
+import random
+
 def addNormalizedValues(arr, key, nkey):
     if len(arr) < 1:
         return arr
@@ -48,3 +51,10 @@ def parseNumbers(arr):
                 if key != "id":
                     arr[i][key] = parseNumber(item[key])
     return arr
+
+def randomPointInCircle(cx, cy, radius):
+    r = radius * math.sqrt(random.random())
+    theta = random.random() * 2 * math.pi
+    x = cx + r * math.cos(theta)
+    y = cy + r * math.sin(theta)
+    return (x, y)
