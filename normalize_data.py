@@ -44,6 +44,8 @@ itemCount = len(items)
 
 # this is where the normalized data will go
 cleanedItems = [{
+    "Catalog No": item["Catalog No"],
+    "Filename": os.path.basename(item["Thumb URL"]),
     "Region": item["Region"],
     "Acquisition Year": 9999,
     "Acquisition Type": "Unknown",
@@ -55,7 +57,9 @@ cleanedItems = [{
     "Hall": "",
     "Donor": "",
     "Donor Confidence": 0,
-    "Expedition": ""
+    "Expedition": "",
+    "Latitude": 9999,
+    "Longitude": 9999
 } for item in items]
 
 # Debugging...
@@ -191,6 +195,9 @@ for i, item in enumerate(items):
 
     if country not in countryLookup:
         countryConfidence *= 0.5
+    else:
+        cleanedItems[i]["Latitude"] = countryLookup[country]["latitude"]
+        cleanedItems[i]["Longitude"] = countryLookup[country]["longitude"]
 
     cleanedItems[i]["Country"] = country
     cleanedItems[i]["Country Confidence"] = countryConfidence
