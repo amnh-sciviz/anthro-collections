@@ -93,6 +93,8 @@ for i, item in enumerate(items):
 
     if isValidYear(year):
         cleanedItems[i]["Acquisition Year"] = year
+        cleanedItems[i]["Acquisition Year Confidence"] = 1.0
+        cleanedItems[i]["Acquisition Era"] = str(year)[:2] + "00s"
         continue
 
     # Try to match against pattern
