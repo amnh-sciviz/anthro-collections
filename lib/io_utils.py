@@ -102,7 +102,7 @@ def parseQueryString(queryStr, parseNumbers=True):
             query[key] = mu.parseNumber(query[key])
     return query
 
-def readCsv(filename, verbose=True):
+def readCsv(filename, verbose=True, parseNumbers=True):
     rows = []
     fieldnames = []
     if os.path.isfile(filename):
@@ -112,7 +112,8 @@ def readCsv(filename, verbose=True):
             if len(lines) > 0:
                 fieldnames = list(reader.fieldnames)
             rows = list(reader)
-            rows = mu.parseNumbers(rows)
+            if parseNumbers:
+                rows = mu.parseNumbers(rows)
             if verbose:
                 print("Read %s rows from %s" % (len(rows), filename))
     return (fieldnames, rows)
